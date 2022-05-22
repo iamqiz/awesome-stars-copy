@@ -471,6 +471,8 @@
 
 ## Python 
 
+- [GuocaiL/nlp_corpus](https://github.com/GuocaiL/nlp_corpus) - 本人项目进行中搜集的数据集，包含原始数据和经过处理后的数据，项目持续更新。
+- [invl/pip-autoremove](https://github.com/invl/pip-autoremove) - Remove a package and its unused dependencies.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [nyu-mll/GLUE-baselines](https://github.com/nyu-mll/GLUE-baselines) - [DEPRECATED] Repo for exploring multi-task learning approaches to learning sentence representations
@@ -770,6 +772,7 @@
 
 ## TypeScript 
 
+- [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library
 - [StarlaneStudios/vscode-comment-anchors](https://github.com/StarlaneStudios/vscode-comment-anchors) - ⚓A Visual Studio Code extension that adds support for comment anchors 🔭
 - [yuhaofe/Quick-Bookmarks-Menu](https://github.com/yuhaofe/Quick-Bookmarks-Menu) - A chrome extension gives you quick access to your bookmarks.
 - [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - PDF translation add-on for Zotero 6
