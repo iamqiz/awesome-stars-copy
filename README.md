@@ -194,6 +194,7 @@
 
 ## Go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -393,6 +394,7 @@
 
 ## Others 
 
+- [aardio/ImTip](https://github.com/aardio/ImTip) - 通用输入法状态（中/英、全/半角、标点、大写）提示
 - [nndl/solutions](https://github.com/nndl/solutions) - 《神经网络与深度学习》课后习题答案-分享讨论
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
