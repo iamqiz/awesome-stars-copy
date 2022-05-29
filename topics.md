@@ -582,6 +582,7 @@
 
 ## java 
 
+- [JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore) - .ignore support plugin for IntelliJ IDEA
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [kstenschke/referencer-plugin](https://github.com/kstenschke/referencer-plugin) - "Referencer" plugin for Jetbrains IDEs
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
