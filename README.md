@@ -278,6 +278,7 @@
 
 ## JavaScript 
 
+- [asamuzaK/url2clipboard](https://github.com/asamuzaK/url2clipboard) - Copy document URL / link URL to clipboard as HTML, Markdown, BBCode, Text, etc.
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [siyuan-note/siyuan-chrome](https://github.com/siyuan-note/siyuan-chrome) - 思源笔记 Chrome 扩展。A Chrome extension for SiYuan.
 - [wshanks/Zutilo](https://github.com/wshanks/Zutilo) - Zotero plugin providing some additional editing features
