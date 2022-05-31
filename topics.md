@@ -874,6 +874,7 @@
 
 ## others 
 
+- [asamuzaK/url2clipboard](https://github.com/asamuzaK/url2clipboard) - Copy document URL / link URL to clipboard as HTML, Markdown, BBCode, Text, etc.
 - [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [codota/tabnine-intellij](https://github.com/codota/tabnine-intellij) - Jetbrains IDEs client for TabNine. Compatible with all IntelliJ-based IDEs. https://plugins.jetbrains.com/plugin/12798-tabnine
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
