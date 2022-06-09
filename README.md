@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet download manager for HTTP(S), FTP(S), magnet-link, BitTorrent, ed2k, and online videos
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
