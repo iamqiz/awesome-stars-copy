@@ -188,6 +188,7 @@
 
 ## CSS 
 
+- [cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com) - 骂人宝典（祖安语录）
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - :book: [译] scikit-learn（sklearn） 中文文档
@@ -520,7 +521,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [gaohongkui/TPLinker-NER](https://github.com/gaohongkui/TPLinker-NER) - TPlinker for NER 中文/英文命名实体识别
 - [v-mipeng/LexiconAugmentedNER](https://github.com/v-mipeng/LexiconAugmentedNER) - Reject complicated operations for incorporating lexicon for Chinese NER.
-- [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [bojone/SimCSE](https://github.com/bojone/SimCSE) - SimCSE在中文任务上的简单实验
 - [alibaba-edu/simple-effective-text-matching-pytorch](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch) - A pytorch implementation of the ACL2019 paper "Simple and Effective Text Matching with Richer Alignment Features".
 - [StonyBrookNLP/deformer](https://github.com/StonyBrookNLP/deformer) - [ACL 2020] DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering
