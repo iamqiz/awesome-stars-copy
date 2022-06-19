@@ -524,7 +524,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [gaohongkui/TPLinker-NER](https://github.com/gaohongkui/TPLinker-NER) - TPlinker for NER 中文/英文命名实体识别
 - [v-mipeng/LexiconAugmentedNER](https://github.com/v-mipeng/LexiconAugmentedNER) - Reject complicated operations for incorporating lexicon for Chinese NER.
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models for state-of-the-art AI research, and deploy them with Lightning Apps (end-to-end ML systems).
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
 - [bojone/SimCSE](https://github.com/bojone/SimCSE) - SimCSE在中文任务上的简单实验
 - [alibaba-edu/simple-effective-text-matching-pytorch](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch) - A pytorch implementation of the ACL2019 paper "Simple and Effective Text Matching with Richer Alignment Features".
 - [StonyBrookNLP/deformer](https://github.com/StonyBrookNLP/deformer) - [ACL 2020] DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering
@@ -813,7 +813,7 @@
 - [mrjackphil/obsidian-jump-to-link](https://github.com/mrjackphil/obsidian-jump-to-link) - Quick jump between links using hotkeys
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [polywock/globalSpeed](https://github.com/polywock/globalSpeed) - Web extension to set a default speed for video and audio
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://githu
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [pagenote/pagenote](https://github.com/pagenote/pagenote) - 超简单的网页关键词高亮、标注SDK、能把笔记留在网页里。
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
