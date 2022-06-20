@@ -199,6 +199,7 @@
 
 ## Go 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -288,6 +289,7 @@
 
 ## JavaScript 
 
+- [tech-fever/GLaDOS_Checkin](https://github.com/tech-fever/GLaDOS_Checkin) - GLaDOS自动签到js脚本
 - [Zuoqiu-Yingyi/siyuan-theme-dark-plus](https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus) - 思源笔记的一款双色主题 | A bicolor theme of SiYuan Note.
 - [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus) - New Tab mix plus for modern Firefox
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
@@ -413,6 +415,7 @@
 
 ## Others 
 
+- [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
 - [aardio/ImTip](https://github.com/aardio/ImTip) - 通用输入法状态跟踪提示，仅用两个字符就可提示中英、全半角、大小写、中英标点、多语言键盘布局等所有状态。
 - [nndl/solutions](https://github.com/nndl/solutions) - 《神经网络与深度学习》课后习题答案-分享讨论
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
