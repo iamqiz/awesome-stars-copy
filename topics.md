@@ -544,6 +544,7 @@
 
 ## hacktoberfest 
 
+- [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [JetBrains/rd](https://github.com/JetBrains/rd) - Reactive Distributed communication framework for .net, kotlin, js. Inspired by Rider IDE.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -593,6 +594,7 @@
 
 ## ipfs 
 
+- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 
 ## java 
@@ -896,6 +898,9 @@
 
 ## others 
 
+- [git-for-windows/git-for-windows.github.io](https://github.com/git-for-windows/git-for-windows.github.io) - Git for Windows' home page
+- [cmf/psiviewer](https://github.com/cmf/psiviewer) - PSI Viewer for IntelliJ IDEA plugin development
+- [JetBrains/Grammar-Kit](https://github.com/JetBrains/Grammar-Kit) - Grammar files support & parser/PSI generation for IntelliJ IDEA
 - [Tongjilibo/bert4torch](https://github.com/Tongjilibo/bert4torch) - 参考bert4keras的pytorch实现
 - [tech-fever/GLaDOS_Checkin](https://github.com/tech-fever/GLaDOS_Checkin) - GLaDOS自动签到js脚本
 - [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
@@ -1256,6 +1261,7 @@
 
 ## p2p 
 
+- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
 ## package-manager 
