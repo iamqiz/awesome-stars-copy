@@ -545,7 +545,7 @@
 ## hacktoberfest 
 
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
-- [JetBrains/rd](https://github.com/JetBrains/rd) - Reactive Distributed communication framework for .net, kotlin, js. Inspired by Rider IDE.
+- [JetBrains/rd](https://github.com/JetBrains/rd) - Reactive Distributed communication framework for .NET, Kotlin, C++. Inspired by Rider IDE.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
@@ -898,6 +898,7 @@
 
 ## others 
 
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [git-for-windows/git-for-windows.github.io](https://github.com/git-for-windows/git-for-windows.github.io) - Git for Windows' home page
 - [cmf/psiviewer](https://github.com/cmf/psiviewer) - PSI Viewer for IntelliJ IDEA plugin development
 - [JetBrains/Grammar-Kit](https://github.com/JetBrains/Grammar-Kit) - Grammar files support & parser/PSI generation for IntelliJ IDEA
