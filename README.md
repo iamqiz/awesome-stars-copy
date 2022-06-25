@@ -384,6 +384,7 @@
 
 ## Kotlin 
 
+- [JetBrains/intellij-plugin-verifier](https://github.com/JetBrains/intellij-plugin-verifier) - Compatibility verification tool for IntelliJ Platform plugins
 - [meanmail-dev/prettify-python-plugin](https://github.com/meanmail-dev/prettify-python-plugin) - Intellij IDE plugin
 - [rendner/py-prefix-fstring-plugin](https://github.com/rendner/py-prefix-fstring-plugin) - A "prefix f-string" intention for IntelliJ.
 - [JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore) - .ignore support plugin for IntelliJ IDEA
