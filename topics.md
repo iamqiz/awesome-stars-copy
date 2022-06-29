@@ -238,6 +238,7 @@
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [dubox/jSearch](https://github.com/dubox/jSearch) - jSearch(聚搜) 是一款专注内容的chrome搜索扩展，一次搜索聚合多平台内容。
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
