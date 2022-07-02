@@ -911,7 +911,6 @@
 
 ## others 
 
-- [tech-fever/nezha_telegram_bot](https://github.com/tech-fever/nezha_telegram_bot) - https://t.me/nezhaChecker_bot 哪吒面板查询telegram机器人。Telegram bot for servers data query via Nezha Panel.
 - [JetBrains/intellij-plugin-verifier](https://github.com/JetBrains/intellij-plugin-verifier) - Compatibility verification tool for IntelliJ Platform plugins
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [git-for-windows/git-for-windows.github.io](https://github.com/git-for-windows/git-for-windows.github.io) - Git for Windows' home page
