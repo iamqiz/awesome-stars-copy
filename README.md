@@ -131,6 +131,7 @@
 
 ## C++ 
 
+- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
@@ -426,6 +427,7 @@
 
 ## Others 
 
+- [gejun123456/MyBatisCodeHelper-Pro](https://github.com/gejun123456/MyBatisCodeHelper-Pro) - 
 - [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
 - [aardio/ImTip](https://github.com/aardio/ImTip) - 通用输入法状态跟踪提示，仅用两个字符就可提示中英、全半角、大小写、中英标点、多语言键盘布局等所有状态。
 - [nndl/solutions](https://github.com/nndl/solutions) - 《神经网络与深度学习》课后习题答案-分享讨论
