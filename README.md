@@ -243,6 +243,7 @@
 
 ## Java 
 
+- [anlingyi/xechat-idea](https://github.com/anlingyi/xechat-idea) - 让你能够在IDEA里实现聊天、下棋、斗地主！
 - [guoci/pycharm-smart-execute](https://github.com/guoci/pycharm-smart-execute) - PyCharm plugin to execute python code
 - [cmf/psiviewer](https://github.com/cmf/psiviewer) - PSI Viewer for IntelliJ IDEA plugin development
 - [JetBrains/Grammar-Kit](https://github.com/JetBrains/Grammar-Kit) - Grammar files support & parser/PSI generation for IntelliJ IDEA
@@ -510,6 +511,7 @@
 
 ## Python 
 
+- [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [romis2012/python-socks](https://github.com/romis2012/python-socks) - Core proxy client (SOCKS4, SOCKS5, HTTP) functionality for Python
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [donkirkby/live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
@@ -545,7 +547,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [gaohongkui/TPLinker-NER](https://github.com/gaohongkui/TPLinker-NER) - TPlinker for NER 中文/英文命名实体识别
 - [v-mipeng/LexiconAugmentedNER](https://github.com/v-mipeng/LexiconAugmentedNER) - Reject complicated operations for incorporating lexicon for Chinese NER.
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch) and ML systems for the ML lifecycle with an obsessive focus on flexibility and perfor
 - [bojone/SimCSE](https://github.com/bojone/SimCSE) - SimCSE在中文任务上的简单实验
 - [alibaba-edu/simple-effective-text-matching-pytorch](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch) - A pytorch implementation of the ACL2019 paper "Simple and Effective Text Matching with Richer Alignment Features".
 - [StonyBrookNLP/deformer](https://github.com/StonyBrookNLP/deformer) - [ACL 2020] DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering
