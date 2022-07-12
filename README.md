@@ -15,6 +15,7 @@
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -241,6 +242,10 @@
 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
+## Inno Setup 
+
+- [lqinyli/typroaction](https://github.com/lqinyli/typroaction) - 
+
 ## Java 
 
 - [anlingyi/xechat-idea](https://github.com/anlingyi/xechat-idea) - 让你能够在IDEA里实现聊天、下棋、斗地主！
@@ -439,6 +444,7 @@
 - [github-community/community](https://github.com/github-community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
+- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [aardio/Gif123](https://github.com/aardio/Gif123) - Record an area of your desktop to a GIF, easily copy and paste it wherever you want.
 - [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 - [carrie0307/DL_EventExtractionPapers](https://github.com/carrie0307/DL_EventExtractionPapers) - 2015年以来基于深度学习方法的事件抽取论文整理
@@ -527,7 +533,6 @@
 - [guofei9987/scikit-opt](https://github.com/guofei9987/scikit-opt) - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling sales
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [saleguas/freshen-file-sorter](https://github.com/saleguas/freshen-file-sorter) - A super-convenient Python file sorter that attaches to your context menu!
-- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [CBLUEbenchmark/CBLUE](https://github.com/CBLUEbenchmark/CBLUE) - 中文医疗信息处理基准CBLUE: A Chinese Biomedical Language Understanding Evaluation Benchmark
 - [magical2world/tf-hierarchical-rnn](https://github.com/magical2world/tf-hierarchical-rnn) - 
