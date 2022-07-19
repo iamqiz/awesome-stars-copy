@@ -46,6 +46,7 @@
 
 ## AutoHotkey 
 
+- [telppa/KMCounter](https://github.com/telppa/KMCounter) - Use heatmap to show mouse and keyboard usage. 使用热力图显示鼠标与键盘使用情况的工具。
 - [marius-sucan/KeyPress-OSD](https://github.com/marius-sucan/KeyPress-OSD) - This program is an On-Screen Display or a Heads-Up Display for keys. It displays every key press at a clearly visible text size. It is developed for people with poor eye sight. It is meant to aid desk
 - [snolab/CapsLockX](https://github.com/snolab/CapsLockX) - Operate the computer like a hacker! 像黑客一样操作电脑！
 - [telppa/PaddleOCR-AutoHotkey](https://github.com/telppa/PaddleOCR-AutoHotkey) - PaddleOCR AutoHotkey Version. PaddleOCR AHK 版。
@@ -233,6 +234,7 @@
 
 ## HTML 
 
+- [coralsw/CapsEz](https://github.com/coralsw/CapsEz) - KeyMouse Tools
 - [git-for-windows/git-for-windows.github.io](https://github.com/git-for-windows/git-for-windows.github.io) - Git for Windows' home page
 - [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
 - [wyagd001/wyagd001.github.io](https://github.com/wyagd001/wyagd001.github.io) - 个人主页, Autohotkey  中文帮助, 自用脚本介绍
@@ -310,6 +312,7 @@
 
 ## JavaScript 
 
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [tech-fever/GLaDOS_Checkin](https://github.com/tech-fever/GLaDOS_Checkin) - GLaDOS自动签到js脚本
 - [Zuoqiu-Yingyi/siyuan-theme-dark-plus](https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus) - 思源笔记的一款双色主题 | A bicolor theme of SiYuan Note.
