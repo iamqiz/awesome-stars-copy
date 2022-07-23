@@ -658,6 +658,7 @@
 
 ## javascript 
 
+- [l0o0/translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取插件
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
