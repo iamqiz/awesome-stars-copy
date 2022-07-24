@@ -803,6 +803,7 @@
 
 ## markdown 
 
+- [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
@@ -1132,7 +1133,7 @@
 - [yu-liang-kono/pdf2htmlEXOptimize](https://github.com/yu-liang-kono/pdf2htmlEXOptimize) - A python tool to reduce pdf2htmlEX output file size.
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [AutoHotkey-Plus/vscode-autohotkey](https://github.com/AutoHotkey-Plus/vscode-autohotkey) - AutoHotkey language support for Visual Studio Code
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [cmiscm/stickerjs](https://github.com/cmiscm/stickerjs) - 
 - [elvirbrk/NoteHighlight2016](https://github.com/elvirbrk/NoteHighlight2016) - Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit)
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
