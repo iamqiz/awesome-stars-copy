@@ -215,6 +215,7 @@
 
 ## Go 
 
+- [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -821,6 +822,7 @@
 
 ## Shell 
 
+- [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
