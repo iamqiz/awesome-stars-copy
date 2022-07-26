@@ -508,7 +508,7 @@
 
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- [github-community/community](https://github.com/github-community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
+- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -852,6 +852,7 @@
 
 ## nlp 
 
+- [Tongjilibo/bert4torch](https://github.com/Tongjilibo/bert4torch) - 参考bert4keras的pytorch实现
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [alibaba-edu/simple-effective-text-matching-pytorch](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch) - A pytorch implementation of the ACL2019 paper "Simple and Effective Text Matching with Richer Alignment Features".
@@ -936,7 +937,6 @@
 - [git-for-windows/git-for-windows.github.io](https://github.com/git-for-windows/git-for-windows.github.io) - Git for Windows' home page
 - [cmf/psiviewer](https://github.com/cmf/psiviewer) - PSI Viewer for IntelliJ IDEA plugin development
 - [JetBrains/Grammar-Kit](https://github.com/JetBrains/Grammar-Kit) - Grammar files support & parser/PSI generation for IntelliJ IDEA
-- [Tongjilibo/bert4torch](https://github.com/Tongjilibo/bert4torch) - 参考bert4keras的pytorch实现
 - [tech-fever/GLaDOS_Checkin](https://github.com/tech-fever/GLaDOS_Checkin) - GLaDOS自动签到js脚本
 - [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
 - [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus) - New Tab mix plus for modern Firefox
@@ -1421,6 +1421,7 @@
 
 ## pytorch 
 
+- [Tongjilibo/bert4torch](https://github.com/Tongjilibo/bert4torch) - 参考bert4keras的pytorch实现
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [gaohongkui/TPLinker-NER](https://github.com/gaohongkui/TPLinker-NER) - TPlinker for NER 中文/英文命名实体识别
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch) and ML systems for the ML lifecycle with an obsessive focus on flexibility and perfor
