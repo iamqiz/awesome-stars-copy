@@ -216,6 +216,8 @@
 
 ## Go 
 
+- [88250/gulu](https://github.com/88250/gulu) - ⭕ Go 语言常用工具库，这个轱辘还算圆！
+- [common-nighthawk/go-figure](https://github.com/common-nighthawk/go-figure) - Prints ASCII art from text.
 - [siyuan-note/bazaar](https://github.com/siyuan-note/bazaar) - SiYuan community bazaar. 思源笔记社区集市。
 - [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
