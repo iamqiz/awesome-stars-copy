@@ -933,7 +933,7 @@
 - [JetBrains/icons](https://github.com/JetBrains/icons) - A set of icons used in JetBrains' web applications
 - [88250/gulu](https://github.com/88250/gulu) - ⭕ Go 语言常用工具库，这个轱辘还算圆！
 - [common-nighthawk/go-figure](https://github.com/common-nighthawk/go-figure) - Prints ASCII art from text.
-- [kazhafeizhale/super_command](https://github.com/kazhafeizhale/super_command) - Snippet management tools, if ahK code, can be executed directly
+- [kazhafeizhale/super_command](https://github.com/kazhafeizhale/super_command) - Snippet management tools, if ahK python bat ...code, can be executed directly
 - [ZindexYG/na-example](https://github.com/ZindexYG/na-example) - Node - Github Action - Dockhub
 - [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus) - An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager".
 - [siyuan-note/bazaar](https://github.com/siyuan-note/bazaar) - SiYuan community bazaar. 思源笔记社区集市。
