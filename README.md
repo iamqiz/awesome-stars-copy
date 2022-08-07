@@ -47,7 +47,7 @@
 
 ## AutoHotkey 
 
-- [kazhafeizhale/super_command](https://github.com/kazhafeizhale/super_command) - Snippet management tools, if ahK python bat ...code, can be executed directly
+- [kazhafeizhale/super-command](https://github.com/kazhafeizhale/super-command) - Snippet management tools, if ahK python bat ...code, can be executed directly
 - [telppa/KMCounter](https://github.com/telppa/KMCounter) - Use heatmap to show mouse and keyboard usage. 使用热力图显示鼠标与键盘使用情况的工具。
 - [marius-sucan/KeyPress-OSD](https://github.com/marius-sucan/KeyPress-OSD) - This program is an On-Screen Display or a Heads-Up Display for keys. It displays every key press at a clearly visible text size. It is developed for people with poor eye sight. It is meant to aid desk
 - [snolab/CapsLockX](https://github.com/snolab/CapsLockX) - Operate the computer like a hacker! 像黑客一样操作电脑！
