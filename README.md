@@ -369,7 +369,7 @@
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [deepwel/Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator) - Annotator for Chinese Text Corpus (UNDER DEVELOPMENT) 中文文本标注工具
 - [javallone/regexper](https://github.com/javallone/regexper) - Regular Expression Visualization Site
 - [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
