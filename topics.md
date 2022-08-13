@@ -41,6 +41,7 @@
 - [electron](#electron)
 - [emacs](#emacs)
 - [emulator](#emulator)
+- [express](#express)
 - [firefox](#firefox)
 - [flask](#flask)
 - [font](#font)
@@ -107,6 +108,7 @@
 - [scala](#scala)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
+- [server](#server)
 - [shell](#shell)
 - [software](#software)
 - [spring](#spring)
@@ -461,6 +463,10 @@
 
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
+## express 
+
+- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+
 ## firefox 
 
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -668,6 +674,7 @@
 
 ## javascript 
 
+- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [l0o0/translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取插件
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
@@ -920,6 +927,7 @@
 
 ## nodejs 
 
+- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -933,6 +941,8 @@
 
 ## others 
 
+- [leolee9086/naive](https://github.com/leolee9086/naive) - 
+- [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - PDF Preview for Zotero.
 - [danmarshall/google-font-to-svg-path](https://github.com/danmarshall/google-font-to-svg-path) - Create an SVG path from a Google font
 - [JetBrains/icons](https://github.com/JetBrains/icons) - A set of icons used in JetBrains' web applications
 - [88250/gulu](https://github.com/88250/gulu) - ⭕ Go 语言常用工具库，这个轱辘还算圆！
@@ -1077,7 +1087,7 @@
 - [cccshuang/DMCNN_torch](https://github.com/cccshuang/DMCNN_torch) - 
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
-- [neulab/ExplainaBoard](https://github.com/neulab/ExplainaBoard) - An Explainable Leaderboard for NLP
+- [neulab/ExplainaBoard](https://github.com/neulab/ExplainaBoard) - Interpretable Evaluation for AI Systems
 - [princeton-nlp/LM-BFF](https://github.com/princeton-nlp/LM-BFF) - ACL'2021: LM-BFF: Better Few-shot Fine-tuning of Language Models
 - [aivolcano/feature_extraction](https://github.com/aivolcano/feature_extraction) - 
 - [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
@@ -1548,6 +1558,10 @@
 - [itext/itext7](https://github.com/itext/itext7) - iText 7 for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capa
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [duoergun0729/nlp](https://github.com/duoergun0729/nlp) - 兜哥出品 &lt;一本开源的NLP入门书籍&gt;
+
+## server 
+
+- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 
 ## shell 
 
