@@ -941,7 +941,8 @@
 
 ## others 
 
-- [leolee9086/naive](https://github.com/leolee9086/naive) - 
+- [kira-96/Inno-Setup-Chinese-Simplified-Translation](https://github.com/kira-96/Inno-Setup-Chinese-Simplified-Translation) - :mask:  Inno Setup Chinese Simplified Translation
+- [leolee9086/naive](https://github.com/leolee9086/naive) - 重构后的发布示例
 - [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - PDF Preview for Zotero.
 - [danmarshall/google-font-to-svg-path](https://github.com/danmarshall/google-font-to-svg-path) - Create an SVG path from a Google font
 - [JetBrains/icons](https://github.com/JetBrains/icons) - A set of icons used in JetBrains' web applications
