@@ -327,6 +327,7 @@
 
 ## JavaScript 
 
+- [weihan-Chen/WordCounter](https://github.com/weihan-Chen/WordCounter) - 用于字符统计的思源挂件
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [leolee9086/naive](https://github.com/leolee9086/naive) - 重构后的发布示例
 - [danmarshall/google-font-to-svg-path](https://github.com/danmarshall/google-font-to-svg-path) - Create an SVG path from a Google font
@@ -550,6 +551,8 @@
 
 ## Python 
 
+- [simgunz/anki21-addons_minimize-to-tray](https://github.com/simgunz/anki21-addons_minimize-to-tray) - Anki add-on that adds an icon to the system tray in order to allow minimizing Anki
+- [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [romis2012/python-socks](https://github.com/romis2012/python-socks) - Core proxy client (SOCKS4, SOCKS5, HTTP) functionality for Python
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
