@@ -941,6 +941,9 @@
 
 ## others 
 
+- [simgunz/anki21-addons_minimize-to-tray](https://github.com/simgunz/anki21-addons_minimize-to-tray) - Anki add-on that adds an icon to the system tray in order to allow minimizing Anki
+- [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
+- [weihan-Chen/WordCounter](https://github.com/weihan-Chen/WordCounter) - 用于字符统计的思源挂件
 - [kira-96/Inno-Setup-Chinese-Simplified-Translation](https://github.com/kira-96/Inno-Setup-Chinese-Simplified-Translation) - :mask:  Inno Setup Chinese Simplified Translation
 - [leolee9086/naive](https://github.com/leolee9086/naive) - 重构后的发布示例
 - [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - PDF Preview for Zotero.
