@@ -104,6 +104,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [github/VisualStudio](https://github.com/github/VisualStudio) - GitHub Extension for Visual Studio
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
@@ -756,7 +757,7 @@
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 - [WenRichard/KBQA-BERT](https://github.com/WenRichard/KBQA-BERT) - 基于知识图谱的问答系统，BERT做命名实体识别和句子相似度，分为online和outline模式
 - [SmallVagetable/machine_learning_python](https://github.com/SmallVagetable/machine_learning_python) - 通过阅读网上的资料代码，进行自我加工，努力实现常用的机器学习算法。实现算法有KNN、Kmeans、EM、Perceptron、决策树、逻辑回归、svm、adaboost、朴素贝叶斯
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。
 - [Dod-o/NLP-practice-program](https://github.com/Dod-o/NLP-practice-program) - 力求囊括主流NLP模型练手项目，不断更新中
 - [Dod-o/Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
 - [NLP-LOVE/Introduction-NLP](https://github.com/NLP-LOVE/Introduction-NLP) - HanLP作者的新书《自然语言处理入门》详细笔记！业界良心之作，书中不是枯燥无味的公式罗列，而是用白话阐述的通俗易懂的算法模型。从基本概念出发，逐步介绍中文分词、词性标注、命名实体识别、信息抽取、文本聚类、文本分类、句法分析这几个热门问题的算法原理与工程实现。
