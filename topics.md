@@ -207,6 +207,7 @@
 
 ## bash 
 
+- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
@@ -237,6 +238,7 @@
 
 ## chrome 
 
+- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [oraz/bookmarksMenu](https://github.com/oraz/bookmarksMenu) - Bookmarks Menu extension for Google Chrome
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -255,6 +257,7 @@
 
 ## chrome-extension 
 
+- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [BlackGlory/Copycat](https://github.com/BlackGlory/Copycat) - 🍂 Copy content from web powerful than ever before.
 - [yuhaofe/Quick-Bookmarks-Menu](https://github.com/yuhaofe/Quick-Bookmarks-Menu) - A chrome extension gives you quick access to your bookmarks.
@@ -767,6 +770,7 @@
 
 ## linux 
 
+- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
