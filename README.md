@@ -409,7 +409,7 @@
 - [lusakasa/saka-key](https://github.com/lusakasa/saka-key) - A keyboard interface to the web
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
-- [chatopera/cskefu](https://github.com/chatopera/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
+- [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
 - [l11x0m7/book-of-qna-code](https://github.com/l11x0m7/book-of-qna-code) - code collections for the book of qna
 
 ## Jupyter Notebook 
@@ -479,6 +479,7 @@
 
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [iflytek/HFL-Anthology](https://github.com/iflytek/HFL-Anthology) - Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 ## Mustache 
 
@@ -522,7 +523,6 @@
 - [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [pluto-junzeng/ChineseSquad](https://github.com/pluto-junzeng/ChineseSquad) - 中文机器阅读理解数据集
-- [ymcui/HFL-Anthology](https://github.com/ymcui/HFL-Anthology) - Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 - [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
 - [MLNLP-World/Top-AI-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) - This repository is a collection of AI top conferences papers (e.g. ACL, EMNLP, NAACL, COLING, AAAI, IJCAI, ICLR, NeurIPS, and ICML) with open resource code
 - [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) - 公众号《玩转IDEA》工作日每天早上 9 点更新使用技巧
@@ -775,7 +775,7 @@
 - [guillaumegenthial/sequence_tagging](https://github.com/guillaumegenthial/sequence_tagging) - Named Entity Recognition (LSTM + CRF) - Tensorflow
 - [pandolia/qqbot](https://github.com/pandolia/qqbot) - QQBot: A conversation robot base on Tencent's SmartQQ
 - [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
-- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embed images and sentences into fixed-length vectors with CLIP
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
 - [macanv/BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER) - Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning And private Server services
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [micheles/decorator](https://github.com/micheles/decorator) - decorator
