@@ -137,7 +137,7 @@
 ## ai 
 
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way to build PyTorch models and lightning apps that glue together everything around the models, without the pain of infrastructure, cost management, scaling and everythin
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [NLP-LOVE/Introduction-NLP](https://github.com/NLP-LOVE/Introduction-NLP) - HanLP作者的新书《自然语言处理入门》详细笔记！业界良心之作，书中不是枯燥无味的公式罗列，而是用白话阐述的通俗易懂的算法模型。从基本概念出发，逐步介绍中文分词、词性标注、命名实体识别、信息抽取、文本聚类、文本分类、句法分析这几个热门问题的算法原理与工程实现。
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [duoergun0729/nlp](https://github.com/duoergun0729/nlp) - 兜哥出品 &lt;一本开源的NLP入门书籍&gt;
@@ -196,7 +196,7 @@
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 - [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 
 ## awesome-list 
@@ -349,7 +349,7 @@
 
 ## data-science 
 
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way to build PyTorch models and lightning apps that glue together everything around the models, without the pain of infrastructure, cost management, scaling and everythin
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
@@ -376,7 +376,7 @@
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way to build PyTorch models and lightning apps that glue together everything around the models, without the pain of infrastructure, cost management, scaling and everythin
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [alibaba-edu/simple-effective-text-matching-pytorch](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch) - A pytorch implementation of the ACL2019 paper "Simple and Effective Text Matching with Richer Alignment Features".
 - [alibaba-edu/simple-effective-text-matching](https://github.com/alibaba-edu/simple-effective-text-matching) - Source code of the ACL2019 paper "Simple and Effective Text Matching with Richer Alignment Features".
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
@@ -417,7 +417,7 @@
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [NTMC-Community/MatchZoo](https://github.com/NTMC-Community/MatchZoo) - Facilitating the design, comparison and sharing of deep text matching models.
-- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 - [PaddlePaddle/models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [zihangdai/xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
@@ -489,6 +489,7 @@
 
 ## flask 
 
+- [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.
 
 ## font 
@@ -790,7 +791,7 @@
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way to build PyTorch models and lightning apps that glue together everything around the models, without the pain of infrastructure, cost management, scaling and everythin
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
@@ -843,6 +844,7 @@
 
 ## markdown 
 
+- [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [gettalong/kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
@@ -939,7 +941,7 @@
 - [duoergun0729/nlp](https://github.com/duoergun0729/nlp) - 兜哥出品 &lt;一本开源的NLP入门书籍&gt;
 - [localminimum/QANet](https://github.com/localminimum/QANet) - A Tensorflow implementation of QANet for machine reading comprehension
 - [baidu/Familia](https://github.com/baidu/Familia) - A Toolkit for Industrial Topic Modeling
-- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 - [zihangdai/xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [fastai/course-nlp](https://github.com/fastai/course-nlp) - A Code-First Introduction to NLP course
@@ -965,6 +967,7 @@
 
 ## others 
 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [wbolster/plyvel](https://github.com/wbolster/plyvel) - Plyvel, a fast and feature-rich Python interface to LevelDB
 - [happynear/py-leveldb-windows](https://github.com/happynear/py-leveldb-windows) - A Visual Studio project to build leveldb python wrapper
@@ -1383,6 +1386,7 @@
 
 ## python 
 
+- [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [romis2012/python-socks](https://github.com/romis2012/python-socks) - Core proxy client (SOCKS4, SOCKS5, HTTP) functionality for Python
 - [meanmail-dev/prettify-python-plugin](https://github.com/meanmail-dev/prettify-python-plugin) - Intellij IDE plugin
 - [donkirkby/live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
@@ -1396,7 +1400,7 @@
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
 - [PetarV-/GAT](https://github.com/PetarV-/GAT) - Graph Attention Networks (https://arxiv.org/abs/1710.10903)
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way to build PyTorch models and lightning apps that glue together everything around the models, without the pain of infrastructure, cost management, scaling and everythin
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [py2neo-org/py2neo](https://github.com/py2neo-org/py2neo) - Py2neo is a comprehensive Neo4j driver library and toolkit for Python.
 - [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - An annotated implementation of the Transformer paper.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
@@ -1484,7 +1488,7 @@
 - [Tongjilibo/bert4torch](https://github.com/Tongjilibo/bert4torch) - 参考bert4keras的pytorch实现
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [gaohongkui/TPLinker-NER](https://github.com/gaohongkui/TPLinker-NER) - TPlinker for NER 中文/英文命名实体识别
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way to build PyTorch models and lightning apps that glue together everything around the models, without the pain of infrastructure, cost management, scaling and everythin
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [alibaba-edu/simple-effective-text-matching-pytorch](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch) - A pytorch implementation of the ACL2019 paper "Simple and Effective Text Matching with Richer Alignment Features".
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [dbiir/UER-py](https://github.com/dbiir/UER-py) - Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo
@@ -1533,6 +1537,7 @@
 
 ## react 
 
+- [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
@@ -1695,6 +1700,7 @@
 
 ## typescript 
 
+- [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [BlackGlory/Copycat](https://github.com/BlackGlory/Copycat) - 🍂 Copy content from web powerful than ever before.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [sleistner/vscode-fileutils](https://github.com/sleistner/vscode-fileutils) - Visual Studio Code Extension
@@ -1737,6 +1743,7 @@
 
 ## vue 
 
+- [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
