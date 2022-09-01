@@ -238,6 +238,7 @@
 
 ## chrome 
 
+- [hypothesis/browser-extension](https://github.com/hypothesis/browser-extension) - The Hypothesis browser extensions.
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [oraz/bookmarksMenu](https://github.com/oraz/bookmarksMenu) - Bookmarks Menu extension for Google Chrome
@@ -481,6 +482,7 @@
 
 ## firefox 
 
+- [hypothesis/browser-extension](https://github.com/hypothesis/browser-extension) - The Hypothesis browser extensions.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [lkytal/GM](https://github.com/lkytal/GM) - UserScripts for Firefox, Chrome and etc
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
