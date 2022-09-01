@@ -342,6 +342,7 @@
 
 ## JavaScript 
 
+- [hypothesis/browser-extension](https://github.com/hypothesis/browser-extension) - The Hypothesis browser extensions.
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [weihan-Chen/WordCounter](https://github.com/weihan-Chen/WordCounter) - 用于字符统计的思源挂件
