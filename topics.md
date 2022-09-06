@@ -1171,7 +1171,6 @@
 - [weizhepei/CasRel](https://github.com/weizhepei/CasRel) - A Novel Cascade Binary Tagging Framework for Relational Triple Extraction. Accepted by ACL 2020.
 - [longlongman/CasRel-pytorch-reimplement](https://github.com/longlongman/CasRel-pytorch-reimplement) - Pytorch reimplement of the paper "A Novel Cascade Binary Tagging Framework for Relational Triple Extraction" ACL2020. The original code is written in keras.
 - [onewaymyway/DuEE_2020](https://github.com/onewaymyway/DuEE_2020) - 2020语言与智能技术竞赛：事件抽取任务方案代码
-- [bamtercelboo/PyTorch_Biaffine_Dependency_Parsing](https://github.com/bamtercelboo/PyTorch_Biaffine_Dependency_Parsing) - Biaffine Dependency Parsing based on PyTorch
 - [131250208/TPlinker-joint-extraction](https://github.com/131250208/TPlinker-joint-extraction) - 
 - [qiufengyuyi/event_extraction](https://github.com/qiufengyuyi/event_extraction) - baidu aistudio event extraction competition
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
