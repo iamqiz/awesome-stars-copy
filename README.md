@@ -106,7 +106,7 @@
 
 ## C# # 
 
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 - [github/VisualStudio](https://github.com/github/VisualStudio) - GitHub Extension for Visual Studio
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
@@ -423,7 +423,7 @@
 
 ## Jupyter Notebook 
 
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [piEsposito/pytorch-lstm-by-hand](https://github.com/piEsposito/pytorch-lstm-by-hand) - A small and simple tutorial on how to craft a LSTM nn.Module by hand on PyTorch.
 - [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - An annotated implementation of the Transformer paper.
 - [131250208/TPlinker-joint-extraction](https://github.com/131250208/TPlinker-joint-extraction) - 
@@ -661,7 +661,7 @@
 - [CLUEbenchmark/FewCLUE](https://github.com/CLUEbenchmark/FewCLUE) - FewCLUE 小样本学习测评基准，中文版
 - [MatthieuCourbariaux/BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet) - Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1
 - [MiuLab/SlotGated-SLU](https://github.com/MiuLab/SlotGated-SLU) - Slot-Gated Modeling for Joint Slot Filling and Intent Prediction
-- [LooperXX/AGIF](https://github.com/LooperXX/AGIF) - Open source code for EMNLP 2020 Findings Paper "AGIF: An Adaptive Graph-Interactive Framework for Joint MultipleIntent Detection and Slot Filling"
+- [LooperXX/AGIF](https://github.com/LooperXX/AGIF) - Open source code for EMNLP 2020 Findings Paper "AGIF: An Adaptive Graph-Interactive Framework for Joint Multiple Intent Detection and Slot Filling"
 - [bojone/GlobalPointer](https://github.com/bojone/GlobalPointer) - 全局指针统一处理嵌套与非嵌套NER
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [ZhuiyiTechnology/roformer](https://github.com/ZhuiyiTechnology/roformer) - Rotary Transformer
