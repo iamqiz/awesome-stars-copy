@@ -422,6 +422,7 @@
 
 ## Jupyter Notebook 
 
+- [km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes) - 该仓库主要记录 NLP 算法工程师相关的面试题
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [piEsposito/pytorch-lstm-by-hand](https://github.com/piEsposito/pytorch-lstm-by-hand) - A small and simple tutorial on how to craft a LSTM nn.Module by hand on PyTorch.
 - [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - An annotated implementation of the Transformer paper.
@@ -496,7 +497,6 @@
 
 ## Others 
 
-- [km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes) - 该仓库主要记录 NLP 算法工程师相关的面试题
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [gejun123456/MyBatisCodeHelper-Pro](https://github.com/gejun123456/MyBatisCodeHelper-Pro) - 
@@ -582,6 +582,8 @@
 
 ## Python 
 
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [benjaminp/six](https://github.com/benjaminp/six) - Python 2 and 3 compatibility library
 - [xiangking/ark-nlp](https://github.com/xiangking/ark-nlp) - A private nlp coding package, which quickly implements the SOTA solutions.
 - [MuQiuJun-AI/bert4pytorch](https://github.com/MuQiuJun-AI/bert4pytorch) - 超轻量级bert的pytorch版本，大量中文注释，容易修改结构，持续更新
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
