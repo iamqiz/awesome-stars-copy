@@ -231,6 +231,7 @@
 
 ## Go 
 
+- [88250/pipe](https://github.com/88250/pipe) - 🎷 B3log 分布式社区的 Go 博客端节点系统，欢迎加入下一代社区网络。B3log distributed community blog-end node based on Go, welcome to join the next generation community network.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [88250/gulu](https://github.com/88250/gulu) - ⭕ Go 语言常用工具库，这个轱辘还算圆！
@@ -753,7 +754,7 @@
 - [littlepan0413/DuEE_baseline](https://github.com/littlepan0413/DuEE_baseline) - 事件抽取基线模型
 - [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - novel deep learning research works with PaddlePaddle
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
-- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Graph Extraction and Construction
+- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Graph Extraction and Construction published at EMNLP2022 System Demonstrations
 - [TianyuZhuuu/CHIP2018](https://github.com/TianyuZhuuu/CHIP2018) - CHIP2018问句匹配大赛 Rank6解决方案
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) - 
 - [liuhuanyong/SequentialEventExtration](https://github.com/liuhuanyong/SequentialEventExtration) - Sequential Event Experiment based on Travel note crawled from XieCheng，基于50W携程出行游记的采集与顺承事件图谱构建．
@@ -930,7 +931,7 @@
 - [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
-- [AutoHotkey-Plus/vscode-autohotkey](https://github.com/AutoHotkey-Plus/vscode-autohotkey) - AutoHotkey language support for Visual Studio Code
+- [cweijan/vscode-autohotkey](https://github.com/cweijan/vscode-autohotkey) - AutoHotkey language support for Visual Studio Code
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
