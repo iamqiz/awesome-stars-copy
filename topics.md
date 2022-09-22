@@ -1006,6 +1006,7 @@
 
 ## others 
 
+- [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [benjaminp/six](https://github.com/benjaminp/six) - Python 2 and 3 compatibility library
 - [JetBrains/intellij-sdk-docs](https://github.com/JetBrains/intellij-sdk-docs) - IntelliJ SDK Platform Documentation
