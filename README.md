@@ -347,6 +347,7 @@
 
 ## JavaScript 
 
+- [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [Momo707577045/m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) - m3u8 视频在线提取工具
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
