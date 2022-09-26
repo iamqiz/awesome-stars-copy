@@ -938,7 +938,7 @@
 - [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
-- [cweijan/vscode-autohotkey](https://github.com/cweijan/vscode-autohotkey) - AutoHotkey language support for Visual Studio Code
+- [vscode-autohotkey/autohotkey-plus](https://github.com/vscode-autohotkey/autohotkey-plus) - AutoHotkey language support for Visual Studio Code
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
