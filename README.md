@@ -157,8 +157,6 @@
 - [m417z/Textify](https://github.com/m417z/Textify) - A tool for Windows to copy text from dialogs and controls which don't allow it otherwise
 - [clechasseur/pathcopycopy](https://github.com/clechasseur/pathcopycopy) - Copy file paths from Windows explorer's contextual menu
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
-- [shuax/edge_plus](https://github.com/shuax/edge_plus) - Chromium-based Edge 增强软件
-- [shuax/chrome_plus](https://github.com/shuax/chrome_plus) - Chrome 增强软件
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
