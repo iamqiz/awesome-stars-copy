@@ -641,6 +641,7 @@
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -749,6 +750,7 @@
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode) - Play Leetcode with different programming language
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [dubox/jSearch](https://github.com/dubox/jSearch) - jSearch(聚搜) 是一款专注内容的chrome搜索扩展，一次搜索聚合多平台内容。
@@ -1026,6 +1028,8 @@
 
 ## others 
 
+- [siyuan-note/insider](https://github.com/siyuan-note/insider) - SiYuan Insider Preview. 思源笔记内部预览。
+- [Nordgedanken/intellij-autohotkey](https://github.com/Nordgedanken/intellij-autohotkey) - AutoHotkey plugin for the Jetbrain's IntelliJ platform
 - [Infinidat/munch](https://github.com/Infinidat/munch) - A Munch is a Python dictionary that provides attribute-style access (a la JavaScript objects).
 - [ndp-software/keyboard-event-to-string](https://github.com/ndp-software/keyboard-event-to-string) - Convert a JavaScript keyboard event object into a canonical string
 - [Nasller/LicenseServer](https://github.com/Nasller/LicenseServer) - Intellij plugin
@@ -1298,7 +1302,6 @@
 - [tabulapdf/tabula-java](https://github.com/tabulapdf/tabula-java) - Extract tables from PDF files
 - [camelot-dev/camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
 - [itext/i7j-rups](https://github.com/itext/i7j-rups) - RUPS is an abbreviation for Reading and Updating PDF Syntax. RUPS is a tool built on top of iText® that allows you to look inside a PDF document and browse the different PDF objects and content stream
-- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [google/pygtrie](https://github.com/google/pygtrie) - Python library implementing a trie data structure.
 - [lxneng/xpinyin](https://github.com/lxneng/xpinyin) - Translate Chinese hanzi to pinyin (拼音) by Python, 汉字转拼音
 - [ztane/python-Levenshtein](https://github.com/ztane/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
