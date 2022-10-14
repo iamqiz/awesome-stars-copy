@@ -210,6 +210,7 @@
 
 ## CSS 
 
+- [ankitects/anki-manual](https://github.com/ankitects/anki-manual) - Anki's manual
 - [JetBrains/jetbrains_guide](https://github.com/JetBrains/jetbrains_guide) - JetBrains Guides where Developer Advocacy and the community share ideas.
 - [cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com) - 骂人宝典（祖安语录）
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
@@ -305,7 +306,7 @@
 - [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - A neat code differencing tool
 - [codota/tabnine-intellij](https://github.com/codota/tabnine-intellij) - Jetbrains IDEs client for TabNine. Compatible with all IntelliJ-based IDEs. https://plugins.jetbrains.com/plugin/12798-tabnine
 - [kstenschke/referencer-plugin](https://github.com/kstenschke/referencer-plugin) - "Referencer" plugin for Jetbrains IDEs
-- [fuzhengwei/guide-idea-plugin](https://github.com/fuzhengwei/guide-idea-plugin) - IDEA 插件开发可以帮助研发人员提升能效，解决一些实际场景中的共性问题。但最近在折腾IDEA插件开发的时候，市面的资料确实不多，也没有成体系完整的开发指导手册，所以就遇到了很多不知道就不会的事情，需要一点点查询搜索源码、验证API接口，最终把各项功能实现，当然在这个过程中也确实踩了不少坑！接下来在这个专栏会把一些关于 IDEA 插件开发用到的各项知识做成案例输出出来，帮助有需要的研发伙伴，一起建
+- [fuzhengwei/guide-idea-plugin](https://github.com/fuzhengwei/guide-idea-plugin) - IDEA Plugin 插件开发可以帮助研发人员提升能效，解决一些实际场景中的共性问题。但最近在折腾IDEA插件开发的时候，市面的资料确实不多，也没有成体系完整的开发指导手册，所以就遇到了很多不知道就不会的事情，需要一点点查询搜索源码、验证API接口，最终把各项功能实现，当然在这个过程中也确实踩了不少坑！接下来在这个专栏会把一些关于 IDEA 插件开发用到的各项知识做成案例输出出来，帮助有需要的研
 - [clutcher/comments_highlighter](https://github.com/clutcher/comments_highlighter) - Intellij IDEA plugin to improve highlighting of comment and keywords
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
@@ -887,6 +888,7 @@
 
 ## Rust 
 
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
