@@ -147,6 +147,7 @@
 
 ## C++ 
 
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [happynear/py-leveldb-windows](https://github.com/happynear/py-leveldb-windows) - A Visual Studio project to build leveldb python wrapper
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
