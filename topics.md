@@ -545,6 +545,7 @@
 
 ## git 
 
+- [MobileTribe/commit-template-idea-plugin](https://github.com/MobileTribe/commit-template-idea-plugin) - Git commit template Plugin for IntelliJ
 - [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 - [github/VisualStudio](https://github.com/github/VisualStudio) - GitHub Extension for Visual Studio
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
@@ -843,6 +844,7 @@
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD, Intel and NVIDIA GPUs process monitoring
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
@@ -940,7 +942,7 @@
 
 ## monitoring 
 
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD, Intel and NVIDIA GPUs process monitoring
 
 ## mysql 
 
