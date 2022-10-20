@@ -248,7 +248,7 @@
 - [siyuan-note/bazaar](https://github.com/siyuan-note/bazaar) - SiYuan community bazaar. 思源笔记社区集市。
 - [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -360,6 +360,7 @@
 
 ## JavaScript 
 
+- [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
@@ -469,6 +470,7 @@
 
 ## Kotlin 
 
+- [JetBrains/ideolog](https://github.com/JetBrains/ideolog) - Interactive viewer for '.log' files.
 - [Nordgedanken/intellij-autohotkey](https://github.com/Nordgedanken/intellij-autohotkey) - AutoHotkey plugin for the Jetbrain's IntelliJ platform
 - [JetBrains/intellij-plugin-verifier](https://github.com/JetBrains/intellij-plugin-verifier) - Compatibility verification tool for IntelliJ Platform plugins
 - [meanmail-dev/prettify-python-plugin](https://github.com/meanmail-dev/prettify-python-plugin) - Intellij IDE plugin
@@ -930,6 +932,8 @@
 
 ## TypeScript 
 
+- [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
+- [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
