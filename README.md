@@ -90,7 +90,7 @@
 - [stefansundin/superf4](https://github.com/stefansundin/superf4) - :file_folder: Kill programs instantly with Ctrl+Alt+F4. (Windows)
 - [kangjianwei/Data-Structure](https://github.com/kangjianwei/Data-Structure) - 《数据结构》-严蔚敏.吴伟民-教材源码与习题解析
 - [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD, Intel and NVIDIA GPUs process monitoring
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
 - [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
 - [WizTeam/WizNoteLite](https://github.com/WizTeam/WizNoteLite) - WizNote Lite Project
 - [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
@@ -240,6 +240,7 @@
 
 ## Go 
 
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [josephspurrier/goversioninfo](https://github.com/josephspurrier/goversioninfo) - Golang Microsoft Windows File Properties/Version Info and Icon Resource Generator
 - [88250/pipe](https://github.com/88250/pipe) - 🎷 B3log 分布式社区的 Go 博客端节点系统，欢迎加入下一代社区网络。B3log distributed community blog-end node based on Go, welcome to join the next generation community network.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -361,6 +362,8 @@
 
 ## JavaScript 
 
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+- [TheoXiong/electron-find](https://github.com/TheoXiong/electron-find) - :mag: Find all matches for the text in the web page
 - [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
@@ -604,6 +607,7 @@
 
 ## Python 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summariza
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [HibiKier/zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) - 基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot
@@ -907,6 +911,7 @@
 
 ## Shell 
 
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
@@ -932,6 +937,11 @@
 
 ## TypeScript 
 
+- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
+- [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
+- [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
+- [electron/remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
