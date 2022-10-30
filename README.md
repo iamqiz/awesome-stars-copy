@@ -50,6 +50,7 @@
 
 ## AutoHotkey 
 
+- [mark-wiemer/vscode-autohotkey-plus-plus](https://github.com/mark-wiemer/vscode-autohotkey-plus-plus) - AutoHotkey language support for Visual Studio Code
 - [G33kDude/CodeQuickTester](https://github.com/G33kDude/CodeQuickTester) - Write and run AHK scripts without touching the file system.
 - [sxzxs/super-command](https://github.com/sxzxs/super-command) - Snippet management tools, if ahK python bat ...code, can be executed directly
 - [telppa/KMCounter](https://github.com/telppa/KMCounter) - Use heatmap to show mouse and keyboard usage. 使用热力图显示鼠标与键盘使用情况的工具。
@@ -149,6 +150,8 @@
 
 ## C++ 
 
+- [cxasm/cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
+- [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
@@ -218,6 +221,7 @@
 
 ## CSS 
 
+- [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [ankitects/anki-manual](https://github.com/ankitects/anki-manual) - Anki's manual
 - [JetBrains/jetbrains_guide](https://github.com/JetBrains/jetbrains_guide) - JetBrains Guides where Developer Advocacy and the community share ideas.
 - [cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com) - 骂人宝典（祖安语录）
@@ -745,7 +749,7 @@
 - [mali19064/LSTM-CRF-pytorch-faster](https://github.com/mali19064/LSTM-CRF-pytorch-faster) - A more than 1000X faster paralleled LSTM-CRF implementation modified from the slower version in the Pytorch official tutorial (URL:https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html).
 - [luge-ai/luge-pip](https://github.com/luge-ai/luge-pip) - 
 - [baidu/DDParser](https://github.com/baidu/DDParser) - 百度开源的依存句法分析系统
-- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍Neural Search, ❓Question A
+- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, ❓ Questi
 - [thu-coai/CrossWOZ](https://github.com/thu-coai/CrossWOZ) - A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset
 - [ydf0509/nb_log](https://github.com/ydf0509/nb_log) - pip install nb_log 各种日志handler和自动转化项目的任意print的效果。日志自动彩色炫酷，可点击控制台的日志自动精确跳转到pycharm的文件和行号。文件日志多进程切割安全。在10个最重要方面全方位超过loguru
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
