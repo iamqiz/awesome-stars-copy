@@ -485,6 +485,7 @@
 
 ## electron 
 
+- [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [TheoXiong/electron-find](https://github.com/TheoXiong/electron-find) - :mag: Find all matches for the text in the web page
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
@@ -592,7 +593,7 @@
 
 ## go 
 
-- [usememos/memos](https://github.com/usememos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub for knowledge management and collaboration.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -944,7 +945,7 @@
 ## markdown 
 
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
-- [usememos/memos](https://github.com/usememos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub for knowledge management and collaboration.
 - [88250/pipe](https://github.com/88250/pipe) - 🎷 B3log 分布式社区的 Go 博客端节点系统，欢迎加入下一代社区网络。B3log distributed community blog-end node based on Go, welcome to join the next generation community network.
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
@@ -1086,13 +1087,14 @@
 
 ## open-source 
 
-- [usememos/memos](https://github.com/usememos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub for knowledge management and collaboration.
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
 ## others 
 
+- [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X
 - [cxasm/cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
 - [mark-wiemer/vscode-autohotkey-plus-plus](https://github.com/mark-wiemer/vscode-autohotkey-plus-plus) - AutoHotkey language support for Visual Studio Code
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
@@ -1696,7 +1698,7 @@
 
 ## react 
 
-- [usememos/memos](https://github.com/usememos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub for knowledge management and collaboration.
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
@@ -1870,6 +1872,7 @@
 
 ## typescript 
 
+- [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [BlackGlory/Copycat](https://github.com/BlackGlory/Copycat) - 🍂 Copy content from web powerful than ever before.
@@ -1915,6 +1918,7 @@
 
 ## vue 
 
+- [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
