@@ -75,6 +75,7 @@
 
 ## C 
 
+- [gpac/gpac](https://github.com/gpac/gpac) - Modular Multimedia framework for packaging, streaming and playing your favorite content.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
@@ -370,6 +371,9 @@
 
 ## JavaScript 
 
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
+- [gpac/mp4box.js](https://github.com/gpac/mp4box.js) - JavaScript version of GPAC's MP4Box tool
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [alanhg/toolbox-browser-extensionx](https://github.com/alanhg/toolbox-browser-extensionx) - 一键checkout项目，打开JB- IDE
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
