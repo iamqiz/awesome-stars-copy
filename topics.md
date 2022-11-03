@@ -274,6 +274,7 @@
 
 ## chrome-extension 
 
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
@@ -519,6 +520,7 @@
 
 ## firefox 
 
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [hypothesis/browser-extension](https://github.com/hypothesis/browser-extension) - The Hypothesis browser extensions.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [lkytal/GM](https://github.com/lkytal/GM) - UserScripts for Firefox, Chrome and etc
@@ -762,6 +764,7 @@
 
 ## javascript 
 
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
@@ -1095,6 +1098,8 @@
 
 ## others 
 
+- [gpac/gpac](https://github.com/gpac/gpac) - Modular Multimedia framework for packaging, streaming and playing your favorite content.
+- [gpac/mp4box.js](https://github.com/gpac/mp4box.js) - JavaScript version of GPAC's MP4Box tool
 - [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X
 - [cxasm/cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
