@@ -41,6 +41,7 @@
 - [dotnet](#dotnet)
 - [electron](#electron)
 - [emacs](#emacs)
+- [emoji](#emoji)
 - [emulator](#emulator)
 - [es6](#es6)
 - [express](#express)
@@ -508,6 +509,10 @@
 ## emacs 
 
 - [donkirkby/live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
+
+## emoji 
+
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 
 ## emulator 
 
@@ -1106,6 +1111,8 @@
 
 ## others 
 
+- [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 - [Nthily/KFC-Crazy-Thursday](https://github.com/Nthily/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
 - [JetBrains/jcef](https://github.com/JetBrains/jcef) - A simple framework for embedding Chromium-based browsers into Java-based applications.
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -1405,7 +1412,7 @@
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [tabulapdf/tabula-java](https://github.com/tabulapdf/tabula-java) - Extract tables from PDF files
 - [camelot-dev/camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
-- [itext/i7j-rups](https://github.com/itext/i7j-rups) - RUPS is an abbreviation for Reading and Updating PDF Syntax. RUPS is a tool built on top of iText® that allows you to look inside a PDF document and browse the different PDF objects and content stream
+- [itext/i7j-rups](https://github.com/itext/i7j-rups) - RUPS is an acronym for Reading and Updating PDF Syntax. RUPS is a tool built on top of iText® that allows you to look inside a PDF document and browse the different PDF objects and content streams.
 - [google/pygtrie](https://github.com/google/pygtrie) - Python library implementing a trie data structure.
 - [lxneng/xpinyin](https://github.com/lxneng/xpinyin) - Translate Chinese hanzi to pinyin (拼音) by Python, 汉字转拼音
 - [ztane/python-Levenshtein](https://github.com/ztane/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
