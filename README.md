@@ -171,7 +171,6 @@
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods) - The official collection of Windhawk mods
 - [m417z/Textify](https://github.com/m417z/Textify) - A tool for Windows to copy text from dialogs and controls which don't allow it otherwise
 - [clechasseur/pathcopycopy](https://github.com/clechasseur/pathcopycopy) - Copy file paths from Windows explorer's contextual menu
@@ -632,6 +631,7 @@
 
 ## Python 
 
+- [Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan](https://github.com/Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan) - 绪山真寻 bot 的思源笔记插件
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summariza
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
@@ -657,6 +657,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [nyu-mll/GLUE-baselines](https://github.com/nyu-mll/GLUE-baselines) - [DEPRECATED] Repo for exploring multi-task learning approaches to learning sentence representations
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
 - [guofei9987/scikit-opt](https://github.com/guofei9987/scikit-opt) - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling sales
