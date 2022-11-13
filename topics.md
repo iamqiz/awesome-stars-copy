@@ -10,6 +10,7 @@
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
+- [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -186,6 +187,16 @@
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
+
+## artificial-intelligence 
+
+- [codota/tabnine-intellij](https://github.com/codota/tabnine-intellij) - Jetbrains IDEs client for TabNine. Compatible with all IntelliJ-based IDEs. https://plugins.jetbrains.com/plugin/12798-tabnine
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
+- [guofei9987/scikit-opt](https://github.com/guofei9987/scikit-opt) - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling sales
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
+- [jiesutd/NCRFpp](https://github.com/jiesutd/NCRFpp) - NCRF++, a Neural Sequence Labeling Toolkit. Easy use to any sequence labeling tasks (e.g. NER, POS, Segmentation). It includes character LSTM/CNN, word LSTM/CNN and softmax/CRF components.
+- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 
 ## atom 
 
@@ -470,7 +481,7 @@
 
 ## docker 
 
-- [linhaojun857/aurora-public](https://github.com/linhaojun857/aurora-public) - 基于SpringBoot+Vue开发的个人博客系统
+- [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 
 ## documentation 
@@ -991,7 +1002,7 @@
 
 ## mysql 
 
-- [linhaojun857/aurora-public](https://github.com/linhaojun857/aurora-public) - 基于SpringBoot+Vue开发的个人博客系统
+- [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
 
@@ -1201,7 +1212,6 @@
 - [JetBrains/toolbox-browser-extension](https://github.com/JetBrains/toolbox-browser-extension) - JetBrains Toolbox App browser extension
 - [asamuzaK/url2clipboard](https://github.com/asamuzaK/url2clipboard) - Copy document URL / link URL to clipboard as HTML, Markdown, BBCode, Text, etc.
 - [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
-- [codota/tabnine-intellij](https://github.com/codota/tabnine-intellij) - Jetbrains IDEs client for TabNine. Compatible with all IntelliJ-based IDEs. https://plugins.jetbrains.com/plugin/12798-tabnine
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [GuocaiL/nlp_corpus](https://github.com/GuocaiL/nlp_corpus) - 本人项目进行中搜集的数据集，包含原始数据和经过处理后的数据，项目持续更新。
@@ -1225,7 +1235,6 @@
 - [piEsposito/pytorch-lstm-by-hand](https://github.com/piEsposito/pytorch-lstm-by-hand) - A small and simple tutorial on how to craft a LSTM nn.Module by hand on PyTorch.
 - [wyagd001/wyagd001.github.io](https://github.com/wyagd001/wyagd001.github.io) - 个人主页, Autohotkey  中文帮助, 自用脚本介绍
 - [wshanks/Zutilo](https://github.com/wshanks/Zutilo) - Zotero plugin providing some additional editing features
-- [guofei9987/scikit-opt](https://github.com/guofei9987/scikit-opt) - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling sales
 - [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
 - [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods) - The official collection of Windhawk mods
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
@@ -1947,7 +1956,7 @@
 
 ## vue 
 
-- [linhaojun857/aurora-public](https://github.com/linhaojun857/aurora-public) - 基于SpringBoot+Vue开发的个人博客系统
+- [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
