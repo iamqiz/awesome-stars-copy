@@ -1038,7 +1038,7 @@
 
 ## Vue 
 
-- [linhaojun857/aurora-public](https://github.com/linhaojun857/aurora-public) - 基于SpringBoot+Vue开发的个人博客系统
+- [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
