@@ -964,6 +964,7 @@
 
 ## TypeScript 
 
+- [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
