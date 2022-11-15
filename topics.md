@@ -1124,6 +1124,7 @@
 
 ## others 
 
+- [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan](https://github.com/Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan) - 绪山真寻 bot 的思源笔记插件
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
