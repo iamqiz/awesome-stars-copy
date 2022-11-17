@@ -627,6 +627,7 @@
 
 ## PowerShell 
 
+- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
