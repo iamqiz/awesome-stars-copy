@@ -509,6 +509,7 @@
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
@@ -1124,6 +1125,7 @@
 
 ## others 
 
+- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan](https://github.com/Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan) - 绪山真寻 bot 的思源笔记插件
@@ -1354,7 +1356,6 @@
 - [tkipf/pygcn](https://github.com/tkipf/pygcn) - Graph Convolutional Networks in PyTorch
 - [lavis-nlp/spert](https://github.com/lavis-nlp/spert) - PyTorch code for SpERT: Span-based Entity and Relation Transformer
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
 - [zxjzxj9/PyTorchIntroduction](https://github.com/zxjzxj9/PyTorchIntroduction) - 《深入浅出 PyTorch——从模型到源码》源代码和勘误（见Issues）
