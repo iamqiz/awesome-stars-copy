@@ -1125,6 +1125,8 @@
 
 ## others 
 
+- [PaddlePaddle/PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim) - PaddleSlim is an open-source library for deep model compression and architecture search.
+- [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
@@ -1682,6 +1684,7 @@
 
 ## pytorch 
 
+- [PaddlePaddle/X2Paddle](https://github.com/PaddlePaddle/X2Paddle) - Deep learning model converter for PaddlePaddle. (『飞桨』深度学习模型转换工具)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summariza
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
 - [MuQiuJun-AI/bert4pytorch](https://github.com/MuQiuJun-AI/bert4pytorch) - 超轻量级bert的pytorch版本，大量中文注释，容易修改结构，持续更新
@@ -1861,6 +1864,7 @@
 
 ## tensorflow 
 
+- [PaddlePaddle/X2Paddle](https://github.com/PaddlePaddle/X2Paddle) - Deep learning model converter for PaddlePaddle. (『飞桨』深度学习模型转换工具)
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [PetarV-/GAT](https://github.com/PetarV-/GAT) - Graph Attention Networks (https://arxiv.org/abs/1710.10903)
 - [alibaba-edu/simple-effective-text-matching](https://github.com/alibaba-edu/simple-effective-text-matching) - Source code of the ACL2019 paper "Simple and Effective Text Matching with Richer Alignment Features".
