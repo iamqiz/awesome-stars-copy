@@ -67,7 +67,6 @@
 - [telppa/SciTE4AutoHotkey-Plus](https://github.com/telppa/SciTE4AutoHotkey-Plus) - 这是最适合中文与新人用户的AHK IDE 由于原版早已不更新了 故多年来在原版基础上做了非常多的改进 目的只有一个 让大家用得更顺手
 - [wo52616111/capslock-plus](https://github.com/wo52616111/capslock-plus) - An efficiency tool that provides various functions by enhancing the Caps Lock key into a modifier key.
 - [jgpaiva/GridMove](https://github.com/jgpaiva/GridMove) - GridMove is a program that aims at making windows management easier. It helps you with this task by defining a visual grid on your desktop, to which you can easily snap windows.
-- [Lexikos/AutoHotkey_L-Docs](https://github.com/Lexikos/AutoHotkey_L-Docs) - Documentation for AutoHotkey
 
 ## Batchfile 
 
@@ -301,6 +300,7 @@
 - [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [wasiahmad/paraphrase_identification](https://github.com/wasiahmad/paraphrase_identification) - Examine two sentences and determine whether they have the same meaning.
+- [Lexikos/AutoHotkey_L-Docs](https://github.com/Lexikos/AutoHotkey_L-Docs) - Documentation for AutoHotkey
 - [didi/ChineseNLP](https://github.com/didi/ChineseNLP) - Datasets, SOTA results of every fields of Chinese NLP
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 
@@ -988,7 +988,7 @@
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub for knowledge management and collaboration.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and collaboration.
 - [ndp-software/keyboard-event-to-string](https://github.com/ndp-software/keyboard-event-to-string) - Convert a JavaScript keyboard event object into a canonical string
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
