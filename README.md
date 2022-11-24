@@ -50,7 +50,7 @@
 
 ## AutoHotkey 
 
-- [mark-wiemer/vscode-autohotkey-plus-plus](https://github.com/mark-wiemer/vscode-autohotkey-plus-plus) - AutoHotkey language support for Visual Studio Code
+- [vscode-autohotkey/vscode-autohotkey-plus-plus](https://github.com/vscode-autohotkey/vscode-autohotkey-plus-plus) - Fork of AHK+, also AutoHotkey language support for Visual Studio Code
 - [G33kDude/CodeQuickTester](https://github.com/G33kDude/CodeQuickTester) - Write and run AHK scripts without touching the file system.
 - [sxzxs/super-command](https://github.com/sxzxs/super-command) - Snippet management tools, if ahK python bat ...code, can be executed directly
 - [telppa/KMCounter](https://github.com/telppa/KMCounter) - Use heatmap to show mouse and keyboard usage. 使用热力图显示鼠标与键盘使用情况的工具。
@@ -639,6 +639,7 @@
 
 ## Python 
 
+- [python/typing](https://github.com/python/typing) - Python static typing home. Hosts the documentation and a user help forum.
 - [PaddlePaddle/PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim) - PaddleSlim is an open-source library for deep model compression and architecture search.
 - [PaddlePaddle/X2Paddle](https://github.com/PaddlePaddle/X2Paddle) - Deep learning model converter for PaddlePaddle. (『飞桨』深度学习模型转换工具)
 - [Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan](https://github.com/Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan) - 绪山真寻 bot 的思源笔记插件
