@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [algorithm](#algorithm)
+- [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
@@ -165,6 +166,10 @@
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [joowani/binarytree](https://github.com/joowani/binarytree) - Python Library for Studying Binary Trees
+
+## analytics 
+
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 
 ## android 
 
@@ -1149,7 +1154,7 @@
 - [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X
 - [cxasm/cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
-- [mark-wiemer/vscode-autohotkey-plus-plus](https://github.com/mark-wiemer/vscode-autohotkey-plus-plus) - AutoHotkey language support for Visual Studio Code
+- [vscode-autohotkey/vscode-autohotkey-plus-plus](https://github.com/vscode-autohotkey/vscode-autohotkey-plus-plus) - Fork of AHK+, also AutoHotkey language support for Visual Studio Code
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 - [G33kDude/CodeQuickTester](https://github.com/G33kDude/CodeQuickTester) - Write and run AHK scripts without touching the file system.
@@ -1590,6 +1595,7 @@
 
 ## python 
 
+- [python/typing](https://github.com/python/typing) - Python static typing home. Hosts the documentation and a user help forum.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summariza
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
