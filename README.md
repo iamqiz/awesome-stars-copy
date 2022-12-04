@@ -50,7 +50,7 @@
 
 ## AutoHotkey 
 
-- [vscode-autohotkey/vscode-autohotkey-plus-plus](https://github.com/vscode-autohotkey/vscode-autohotkey-plus-plus) - Fork of AHK+, also AutoHotkey language support for Visual Studio Code
+- [vscode-autohotkey/ahkpp](https://github.com/vscode-autohotkey/ahkpp) - AutoHotkey Plus Plus, a fork of AHK+. Also AutoHotkey language support for Visual Studio Code
 - [G33kDude/CodeQuickTester](https://github.com/G33kDude/CodeQuickTester) - Write and run AHK scripts without touching the file system.
 - [sxzxs/super-command](https://github.com/sxzxs/super-command) - Snippet management tools, if ahK python bat ...code, can be executed directly
 - [telppa/KMCounter](https://github.com/telppa/KMCounter) - Use heatmap to show mouse and keyboard usage. 使用热力图显示鼠标与键盘使用情况的工具。
@@ -505,6 +505,7 @@
 
 ## Kotlin 
 
+- [ben-gibson/GitLink](https://github.com/ben-gibson/GitLink) - A Jetbrains plugin that opens a local file under Git version control in its remote host using the default browser.
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [JetBrains/ideolog](https://github.com/JetBrains/ideolog) - Interactive viewer for '.log' files.
 - [Nordgedanken/intellij-autohotkey](https://github.com/Nordgedanken/intellij-autohotkey) - AutoHotkey plugin for the Jetbrain's IntelliJ platform
@@ -855,7 +856,7 @@
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 - [WenRichard/KBQA-BERT](https://github.com/WenRichard/KBQA-BERT) - 基于知识图谱的问答系统，BERT做命名实体识别和句子相似度，分为online和outline模式
 - [SmallVagetable/machine_learning_python](https://github.com/SmallVagetable/machine_learning_python) - 通过阅读网上的资料代码，进行自我加工，努力实现常用的机器学习算法。实现算法有KNN、Kmeans、EM、Perceptron、决策树、逻辑回归、svm、adaboost、朴素贝叶斯
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。
 - [Dod-o/NLP-practice-program](https://github.com/Dod-o/NLP-practice-program) - 力求囊括主流NLP模型练手项目，不断更新中
 - [Dod-o/Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
 - [NLP-LOVE/Introduction-NLP](https://github.com/NLP-LOVE/Introduction-NLP) - HanLP作者的新书《自然语言处理入门》详细笔记！业界良心之作，书中不是枯燥无味的公式罗列，而是用白话阐述的通俗易懂的算法模型。从基本概念出发，逐步介绍中文分词、词性标注、命名实体识别、信息抽取、文本聚类、文本分类、句法分析这几个热门问题的算法原理与工程实现。
@@ -977,6 +978,7 @@
 
 ## TypeScript 
 
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
