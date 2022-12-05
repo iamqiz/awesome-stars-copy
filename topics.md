@@ -1143,6 +1143,7 @@
 
 ## others 
 
+- [judasn/ChineseTypography-IDEA-Plugin](https://github.com/judasn/ChineseTypography-IDEA-Plugin) - 我常用 IntelliJ IDEA 进行写作，开发此插件可以快速对文章内容的中文、英文、符号之间增加空格，增加文章可读性。
 - [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - 
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
