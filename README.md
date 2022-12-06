@@ -64,7 +64,6 @@
 - [GavinPen/AhkCoordGrid](https://github.com/GavinPen/AhkCoordGrid) - AutoHotkey code for Windows overlay grid allowing you to emulate mouse click at different points on the screen using keyboard shortcuts
 - [TaranVH/2nd-keyboard](https://github.com/TaranVH/2nd-keyboard) - ALL of Taran's scripts - not just for the 2nd keyboard.
 - [hui-Zz/RunAny](https://github.com/hui-Zz/RunAny) - 【RunAny】一劳永逸的快速启动软件，拥有三键启动、一键直达、规则启动、批量搜索、全局热键、短语输出、热键映射、脚本插件等功能
-- [vscode-autohotkey/autohotkey-plus](https://github.com/vscode-autohotkey/autohotkey-plus) - AutoHotkey language support for Visual Studio Code
 - [telppa/SciTE4AutoHotkey-Plus](https://github.com/telppa/SciTE4AutoHotkey-Plus) - 这是最适合中文与新人用户的AHK IDE 由于原版早已不更新了 故多年来在原版基础上做了非常多的改进 目的只有一个 让大家用得更顺手
 - [wo52616111/capslock-plus](https://github.com/wo52616111/capslock-plus) - An efficiency tool that provides various functions by enhancing the Caps Lock key into a modifier key.
 - [jgpaiva/GridMove](https://github.com/jgpaiva/GridMove) - GridMove is a program that aims at making windows management easier. It helps you with this task by defining a visual grid on your desktop, to which you can easily snap windows.
@@ -114,7 +113,7 @@
 
 ## C# # 
 
-- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx) - :clipboard: Paste As File 把剪贴板的内容直接粘贴为文件
 - [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
@@ -854,7 +853,7 @@
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [cobrateam/splinter](https://github.com/cobrateam/splinter) - splinter - python test framework for web applications
 - [shillyshallysxy/Learning_NLP](https://github.com/shillyshallysxy/Learning_NLP) - Learning nlp and reproduce some papers
-- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with PyTensor
 - [WenRichard/KBQA-BERT](https://github.com/WenRichard/KBQA-BERT) - 基于知识图谱的问答系统，BERT做命名实体识别和句子相似度，分为online和outline模式
 - [SmallVagetable/machine_learning_python](https://github.com/SmallVagetable/machine_learning_python) - 通过阅读网上的资料代码，进行自我加工，努力实现常用的机器学习算法。实现算法有KNN、Kmeans、EM、Perceptron、决策树、逻辑回归、svm、adaboost、朴素贝叶斯
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。
@@ -1026,6 +1025,7 @@
 - [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
+- [vscode-autohotkey/autohotkey-plus](https://github.com/vscode-autohotkey/autohotkey-plus) - AutoHotkey language support for Visual Studio Code
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
