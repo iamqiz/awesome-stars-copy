@@ -33,6 +33,7 @@
 - [Mustache](#mustache)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [Perl](#perl)
 - [PostScript](#postscript)
 - [PowerShell](#powershell)
@@ -626,6 +627,10 @@
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [hlmd/Postman-cn](https://github.com/hlmd/Postman-cn) - Postman汉化中文版
 
+## Pascal 
+
+- [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
+
 ## Perl 
 
 - [conll/reference-coreference-scorers](https://github.com/conll/reference-coreference-scorers) - This is the reference implementation of commonly used coreference metrics.
@@ -825,7 +830,7 @@
 - [littlepan0413/DuEE_baseline](https://github.com/littlepan0413/DuEE_baseline) - 事件抽取基线模型
 - [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - novel deep learning research works with PaddlePaddle
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
-- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Graph Extraction and Construction published at EMNLP2022 System Demonstrations
+- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Graph Extraction and Construction published at EMNLP2022 System Demonstrations.
 - [TianyuZhuuu/CHIP2018](https://github.com/TianyuZhuuu/CHIP2018) - CHIP2018问句匹配大赛 Rank6解决方案
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) - 
 - [liuhuanyong/SequentialEventExtration](https://github.com/liuhuanyong/SequentialEventExtration) - Sequential Event Experiment based on Travel note crawled from XieCheng，基于50W携程出行游记的采集与顺承事件图谱构建．
