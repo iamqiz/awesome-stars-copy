@@ -623,6 +623,7 @@
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
+- [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
 ## github-api 
@@ -1436,7 +1437,6 @@
 - [Qzhangqi/Regex](https://github.com/Qzhangqi/Regex) - 一个用Java实现的正则表达式引擎
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [pluto-junzeng/ChineseSquad](https://github.com/pluto-junzeng/ChineseSquad) - 中文机器阅读理解数据集
-- [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [loujie0822/DeepIE](https://github.com/loujie0822/DeepIE) - DeepIE: Deep Learning for Information Extraction
 - [WizTeam/WizNoteLite](https://github.com/WizTeam/WizNoteLite) - WizNote Lite Project
 - [longpeng2008/yousan.ai](https://github.com/longpeng2008/yousan.ai) - Awesome resources of yousan.ai(closely related to deep learning).
