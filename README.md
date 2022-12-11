@@ -430,7 +430,7 @@
 - [JetBrains/toolbox-browser-extension](https://github.com/JetBrains/toolbox-browser-extension) - JetBrains Toolbox App browser extension
 - [asamuzaK/url2clipboard](https://github.com/asamuzaK/url2clipboard) - Copy document URL / link URL to clipboard as HTML, Markdown, BBCode, Text, etc.
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
-- [siyuan-note/siyuan-chrome](https://github.com/siyuan-note/siyuan-chrome) - A Chrome extension for SiYuan
+- [siyuan-note/siyuan-chrome](https://github.com/siyuan-note/siyuan-chrome) - Chrome extension for SiYuan
 - [wshanks/Zutilo](https://github.com/wshanks/Zutilo) - Zotero plugin providing some additional editing features
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 - [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
@@ -651,6 +651,7 @@
 
 ## Python 
 
+- [bojone/GPLinker](https://github.com/bojone/GPLinker) - 基于GlobalPointer的实体/关系/事件抽取
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [python/typing](https://github.com/python/typing) - Python static typing home. Hosts the documentation and a user help forum.
