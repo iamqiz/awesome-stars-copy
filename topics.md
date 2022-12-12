@@ -804,7 +804,7 @@
 ## javascript 
 
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
