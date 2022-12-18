@@ -69,6 +69,7 @@
 - [telppa/SciTE4AutoHotkey-Plus](https://github.com/telppa/SciTE4AutoHotkey-Plus) - 这是最适合中文与新人用户的AHK IDE 由于原版早已不更新了 故多年来在原版基础上做了非常多的改进 目的只有一个 让大家用得更顺手
 - [wo52616111/capslock-plus](https://github.com/wo52616111/capslock-plus) - An efficiency tool that provides various functions by enhancing the Caps Lock key into a modifier key.
 - [jgpaiva/GridMove](https://github.com/jgpaiva/GridMove) - GridMove is a program that aims at making windows management easier. It helps you with this task by defining a visual grid on your desktop, to which you can easily snap windows.
+- [AutoHotkey/AutoHotkeyDocs](https://github.com/AutoHotkey/AutoHotkeyDocs) - Documentation for AutoHotkey
 
 ## Batchfile 
 
@@ -306,7 +307,6 @@
 - [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [wasiahmad/paraphrase_identification](https://github.com/wasiahmad/paraphrase_identification) - Examine two sentences and determine whether they have the same meaning.
-- [Lexikos/AutoHotkey_L-Docs](https://github.com/Lexikos/AutoHotkey_L-Docs) - Documentation for AutoHotkey
 - [didi/ChineseNLP](https://github.com/didi/ChineseNLP) - Datasets, SOTA results of every fields of Chinese NLP
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 
@@ -325,6 +325,7 @@
 
 ## Java 
 
+- [youtube/api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [judasn/ChineseTypography-IDEA-Plugin](https://github.com/judasn/ChineseTypography-IDEA-Plugin) - 我常用 IntelliJ IDEA 进行写作，开发此插件可以快速对文章内容的中文、英文、符号之间增加空格，增加文章可读性。
 - [JetBrains/jcef](https://github.com/JetBrains/jcef) - A simple framework for embedding Chromium-based browsers into Java-based applications.
 - [shuzijun/markdown-editor](https://github.com/shuzijun/markdown-editor) - IntelliJ Platform A full-featured WYSIWYG editor for markdown
@@ -652,6 +653,7 @@
 
 ## Python 
 
+- [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [bojone/GPLinker](https://github.com/bojone/GPLinker) - 基于GlobalPointer的实体/关系/事件抽取
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
