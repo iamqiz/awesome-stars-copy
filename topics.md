@@ -825,6 +825,7 @@
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [l0o0/translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取插件
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
@@ -1152,6 +1153,8 @@
 
 ## others 
 
+- [youtube/api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
+- [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows 10 quickly and easily with Text Grab. With optional background process and popups.
 - [bojone/GPLinker](https://github.com/bojone/GPLinker) - 基于GlobalPointer的实体/关系/事件抽取
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
@@ -1516,7 +1519,7 @@
 - [SnailTyan/deep-learning-papers-translation](https://github.com/SnailTyan/deep-learning-papers-translation) - 深度学习论文翻译，包括分类论文，检测论文等
 - [jgpaiva/GridMove](https://github.com/jgpaiva/GridMove) - GridMove is a program that aims at making windows management easier. It helps you with this task by defining a visual grid on your desktop, to which you can easily snap windows.
 - [tablacus/TablacusExplorer](https://github.com/tablacus/TablacusExplorer) - A tabbed file manager with Add-on support
-- [Lexikos/AutoHotkey_L-Docs](https://github.com/Lexikos/AutoHotkey_L-Docs) - Documentation for AutoHotkey
+- [AutoHotkey/AutoHotkeyDocs](https://github.com/AutoHotkey/AutoHotkeyDocs) - Documentation for AutoHotkey
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
 - [macanv/BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER) - Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning And private Server services
@@ -1790,6 +1793,7 @@
 
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
@@ -1803,6 +1807,7 @@
 
 ## reactjs 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 
 ## rest-api 
