@@ -174,7 +174,7 @@
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
-- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
+- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -214,7 +214,7 @@
 - [tablacus/TablacusExplorer](https://github.com/tablacus/TablacusExplorer) - A tabbed file manager with Add-on support
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
-- [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [pkumod/gStore](https://github.com/pkumod/gStore) - gStore - a graph based RDF triple store.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction
@@ -390,6 +390,7 @@
 
 ## JavaScript 
 
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [whitescent/KFC-Crazy-Thursday](https://github.com/whitescent/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
@@ -479,6 +480,7 @@
 
 ## Jupyter Notebook 
 
+- [keras-team/keras-io](https://github.com/keras-team/keras-io) - Keras documentation, hosted live at keras.io
 - [km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes) - 该仓库主要记录 NLP 算法工程师相关的面试题
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [piEsposito/pytorch-lstm-by-hand](https://github.com/piEsposito/pytorch-lstm-by-hand) - A small and simple tutorial on how to craft a LSTM nn.Module by hand on PyTorch.
@@ -563,6 +565,7 @@
 
 ## Others 
 
+- [keras-team/keras-docs-zh](https://github.com/keras-team/keras-docs-zh) - Chinese (zh-cn) translation of the Keras documentation.
 - [siyuan-note/insider](https://github.com/siyuan-note/insider) - SiYuan Insider Preview
 - [Nasller/LicenseServer](https://github.com/Nasller/LicenseServer) - Intellij plugin
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
@@ -653,6 +656,7 @@
 
 ## Python 
 
+- [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp) - Industry-strength Natural Language Processing workflows with Keras
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [bojone/GPLinker](https://github.com/bojone/GPLinker) - 基于GlobalPointer的实体/关系/事件抽取
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
@@ -679,7 +683,7 @@
 - [romis2012/python-socks](https://github.com/romis2012/python-socks) - Core proxy client (SOCKS4, SOCKS5, HTTP) functionality for Python
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [donkirkby/live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
-- [Tongjilibo/bert4torch](https://github.com/Tongjilibo/bert4torch) - 参考bert4keras的pytorch实现
+- [Tongjilibo/bert4torch](https://github.com/Tongjilibo/bert4torch) - pytorch implement of transformers refer to bert4keras
 - [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [GuocaiL/nlp_corpus](https://github.com/GuocaiL/nlp_corpus) - 本人项目进行中搜集的数据集，包含原始数据和经过处理后的数据，项目持续更新。
 - [invl/pip-autoremove](https://github.com/invl/pip-autoremove) - Remove a package and its unused dependencies.
