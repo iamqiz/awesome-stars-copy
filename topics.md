@@ -1158,6 +1158,7 @@
 
 ## others 
 
+- [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp) - Industry-strength Natural Language Processing workflows with Keras
 - [keras-team/keras-io](https://github.com/keras-team/keras-io) - Keras documentation, hosted live at keras.io
