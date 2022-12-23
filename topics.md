@@ -277,6 +277,7 @@
 
 ## chrome 
 
+- [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - 脚本猫,一个可以执行用户脚本的浏览器扩展,万物皆可脚本化,让你的浏览器可以做更多的事情!
 - [hypothesis/browser-extension](https://github.com/hypothesis/browser-extension) - The Hypothesis browser extensions.
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
@@ -297,6 +298,7 @@
 
 ## chrome-extension 
 
+- [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - 脚本猫,一个可以执行用户脚本的浏览器扩展,万物皆可脚本化,让你的浏览器可以做更多的事情!
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
@@ -561,6 +563,7 @@
 
 ## firefox 
 
+- [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - 脚本猫,一个可以执行用户脚本的浏览器扩展,万物皆可脚本化,让你的浏览器可以做更多的事情!
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [hypothesis/browser-extension](https://github.com/hypothesis/browser-extension) - The Hypothesis browser extensions.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -1739,6 +1742,7 @@
 
 ## pytorch 
 
+- [Spico197/DocEE](https://github.com/Spico197/DocEE) - 🕹️ A toolkit for document-level event extraction, containing some SOTA model implementations.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [PaddlePaddle/X2Paddle](https://github.com/PaddlePaddle/X2Paddle) - Deep learning model converter for PaddlePaddle. (『飞桨』深度学习模型转换工具)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summariza
