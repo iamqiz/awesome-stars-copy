@@ -567,6 +567,7 @@
 
 ## Others 
 
+- [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler) - A spaced repetition algorithm based on DSR model
 - [keras-team/keras-docs-zh](https://github.com/keras-team/keras-docs-zh) - Chinese (zh-cn) translation of the Keras documentation.
 - [siyuan-note/insider](https://github.com/siyuan-note/insider) - SiYuan Insider Preview
 - [Nasller/LicenseServer](https://github.com/Nasller/LicenseServer) - Intellij plugin
