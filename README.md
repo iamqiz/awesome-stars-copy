@@ -158,6 +158,7 @@
 
 ## C++ 
 
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - 
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -391,6 +392,7 @@
 
 ## JavaScript 
 
+- [endday/all-search](https://github.com/endday/all-search) - all-search 全搜，一个搜索引擎快捷跳转菜单
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
