@@ -67,6 +67,7 @@
 - [haskell](#haskell)
 - [html](#html)
 - [http](#http)
+- [image-processing](#image-processing)
 - [ios](#ios)
 - [ipfs](#ipfs)
 - [java](#java)
@@ -99,6 +100,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [open-source](#open-source)
+- [opencv](#opencv)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -357,6 +359,7 @@
 
 ## computer-vision 
 
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [manciuszz/AHK-OpenCV](https://github.com/manciuszz/AHK-OpenCV) - OpenCV 2.4 support for AutoHotkey.
@@ -430,6 +433,7 @@
 
 ## deep-learning 
 
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
@@ -757,6 +761,10 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+
+## image-processing 
+
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
 ## ios 
 
@@ -1157,6 +1165,10 @@
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
+## opencv 
+
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
 ## others 
 
@@ -2037,6 +2049,7 @@
 
 ## vue 
 
+- [endday/all-search](https://github.com/endday/all-search) - all-search 全搜，一个搜索引擎快捷跳转菜单
 - [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
