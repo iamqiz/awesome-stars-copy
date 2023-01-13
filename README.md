@@ -1005,6 +1005,7 @@
 
 ## TypeScript 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - 脚本猫,一个可以执行用户脚本的浏览器扩展,万物皆可脚本化,让你的浏览器可以做更多的事情!
 - [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
