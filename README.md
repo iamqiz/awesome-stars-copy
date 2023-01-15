@@ -662,6 +662,8 @@
 
 ## Python 
 
+- [finalion/WordQuery](https://github.com/finalion/WordQuery) - word fast-querying addon for anki
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [Spico197/DocEE](https://github.com/Spico197/DocEE) - 🕹️ A toolkit for document-level event extraction, containing some SOTA model implementations.
 - [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras
