@@ -151,6 +151,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [windows](#windows)
+- [wordpress](#wordpress)
 - [xml](#xml)
 
 ## ai 
@@ -2127,6 +2128,10 @@
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+
+## wordpress 
+
+- [terwer/sy-post-publisher](https://github.com/terwer/sy-post-publisher) - Publish siyuan article to supported open platforms 发布思源笔记到支持的平台
 
 ## xml 
 
