@@ -666,6 +666,7 @@
 
 ## Python 
 
+- [eventlet/eventlet](https://github.com/eventlet/eventlet) - Concurrent networking library for Python
 - [requests/requests-oauthlib](https://github.com/requests/requests-oauthlib) - OAuthlib support for Python-Requests!
 - [finalion/WordQuery](https://github.com/finalion/WordQuery) - word fast-querying addon for anki
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
