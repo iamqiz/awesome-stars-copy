@@ -1412,7 +1412,7 @@
 - [bojone/GlobalPointer](https://github.com/bojone/GlobalPointer) - 全局指针统一处理嵌套与非嵌套NER
 - [ZhuiyiTechnology/roformer](https://github.com/ZhuiyiTechnology/roformer) - Rotary Transformer
 - [thunlp/PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
-- [cooelf/AwesomeMRC](https://github.com/cooelf/AwesomeMRC) - Research summary and playground for MRC & code for Retrospective Reader for Machine Reading Comprehension (AAAI 2021)
+- [cooelf/AwesomeMRC](https://github.com/cooelf/AwesomeMRC) - IJCAI 2021 Tutorial & code for Retrospective Reader for Machine Reading Comprehension (AAAI 2021)
 - [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 - [bojone/kg-2019](https://github.com/bojone/kg-2019) - 2019年百度的三元组抽取比赛，“科学空间队”源码
 - [bojone/lic2020_baselines](https://github.com/bojone/lic2020_baselines) - some baselines for lic2020 (http://lic2020.cipsc.org.cn/)
