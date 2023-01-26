@@ -776,7 +776,7 @@
 - [bojone/GlobalPointer](https://github.com/bojone/GlobalPointer) - 全局指针统一处理嵌套与非嵌套NER
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [ZhuiyiTechnology/roformer](https://github.com/ZhuiyiTechnology/roformer) - Rotary Transformer
-- [cooelf/AwesomeMRC](https://github.com/cooelf/AwesomeMRC) - Research summary and playground for MRC & code for Retrospective Reader for Machine Reading Comprehension (AAAI 2021)
+- [cooelf/AwesomeMRC](https://github.com/cooelf/AwesomeMRC) - IJCAI 2021 Tutorial & code for Retrospective Reader for Machine Reading Comprehension (AAAI 2021)
 - [bojone/kg-2019](https://github.com/bojone/kg-2019) - 2019年百度的三元组抽取比赛，“科学空间队”源码
 - [bojone/lic2020_baselines](https://github.com/bojone/lic2020_baselines) - some baselines for lic2020 (http://lic2020.cipsc.org.cn/)
 - [ShannonAI/mrc-for-flat-nested-ner](https://github.com/ShannonAI/mrc-for-flat-nested-ner) - Code for ACL 2020 paper `A Unified MRC Framework for Named Entity Recognition`
