@@ -394,6 +394,9 @@
 
 ## JavaScript 
 
+- [BoyceLig/ClashSinicizationTool](https://github.com/BoyceLig/ClashSinicizationTool) - 
+- [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
+- [BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch) - Clash For Windows 汉化补丁和汉化脚本
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 - [terwer/sy-post-publisher](https://github.com/terwer/sy-post-publisher) - Publish siyuan article to supported open platforms 发布思源笔记到支持的平台
@@ -576,6 +579,7 @@
 
 ## Others 
 
+- [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
 - [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler) - A spaced repetition algorithm based on DSR model
 - [keras-team/keras-docs-zh](https://github.com/keras-team/keras-docs-zh) - Chinese (zh-cn) translation of the Keras documentation.
 - [siyuan-note/insider](https://github.com/siyuan-note/insider) - SiYuan Insider Preview
@@ -607,7 +611,6 @@
 - [thunlp/PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
 - [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 - [Dictionaryphile/GoldenDict_zh_manual](https://github.com/Dictionaryphile/GoldenDict_zh_manual) - GoldenDict 中文用户手册
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [coodesker/coodesker-desktop](https://github.com/coodesker/coodesker-desktop) - Desktop orgainze tool
 - [cmiscm/stickerjs](https://github.com/cmiscm/stickerjs) - 
@@ -733,7 +736,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [gaohongkui/TPLinker-NER](https://github.com/gaohongkui/TPLinker-NER) - TPlinker for NER 中文/英文命名实体识别
 - [v-mipeng/LexiconAugmentedNER](https://github.com/v-mipeng/LexiconAugmentedNER) - Reject complicated operations for incorporating lexicon for Chinese NER.
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [bojone/SimCSE](https://github.com/bojone/SimCSE) - SimCSE在中文任务上的简单实验
 - [alibaba-edu/simple-effective-text-matching-pytorch](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch) - A pytorch implementation of the ACL2019 paper "Simple and Effective Text Matching with Richer Alignment Features".
 - [StonyBrookNLP/deformer](https://github.com/StonyBrookNLP/deformer) - [ACL 2020] DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering
