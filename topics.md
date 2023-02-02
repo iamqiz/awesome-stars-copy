@@ -1195,6 +1195,7 @@
 
 ## others 
 
+- [vittorioromeo/vscode-expand-selection-to-scope](https://github.com/vittorioromeo/vscode-expand-selection-to-scope) - Extension that introduces a command to incrementally expand the selection to the nearest outer scope.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [BoyceLig/ClashSinicizationTool](https://github.com/BoyceLig/ClashSinicizationTool) - 
 - [BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch) - Clash For Windows 汉化补丁和汉化脚本
@@ -1337,7 +1338,7 @@
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [m417z/Textify](https://github.com/m417z/Textify) - A tool for Windows to copy text from dialogs and controls which don't allow it otherwise
 - [snolab/CapsLockX](https://github.com/snolab/CapsLockX) - Manipulate your computer like a hacker! 像黑客一样操作电脑！
-- [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - PDF translation add-on for Zotero 6
+- [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - PDF translation add-on for Zotero
 - [saleguas/freshen-file-sorter](https://github.com/saleguas/freshen-file-sorter) - A super-convenient Python file sorter that attaches to your context menu!
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
