@@ -396,6 +396,7 @@
 
 ## JavaScript 
 
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [BoyceLig/ClashSinicizationTool](https://github.com/BoyceLig/ClashSinicizationTool) - 
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch) - Clash For Windows 汉化补丁和汉化脚本
@@ -495,6 +496,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [keras-team/keras-io](https://github.com/keras-team/keras-io) - Keras documentation, hosted live at keras.io
 - [km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes) - 该仓库主要记录 NLP 算法工程师相关的面试题
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
