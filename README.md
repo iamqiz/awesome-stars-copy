@@ -239,6 +239,7 @@
 ## CSS 
 
 - [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [ankitects/anki-manual](https://github.com/ankitects/anki-manual) - Anki's manual
 - [JetBrains/jetbrains_guide](https://github.com/JetBrains/jetbrains_guide) - JetBrains Guides where Developer Advocacy and the community share ideas.
@@ -306,7 +307,6 @@
 - [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - 点击这里立即在线体验
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
-- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - PDF Preview for Zotero.
 - [coralsw/CapsEz](https://github.com/coralsw/CapsEz) - KeyMouse Tools
@@ -915,7 +915,7 @@
 - [NLP-LOVE/Introduction-NLP](https://github.com/NLP-LOVE/Introduction-NLP) - HanLP作者的新书《自然语言处理入门》详细笔记！业界良心之作，书中不是枯燥无味的公式罗列，而是用白话阐述的通俗易懂的算法模型。从基本概念出发，逐步介绍中文分词、词性标注、命名实体识别、信息抽取、文本聚类、文本分类、句法分析这几个热门问题的算法原理与工程实现。
 - [guillaumegenthial/sequence_tagging](https://github.com/guillaumegenthial/sequence_tagging) - Named Entity Recognition (LSTM + CRF) - Tensorflow
 - [pandolia/qqbot](https://github.com/pandolia/qqbot) - QQBot: A conversation robot base on Tencent's SmartQQ
-- [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
+- [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
 - [macanv/BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER) - Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning And private Server services
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
