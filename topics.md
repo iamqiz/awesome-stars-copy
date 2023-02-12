@@ -32,6 +32,7 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
+- [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
@@ -53,6 +54,7 @@
 - [express](#express)
 - [firefox](#firefox)
 - [flask](#flask)
+- [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -79,6 +81,7 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jquery](#jquery)
+- [js](#js)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
 - [kotlin](#kotlin)
@@ -92,7 +95,9 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [material-design](#material-design)
 - [matlab](#matlab)
+- [mobile](#mobile)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [neovim](#neovim)
@@ -185,12 +190,13 @@
 
 ## android 
 
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -228,7 +234,7 @@
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 - [cobrateam/splinter](https://github.com/cobrateam/splinter) - splinter - python test framework for web applications
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [HotKeyIt/ahkdll](https://github.com/HotKeyIt/ahkdll) - AutoHotkey_H
@@ -402,13 +408,14 @@
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  🏮2023新年快乐🏮 https://yuque.com/indiff/qttabbar/zqtdig
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [Bluegrams/ScreenRuler](https://github.com/Bluegrams/ScreenRuler) - Configurable screen measuring tool for Windows
 
 ## css 
 
+- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验，纯html/css/js静态网页 点击下面的链接在线体验
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [Zuoqiu-Yingyi/siyuan-theme-dark-plus](https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus) - 思源笔记的一款双色主题 | A bicolor theme of SiYuan Note.
@@ -416,6 +423,10 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
+
+## dart 
+
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## data 
 
@@ -556,6 +567,7 @@
 
 ## electron 
 
+- [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 滚动截屏 Screenshot  OCR  search  translate  search for picture  paste the picture on the screen  screen recorder
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
@@ -612,6 +624,10 @@
 
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.
+
+## flutter 
+
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## font 
 
@@ -735,6 +751,7 @@
 
 ## hacktoberfest 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -785,6 +802,7 @@
 
 ## html 
 
+- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验，纯html/css/js静态网页 点击下面的链接在线体验
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
@@ -811,6 +829,7 @@
 
 ## ios 
 
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 
 ## ipfs 
@@ -901,7 +920,7 @@
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode) - Play Leetcode with different programming language
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [dubox/jSearch](https://github.com/dubox/jSearch) - jSearch(聚搜) 是一款专注内容的chrome搜索扩展，一次搜索聚合多平台内容。
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -918,6 +937,10 @@
 
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [songjinzhong/JQuerySource](https://github.com/songjinzhong/JQuerySource) - jQuery 源码解读，v3.1.1，从菜鸟到大神之路
+
+## js 
+
+- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验，纯html/css/js静态网页 点击下面的链接在线体验
 
 ## json 
 
@@ -1054,6 +1077,7 @@
 
 ## macos 
 
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
@@ -1083,9 +1107,17 @@
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
+## material-design 
+
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
 ## matlab 
 
 - [PRML/PRMLT](https://github.com/PRML/PRMLT) - Matlab code of machine learning algorithms in book PRML
+
+## mobile 
+
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## monitoring 
 
@@ -1201,7 +1233,7 @@
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## npm 
@@ -1230,8 +1262,8 @@
 
 ## others 
 
+- [qingconglaixueit/wechatbot](https://github.com/qingconglaixueit/wechatbot) - 为个人微信接入ChatGPT
 - [jabacchetta/vscode-essentials](https://github.com/jabacchetta/vscode-essentials) - Turn VSCode into a supercharged IDE.
-- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - 点击这里立即在线体验
 - [clue-ai/clueai-python](https://github.com/clue-ai/clueai-python) - clueai工具包: 3行代码3分钟，自定义需要的API！
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [vittorioromeo/vscode-expand-selection-to-scope](https://github.com/vittorioromeo/vscode-expand-selection-to-scope) - Extension that introduces a command to incrementally expand the selection to the nearest outer scope.
@@ -1938,6 +1970,7 @@
 
 ## rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -2114,7 +2147,7 @@
 
 ## unity 
 
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 
 ## vagrant 
 
@@ -2153,6 +2186,7 @@
 
 ## web 
 
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -2168,6 +2202,7 @@
 
 ## windows 
 
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
