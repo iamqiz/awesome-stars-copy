@@ -418,7 +418,6 @@
 - [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验，纯html/css/js静态网页 点击下面的链接在线体验
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
-- [Zuoqiu-Yingyi/siyuan-theme-dark-plus](https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus) - 思源笔记的一款双色主题 | A bicolor theme of SiYuan Note.
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -695,6 +694,7 @@
 
 ## go 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [flashmob/go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
@@ -714,6 +714,7 @@
 
 ## golang 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
@@ -977,6 +978,7 @@
 
 ## language 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 
 ## latex 
@@ -1262,6 +1264,7 @@
 
 ## others 
 
+- [albertromkes/tabout](https://github.com/albertromkes/tabout) - Tab out of quotes, brackets, etc for Visual Studio Code
 - [dima74/intellij-indent-rainbow](https://github.com/dima74/intellij-indent-rainbow) - Extension which shows indentation with a faint rainbow colored background to make them more readable
 - [github/cmark-gfm](https://github.com/github/cmark-gfm) - GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
 - [qingconglaixueit/wechatbot](https://github.com/qingconglaixueit/wechatbot) - 为个人微信接入ChatGPT
@@ -1368,10 +1371,11 @@
 - [JetBrains/intellij-plugin-verifier](https://github.com/JetBrains/intellij-plugin-verifier) - Compatibility verification tool for IntelliJ Platform plugins
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [git-for-windows/git-for-windows.github.io](https://github.com/git-for-windows/git-for-windows.github.io) - Git for Windows' home page
-- [cmf/psiviewer](https://github.com/cmf/psiviewer) - PSI Viewer for IntelliJ IDEA plugin development
+- [JetBrains/psiviewer](https://github.com/JetBrains/psiviewer) - PSI Viewer for IntelliJ IDEA plugin development
 - [JetBrains/Grammar-Kit](https://github.com/JetBrains/Grammar-Kit) - Grammar files support & parser/PSI generation for IntelliJ IDEA
 - [tech-fever/GLaDOS_Checkin](https://github.com/tech-fever/GLaDOS_Checkin) - GLaDOS自动签到js脚本
 - [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
+- [Zuoqiu-Yingyi/siyuan-theme-dark-plus](https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus) - 思源笔记的一款双色主题 | A bicolor theme of SiYuan Note.
 - [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus) - New Tab mix plus for modern Firefox
 - [cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com) - 骂人宝典（祖安语录）
 - [JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
