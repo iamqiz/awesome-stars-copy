@@ -312,6 +312,7 @@
 
 ## HTML 
 
+- [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验，纯html/css/js静态网页 点击下面的链接在线体验
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
@@ -690,6 +691,7 @@
 
 ## Python 
 
+- [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个命令行的ChatGPT。
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [clue-ai/clueai-python](https://github.com/clue-ai/clueai-python) - clueai工具包: 3行代码3分钟，自定义需要的API！
 - [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector, Language Classifier and Spoken Number Detector
