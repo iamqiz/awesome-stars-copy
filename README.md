@@ -271,6 +271,7 @@
 
 ## Go 
 
+- [cdle/sillyGirl](https://github.com/cdle/sillyGirl) - 傻妞机器人
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [qingconglaixueit/wechatbot](https://github.com/qingconglaixueit/wechatbot) - 为个人微信接入ChatGPT
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -408,6 +409,8 @@
 
 ## JavaScript 
 
+- [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
+- [leolee9086/snippets](https://github.com/leolee9086/snippets) - 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [BoyceLig/ClashSinicizationTool](https://github.com/BoyceLig/ClashSinicizationTool) - 
@@ -1044,6 +1047,8 @@
 
 ## TypeScript 
 
+- [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products.
+- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
 - [albertromkes/tabout](https://github.com/albertromkes/tabout) - Tab out of quotes, brackets, etc for Visual Studio Code
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 滚动截屏 Screenshot  OCR  search  translate  search for picture  paste the picture on the screen  screen recorder
