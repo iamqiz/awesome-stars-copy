@@ -119,6 +119,7 @@
 
 ## C# # 
 
+- [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [BYJRK/LyricEditor](https://github.com/BYJRK/LyricEditor) - A much modified lyric editor with fancy (maybe) UI based on WPF
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows 10 quickly and easily with Text Grab. With optional background process and popups.
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
