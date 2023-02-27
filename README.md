@@ -351,6 +351,7 @@
 
 ## Java 
 
+- [4ch1m/ChangelistOrganizer](https://github.com/4ch1m/ChangelistOrganizer) - Automated Changelist Organizing for IntelliJ IDEA
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [youtube/api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
@@ -1091,7 +1092,7 @@
 - [leolee9086/noob](https://github.com/leolee9086/noob) - 重构后的发布示例
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
-- [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌲 Copy content from web powerful than ever before.
+- [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library
