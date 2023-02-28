@@ -413,7 +413,7 @@
 - [Angel-ML/angel](https://github.com/Angel-ML/angel) - A Flexible and Powerful Parameter Server for large-scale machine learning
 - [soberqian/TopicModel4J](https://github.com/soberqian/TopicModel4J) - TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Mode
 - [protegeproject/protege](https://github.com/protegeproject/protege) - Protege Desktop
-- [apache/opennlp](https://github.com/apache/opennlp) - Mirror of Apache OpenNLP
+- [apache/opennlp](https://github.com/apache/opennlp) - Apache OpenNLP
 - [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
 
 ## JavaScript 
