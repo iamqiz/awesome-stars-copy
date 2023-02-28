@@ -326,7 +326,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
-- [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌲 Copy content from web powerful than ever before.
+- [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
 - [yuhaofe/Quick-Bookmarks-Menu](https://github.com/yuhaofe/Quick-Bookmarks-Menu) - A chrome extension gives you quick access to your bookmarks.
 - [siyuan-note/siyuan-chrome](https://github.com/siyuan-note/siyuan-chrome) - Chrome extension for SiYuan
 - [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
@@ -885,7 +885,6 @@
 - [baidu/lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别，词重要性
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [protegeproject/protege](https://github.com/protegeproject/protege) - Protege Desktop
-- [apache/opennlp](https://github.com/apache/opennlp) - Mirror of Apache OpenNLP
 - [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
 
 ## javafx 
@@ -1013,7 +1012,6 @@
 - [itext/itext7](https://github.com/itext/itext7) - iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabi
 - [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
-- [apache/opennlp](https://github.com/apache/opennlp) - Mirror of Apache OpenNLP
 
 ## linux 
 
@@ -1231,6 +1229,7 @@
 - [fastai/course-nlp](https://github.com/fastai/course-nlp) - A Code-First Introduction to NLP course
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [allenai/allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
+- [apache/opennlp](https://github.com/apache/opennlp) - Apache OpenNLP
 - [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) - Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.
 - [ownthink/Jiagu](https://github.com/ownthink/Jiagu) - Jiagu深度学习自然语言处理工具  知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
@@ -1278,6 +1277,7 @@
 
 ## others 
 
+- [4ch1m/ChangelistOrganizer](https://github.com/4ch1m/ChangelistOrganizer) - Automated Changelist Organizing for IntelliJ IDEA
 - [csapuntz/siteblock](https://github.com/csapuntz/siteblock) - Siteblock chrome extension
 - [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provides network connectivity to WSL 2 when blocked by VPN
 - [logseq/logseq-plugin-samples](https://github.com/logseq/logseq-plugin-samples) - Logseq plugin samples for beginner 🌱
@@ -2161,7 +2161,7 @@
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-- [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌲 Copy content from web powerful than ever before.
+- [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [sleistner/vscode-fileutils](https://github.com/sleistner/vscode-fileutils) - Visual Studio Code Extension
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
