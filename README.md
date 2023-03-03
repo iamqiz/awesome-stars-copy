@@ -16,6 +16,7 @@
 - [CoffeeScript](#coffeescript)
 - [Cython](#cython)
 - [Dart](#dart)
+- [Gherkin](#gherkin)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -272,6 +273,10 @@
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
+## Gherkin 
+
+- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
+
 ## Go 
 
 - [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provides network connectivity to WSL 2 when blocked by VPN
@@ -419,6 +424,7 @@
 
 ## JavaScript 
 
+- [hltj/kotlin-web-site-cn](https://github.com/hltj/kotlin-web-site-cn) - Kotlin 语言中文站
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [csapuntz/siteblock](https://github.com/csapuntz/siteblock) - Siteblock chrome extension
 - [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
