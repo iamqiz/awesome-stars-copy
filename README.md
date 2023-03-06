@@ -34,6 +34,7 @@
 - [Markdown](#markdown)
 - [Mustache](#mustache)
 - [OCaml](#ocaml)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -425,6 +426,7 @@
 
 ## JavaScript 
 
+- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [hltj/kotlin-web-site-cn](https://github.com/hltj/kotlin-web-site-cn) - Kotlin 语言中文站
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [csapuntz/siteblock](https://github.com/csapuntz/siteblock) - Siteblock chrome extension
@@ -472,7 +474,7 @@
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [ZindexYG/na-example](https://github.com/ZindexYG/na-example) - Node - Github Action - Dockhub
 - [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus) - An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager".
-- [l0o0/translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取插件
+- [l0o0/translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -617,6 +619,10 @@
 ## OCaml 
 
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
+
+## Objective-C 
+
+- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 
 ## Others 
 
