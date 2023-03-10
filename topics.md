@@ -1298,6 +1298,7 @@
 
 ## others 
 
+- [sburlyaev/IDEA-Native-Terminal-Plugin](https://github.com/sburlyaev/IDEA-Native-Terminal-Plugin) - Native Terminal Plugin for JetBrains IDEs
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
