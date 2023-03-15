@@ -1312,6 +1312,7 @@
 
 ## others 
 
+- [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [sburlyaev/IDEA-Native-Terminal-Plugin](https://github.com/sburlyaev/IDEA-Native-Terminal-Plugin) - Native Terminal Plugin for JetBrains IDEs
@@ -2251,6 +2252,7 @@
 
 ## vue 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [endday/all-search](https://github.com/endday/all-search) - all-search 全搜，一个搜索引擎快捷跳转菜单
 - [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
