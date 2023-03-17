@@ -326,6 +326,7 @@
 
 ## HTML 
 
+- [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - Chrome Developers
 - [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
 - [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
@@ -430,6 +431,8 @@
 
 ## JavaScript 
 
+- [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [hltj/kotlin-web-site-cn](https://github.com/hltj/kotlin-web-site-cn) - Kotlin 语言中文站
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -630,6 +633,7 @@
 
 ## Others 
 
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [jabacchetta/vscode-essentials](https://github.com/jabacchetta/vscode-essentials) - Turn VSCode into a supercharged IDE.
 - [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
 - [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler) - A spaced repetition algorithm based on DSR model
