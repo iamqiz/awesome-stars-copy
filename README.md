@@ -431,6 +431,8 @@
 
 ## JavaScript 
 
+- [nickdesaulniers/netfix](https://github.com/nickdesaulniers/netfix) - Let's build a Netflix
+- [commonmark/commonmark.js](https://github.com/commonmark/commonmark.js) - CommonMark parser and renderer in JavaScript
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
@@ -729,6 +731,7 @@
 
 ## Python 
 
+- [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [jnavila/git-manpages-l10n](https://github.com/jnavila/git-manpages-l10n) - Translation of git manpages
 - [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个不只是命令行的ChatGPT。
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
