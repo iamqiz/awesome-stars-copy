@@ -281,7 +281,6 @@
 ## Go 
 
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-- [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provides network connectivity to WSL 2 when blocked by VPN
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 - [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [cdle/sillyGirl](https://github.com/cdle/sillyGirl) - 傻妞机器人
@@ -348,6 +347,7 @@
 
 ## Haskell 
 
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Inno Setup 
@@ -1060,6 +1060,7 @@
 ## Shell 
 
 - [gradle/gradle-completion](https://github.com/gradle/gradle-completion) - Gradle tab completion for bash and zsh
+- [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provides network connectivity to WSL 2 when blocked by VPN
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
 - [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
