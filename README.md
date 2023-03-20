@@ -121,6 +121,7 @@
 
 ## C# # 
 
+- [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [BYJRK/LyricEditor](https://github.com/BYJRK/LyricEditor) - A much modified lyric editor with fancy (maybe) UI based on WPF
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows 10 quickly and easily with Text Grab. With optional background process and popups.
@@ -280,6 +281,7 @@
 
 ## Go 
 
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global CDN for NPM packages with ESM format.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 - [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -731,6 +733,7 @@
 
 ## Python 
 
+- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [jnavila/git-manpages-l10n](https://github.com/jnavila/git-manpages-l10n) - Translation of git manpages
 - [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个不只是命令行的ChatGPT。
@@ -1089,6 +1092,10 @@
 
 ## TypeScript 
 
+- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
