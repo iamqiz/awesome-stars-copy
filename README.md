@@ -285,7 +285,7 @@
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global CDN for NPM packages with ESM format.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
-- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [cdle/sillyGirl](https://github.com/cdle/sillyGirl) - 傻妞机器人
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [qingconglaixueit/wechatbot](https://github.com/qingconglaixueit/wechatbot) - 为个人微信接入ChatGPT
@@ -309,7 +309,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [shayne/go-wsl2-host](https://github.com/shayne/go-wsl2-host) - Automatically update your Windows hosts file with the WSL2 VM IP address
@@ -770,7 +770,7 @@
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
 - [Infinidat/munch](https://github.com/Infinidat/munch) - A Munch is a Python dictionary that provides attribute-style access (a la JavaScript objects).
 - [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [benjaminp/six](https://github.com/benjaminp/six) - Python 2 and 3 compatibility library
 - [xiangking/ark-nlp](https://github.com/xiangking/ark-nlp) - A private nlp coding package, which quickly implements the SOTA solutions.
 - [MuQiuJun-AI/bert4pytorch](https://github.com/MuQiuJun-AI/bert4pytorch) - 超轻量级bert的pytorch版本，大量中文注释，容易修改结构，持续更新
