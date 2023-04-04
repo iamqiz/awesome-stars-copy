@@ -46,6 +46,7 @@
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -431,7 +432,6 @@
 - [soberqian/TopicModel4J](https://github.com/soberqian/TopicModel4J) - TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Mode
 - [protegeproject/protege](https://github.com/protegeproject/protege) - Protege Desktop
 - [apache/opennlp](https://github.com/apache/opennlp) - Apache OpenNLP
-- [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
 
 ## JavaScript 
 
@@ -549,6 +549,7 @@
 - [lusakasa/saka-key](https://github.com/lusakasa/saka-key) - A keyboard interface to the web
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
+- [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
 - [l11x0m7/book-of-qna-code](https://github.com/l11x0m7/book-of-qna-code) - code collections for the book of qna
 
 ## Jupyter Notebook 
@@ -1073,6 +1074,10 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
+
+## Scala 
+
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 
 ## Shell 
 
