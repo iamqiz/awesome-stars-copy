@@ -1353,6 +1353,7 @@
 
 ## others 
 
+- [yangjianxin1/LEBERT-NER-Chinese](https://github.com/yangjianxin1/LEBERT-NER-Chinese) - 基于词汇信息融合的中文NER模型
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
