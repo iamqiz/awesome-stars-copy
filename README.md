@@ -745,6 +745,7 @@
 
 ## Python 
 
+- [yangjianxin1/LEBERT-NER-Chinese](https://github.com/yangjianxin1/LEBERT-NER-Chinese) - 基于词汇信息融合的中文NER模型
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [jnavila/git-manpages-l10n](https://github.com/jnavila/git-manpages-l10n) - Translation of git manpages
