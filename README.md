@@ -884,7 +884,7 @@
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [tkipf/pygcn](https://github.com/tkipf/pygcn) - Graph Convolutional Networks in PyTorch
 - [Diego999/pyGAT](https://github.com/Diego999/pyGAT) - Pytorch implementation of the Graph Attention Network model by Veličković et. al (2017, https://arxiv.org/abs/1710.10903)
-- [yzhangcs/parser](https://github.com/yzhangcs/parser) - :rocket: State-of-the-art syntactic/semantic parsers with pretrained models for many languages.
+- [yzhangcs/parser](https://github.com/yzhangcs/parser) - :rocket: State-of-the-art parsers for natural language.
 - [lavis-nlp/spert](https://github.com/lavis-nlp/spert) - PyTorch code for SpERT: Span-based Entity and Relation Transformer
 - [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
@@ -1166,6 +1166,7 @@
 - [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library
 - [StarlaneStudios/vscode-comment-anchors](https://github.com/StarlaneStudios/vscode-comment-anchors) - ⚓A Visual Studio Code extension that adds support for comment anchors 🔭
 - [yuhaofe/Quick-Bookmarks-Menu](https://github.com/yuhaofe/Quick-Bookmarks-Menu) - A chrome extension gives you quick access to your bookmarks.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - PDF translation add-on for Zotero
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [oraz/bookmarksMenu](https://github.com/oraz/bookmarksMenu) - Bookmarks Menu extension for Google Chrome
@@ -1213,7 +1214,6 @@
 - [all-search/all-search](https://github.com/all-search/all-search) - all-search 全搜，一个搜索引擎快捷跳转菜单
 - [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 
