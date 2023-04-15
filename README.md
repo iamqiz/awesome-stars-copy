@@ -123,6 +123,7 @@
 
 ## C# # 
 
+- [Raymai97/AccentPaletteTool](https://github.com/Raymai97/AccentPaletteTool) - Handy tool to change the AccentPalette in Win10 build 14393 (ver 1607).
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [BYJRK/LyricEditor](https://github.com/BYJRK/LyricEditor) - A much modified lyric editor with fancy (maybe) UI based on WPF
