@@ -169,6 +169,7 @@
 
 ## C++ 
 
+- [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - 
@@ -284,6 +285,7 @@
 
 ## Go 
 
+- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global CDN for NPM packages with ESM format.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
@@ -295,7 +297,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [flashmob/go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [josephspurrier/goversioninfo](https://github.com/josephspurrier/goversioninfo) - Golang Microsoft Windows File Properties/Version Info and Icon Resource Generator
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
@@ -304,7 +306,7 @@
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [88250/gulu](https://github.com/88250/gulu) - ⭕ Go 语言常用工具库，这个轱辘还算圆！
 - [common-nighthawk/go-figure](https://github.com/common-nighthawk/go-figure) - Prints ASCII art from text.
-- [siyuan-note/bazaar](https://github.com/siyuan-note/bazaar) - SiYuan community bazaar
+- [siyuan-note/bazaar](https://github.com/siyuan-note/bazaar) - SiYuan community marketplace
 - [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
@@ -645,6 +647,7 @@
 
 ## OCaml 
 
+- [batsh-dev-team/Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 
 ## Objective-C 
