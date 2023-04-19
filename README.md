@@ -123,6 +123,7 @@
 
 ## C# # 
 
+- [rostok/file2clip](https://github.com/rostok/file2clip) - simple command line tool to copy file into windows clipboard
 - [Raymai97/AccentPaletteTool](https://github.com/Raymai97/AccentPaletteTool) - Handy tool to change the AccentPalette in Win10 build 14393 (ver 1607).
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
@@ -286,7 +287,7 @@
 ## Go 
 
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global CDN for NPM packages with ESM format.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global content delivery network (CDN) for modern(es2015+) web development.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
