@@ -123,6 +123,8 @@
 
 ## C# # 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+- [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [rostok/file2clip](https://github.com/rostok/file2clip) - simple command line tool to copy file into windows clipboard
 - [Raymai97/AccentPaletteTool](https://github.com/Raymai97/AccentPaletteTool) - Handy tool to change the AccentPalette in Win10 build 14393 (ver 1607).
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
@@ -761,6 +763,7 @@
 
 ## Python 
 
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [modelscope/AdaSeq](https://github.com/modelscope/AdaSeq) - AdaSeq: An All-in-One Library for Developing State-of-the-Art Sequence Understanding Models
 - [yangjianxin1/LEBERT-NER-Chinese](https://github.com/yangjianxin1/LEBERT-NER-Chinese) - 基于词汇信息融合的中文NER模型
