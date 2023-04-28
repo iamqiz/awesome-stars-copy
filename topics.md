@@ -1023,7 +1023,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [lusakasa/saka-key](https://github.com/lusakasa/saka-key) - A keyboard interface to the web
-- [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
+- [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 
 ## jekyll 
@@ -1389,6 +1389,7 @@
 
 ## others 
 
+- [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
 - [ljynlp/W2NER](https://github.com/ljynlp/W2NER) - Source code for AAAI 2022 paper: Unified Named Entity Recognition as Word-Word Relation Classification
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
@@ -2048,7 +2049,7 @@
 
 - [modelscope/AdaSeq](https://github.com/modelscope/AdaSeq) - AdaSeq: An All-in-One Library for Developing State-of-the-Art Sequence Understanding Models
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
-- [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector, Language Classifier and Spoken Number Detector
+- [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 - [Spico197/DocEE](https://github.com/Spico197/DocEE) - 🕹️ A toolkit for document-level event extraction, containing some SOTA model implementations.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [PaddlePaddle/X2Paddle](https://github.com/PaddlePaddle/X2Paddle) - Deep learning model converter for PaddlePaddle. (『飞桨』深度学习模型转换工具)
