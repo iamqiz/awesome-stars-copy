@@ -445,6 +445,7 @@
 
 ## JavaScript 
 
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [no5ix/auto-toc](https://github.com/no5ix/auto-toc) - A userscript that adds a table of contents to any website. 一个自动生成网站目录大纲的油猴脚本
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
