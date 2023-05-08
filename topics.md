@@ -1399,6 +1399,7 @@
 
 ## others 
 
+- [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [liuwave/picgo-plugin-rename-file](https://github.com/liuwave/picgo-plugin-rename-file) - A PicGo plugin for elegant file name prefix
 - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
 - [ljynlp/W2NER](https://github.com/ljynlp/W2NER) - Source code for AAAI 2022 paper: Unified Named Entity Recognition as Word-Word Relation Classification
