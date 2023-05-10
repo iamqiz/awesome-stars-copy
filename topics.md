@@ -131,6 +131,7 @@
 - [qt](#qt)
 - [r](#r)
 - [rails](#rails)
+- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -599,6 +600,7 @@
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 
 ## documentation 
@@ -1253,6 +1255,7 @@
 ## mysql 
 
 - [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 
 ## neovim 
@@ -1399,6 +1402,7 @@
 
 ## others 
 
+- [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
 - [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [liuwave/picgo-plugin-rename-file](https://github.com/liuwave/picgo-plugin-rename-file) - A PicGo plugin for elegant file name prefix
 - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
@@ -1554,7 +1558,7 @@
 - [JetBrains/Grammar-Kit](https://github.com/JetBrains/Grammar-Kit) - Grammar files support & parser/PSI generation for IntelliJ IDEA
 - [tech-fever/GLaDOS_Checkin](https://github.com/tech-fever/GLaDOS_Checkin) - GLaDOS自动签到js脚本
 - [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
-- [Zuoqiu-Yingyi/siyuan-theme-dark-plus](https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus) - 思源笔记的一款双色主题 | A bicolor theme of SiYuan Note.
+- [Zuoqiu-Yingyi/siyuan-theme-dark-plus](https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus) - 思源笔记的一款多功能双模式主题 | A multifunctional dual-mode theme of SiYuan Note.
 - [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus) - New Tab mix plus for modern Firefox
 - [cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com) - 骂人宝典（祖安语录）
 - [JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
@@ -1921,6 +1925,7 @@
 ## postgresql 
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
 ## powershell 
 
@@ -2125,6 +2130,10 @@
 ## rails 
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
+## raspberry-pi 
+
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
 ## react 
 
