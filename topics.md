@@ -1764,7 +1764,7 @@
 - [GNOME/meld](https://github.com/GNOME/meld) - Read-only mirror of https://gitlab.gnome.org/GNOME/meld
 - [yu-liang-kono/pdf2htmlEXOptimize](https://github.com/yu-liang-kono/pdf2htmlEXOptimize) - A python tool to reduce pdf2htmlEX output file size.
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
-- [vscode-autohotkey/autohotkey-plus](https://github.com/vscode-autohotkey/autohotkey-plus) - AutoHotkey language support for Visual Studio Code
+- [cweijan/autohotkey-plus](https://github.com/cweijan/autohotkey-plus) - AutoHotkey language support for Visual Studio Code
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [cmiscm/stickerjs](https://github.com/cmiscm/stickerjs) - 
 - [elvirbrk/NoteHighlight2016](https://github.com/elvirbrk/NoteHighlight2016) - Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit)
