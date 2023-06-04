@@ -57,7 +57,7 @@
 
 ## AutoHotkey 
 
-- [vscode-autohotkey/ahkpp](https://github.com/vscode-autohotkey/ahkpp) - AutoHotkey Plus Plus, a fork of AHK+. AutoHotkey language support for Visual Studio Code
+- [mark-wiemer/ahkpp](https://github.com/mark-wiemer/ahkpp) - AutoHotkey Plus Plus, a fork of AHK+. AutoHotkey language support for Visual Studio Code
 - [G33kDude/CodeQuickTester](https://github.com/G33kDude/CodeQuickTester) - Write and run AHK scripts without touching the file system.
 - [sxzxs/super-command](https://github.com/sxzxs/super-command) - Snippet management tools, if ahK python bat ...code, can be executed directly
 - [telppa/KMCounter](https://github.com/telppa/KMCounter) - Use heatmap to show mouse and keyboard usage. 使用热力图显示鼠标与键盘使用情况的工具。
