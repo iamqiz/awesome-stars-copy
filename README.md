@@ -776,6 +776,7 @@
 
 ## Python 
 
+- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [juntaoy/biaffine-ner](https://github.com/juntaoy/biaffine-ner) - Named Entity Recognition as Dependency Parsing
 - [ljynlp/W2NER](https://github.com/ljynlp/W2NER) - Source code for AAAI 2022 paper: Unified Named Entity Recognition as Word-Word Relation Classification
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
@@ -1142,6 +1143,7 @@
 
 ## Swift 
 
+- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 - [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
 
 ## TeX 
