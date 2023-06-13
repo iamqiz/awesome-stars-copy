@@ -346,7 +346,7 @@
 - [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
 - [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
-- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验，纯html/css/js静态网页 点击下面的链接在线体验
+- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - PDF Preview for Zotero.
