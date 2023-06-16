@@ -444,6 +444,7 @@
 - [soberqian/TopicModel4J](https://github.com/soberqian/TopicModel4J) - TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Mode
 - [protegeproject/protege](https://github.com/protegeproject/protege) - Protege Desktop
 - [apache/opennlp](https://github.com/apache/opennlp) - Apache OpenNLP
+- [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
 
 ## JavaScript 
 
@@ -573,7 +574,6 @@
 - [lusakasa/saka-key](https://github.com/lusakasa/saka-key) - A keyboard interface to the web
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
-- [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源，免费，智能客服系统，机器人客服
 - [l11x0m7/book-of-qna-code](https://github.com/l11x0m7/book-of-qna-code) - code collections for the book of qna
 
 ## Jupyter Notebook 
