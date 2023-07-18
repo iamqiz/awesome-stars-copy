@@ -766,7 +766,7 @@
 - [ben-gibson/GitLink](https://github.com/ben-gibson/GitLink) - A Jetbrains plugin that opens a local file under Git version control in its remote host using the default browser.
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [github/VisualStudio](https://github.com/github/VisualStudio) - GitHub Extension for Visual Studio
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -871,7 +871,7 @@
 - [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [JetBrains/jetbrains_guide](https://github.com/JetBrains/jetbrains_guide) - JetBrains Guides where Developer Advocacy and the community share ideas.
-- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
@@ -1027,7 +1027,7 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
-- [cwage/fetch](https://github.com/cwage/fetch) - A window.fetch JavaScript polyfill.
+- [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [l0o0/translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo
@@ -1093,7 +1093,6 @@
 - [hltj/kotlin-web-site-cn](https://github.com/hltj/kotlin-web-site-cn) - Kotlin 语言中文站
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
-- [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin) - Gradle plugin for building plugins for IntelliJ-based IDEs
 - [zielu/GitToolBox](https://github.com/zielu/GitToolBox) - GitToolBox IntelliJ plugin
 - [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
@@ -1946,7 +1945,7 @@
 ## php 
 
 - [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
-- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 
