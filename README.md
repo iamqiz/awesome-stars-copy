@@ -82,6 +82,7 @@
 
 ## C 
 
+- [commonmark/cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C
 - [github/cmark-gfm](https://github.com/github/cmark-gfm) - GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
@@ -1110,6 +1111,7 @@
 
 ## Rust 
 
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
