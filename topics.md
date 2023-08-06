@@ -1327,7 +1327,7 @@
 - [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, ❓ Questi
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
-- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 - [lionsoul2014/jcseg](https://github.com/lionsoul2014/jcseg) - Jcseg is a light weight NLP framework developed with Java. Provide CJK and English segmentation based on MMSEG algorithm, With also keywords extraction, key sentence extraction, summary extraction imp
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [allenai/bi-att-flow](https://github.com/allenai/bi-att-flow) - Bi-directional Attention Flow (BiDAF) network is a multi-stage hierarchical process that represents context at different levels of granularity and uses a bi-directional attention flow mechanism to ach
@@ -1883,7 +1883,7 @@
 - [thunlp/OpenKE](https://github.com/thunlp/OpenKE) - An Open-Source Package for Knowledge Embedding (KE)
 - [dav/word2vec](https://github.com/dav/word2vec) - This tool provides an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words. These representations can be subsequently used 
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
-- [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
+- [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - Software in C and data files for the popular GloVe model for distributed word representations, a.k.a. word vectors or embeddings
 - [shuhuai007/Machine-Learning-Session](https://github.com/shuhuai007/Machine-Learning-Session) - 
 - [cemoody/lda2vec](https://github.com/cemoody/lda2vec) - 
 - [soberqian/TopicModel4J](https://github.com/soberqian/TopicModel4J) - TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Mode
