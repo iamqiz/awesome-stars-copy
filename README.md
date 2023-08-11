@@ -271,7 +271,7 @@
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - :book: [译] scikit-learn（sklearn） 中文文档
-- [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 
@@ -405,7 +405,6 @@
 - [JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
 - [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
 - [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - A neat code differencing tool
-- [codota/tabnine-intellij](https://github.com/codota/tabnine-intellij) - Jetbrains IDEs client for TabNine. Compatible with all IntelliJ-based IDEs. https://plugins.jetbrains.com/plugin/12798-tabnine
 - [kstenschke/referencer-plugin](https://github.com/kstenschke/referencer-plugin) - "Referencer" plugin for Jetbrains IDEs
 - [fuzhengwei/guide-idea-plugin](https://github.com/fuzhengwei/guide-idea-plugin) - IDEA Plugin 插件开发可以帮助研发人员提升能效，解决一些实际场景中的共性问题。但最近在折腾IDEA插件开发的时候，市面的资料确实不多，也没有成体系完整的开发指导手册，所以就遇到了很多不知道就不会的事情，需要一点点查询搜索源码、验证API接口，最终把各项功能实现，当然在这个过程中也确实踩了不少坑！接下来在这个专栏会把一些关于 IDEA 插件开发用到的各项知识做成案例输出出来，帮助有需要的研
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
@@ -630,6 +629,7 @@
 - [rendner/py-prefix-fstring-plugin](https://github.com/rendner/py-prefix-fstring-plugin) - A "prefix f-string" intention for IntelliJ.
 - [JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore) - .ignore support plugin for IntelliJ IDEA
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
+- [codota/tabnine-intellij](https://github.com/codota/tabnine-intellij) - Jetbrains IDEs client for TabNine. Compatible with all IntelliJ-based IDEs. https://plugins.jetbrains.com/plugin/12798-tabnine
 - [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin) - Gradle plugin for building plugins for IntelliJ-based IDEs
 - [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
 - [zielu/GitToolBox](https://github.com/zielu/GitToolBox) - GitToolBox IntelliJ plugin
