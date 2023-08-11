@@ -2052,7 +2052,7 @@
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [cobrateam/splinter](https://github.com/cobrateam/splinter) - splinter - python test framework for web applications
 - [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - :book: [译] scikit-learn（sklearn） 中文文档
-- [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling in Python
 - [michaelliao/learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。
@@ -2139,7 +2139,7 @@
 - [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Graph Extraction and Construction published at EMNLP2022 System Demonstrations.
 - [TianyuZhuuu/CHIP2018](https://github.com/TianyuZhuuu/CHIP2018) - CHIP2018问句匹配大赛 Rank6解决方案
 - [jiesutd/NCRFpp](https://github.com/jiesutd/NCRFpp) - NCRF++, a Neural Sequence Labeling Toolkit. Easy use to any sequence labeling tasks (e.g. NER, POS, Segmentation). It includes character LSTM/CNN, word LSTM/CNN and softmax/CRF components.
-- [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [huggingface/transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) - 🦄 State-of-the-Art Conversational AI with Transfer Learning
@@ -2300,7 +2300,7 @@
 
 ## solidity 
 
-- [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 
 ## spring 
 
