@@ -103,7 +103,6 @@
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
-- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [tmk/tmk_keyboard](https://github.com/tmk/tmk_keyboard) - Keyboard firmwares for Atmel AVR and Cortex-M
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -207,6 +206,7 @@
 - [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods) - The official collection of Windhawk mods
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [m417z/Textify](https://github.com/m417z/Textify) - A tool for Windows to copy text from dialogs and controls which don't allow it otherwise
 - [clechasseur/pathcopycopy](https://github.com/clechasseur/pathcopycopy) - Copy file paths from Windows explorer's contextual menu
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
@@ -953,7 +953,7 @@
 - [mali19064/LSTM-CRF-pytorch-faster](https://github.com/mali19064/LSTM-CRF-pytorch-faster) - A more than 1000X faster paralleled LSTM-CRF implementation modified from the slower version in the Pytorch official tutorial (URL:https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html).
 - [luge-ai/luge-pip](https://github.com/luge-ai/luge-pip) - 
 - [baidu/DDParser](https://github.com/baidu/DDParser) - 百度开源的依存句法分析系统
-- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, ❓ Questi
+- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, 
 - [thu-coai/CrossWOZ](https://github.com/thu-coai/CrossWOZ) - A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset
 - [ydf0509/nb_log](https://github.com/ydf0509/nb_log) - pip install nb_log 各种日志handler和自动转化项目的任意print的效果。日志自动彩色炫酷，可点击控制台的日志自动精确跳转到pycharm的文件和行号。文件日志多进程切割安全。在10个最重要方面全方位超过loguru
 - [chardet/chardet](https://github.com/chardet/chardet) - Python character encoding detector
