@@ -1424,6 +1424,7 @@
 
 ## others 
 
+- [Java-S12138/frank](https://github.com/Java-S12138/frank) - A bran-new League of Legends assistant software, a replacement for WeGame.
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B) - The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.
 - [commonmark/cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C
