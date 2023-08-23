@@ -1385,7 +1385,6 @@
 - [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -1853,7 +1852,7 @@
 - [hlmd/Postman-cn](https://github.com/hlmd/Postman-cn) - Postman汉化中文版
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
-- [LingCoder/OnJava8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版
+- [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
 - [shillyshallysxy/Learning_NLP](https://github.com/shillyshallysxy/Learning_NLP) - Learning nlp and reproduce some papers
 - [arnim/HDP](https://github.com/arnim/HDP) - Gibbs sampler 4 the Hierarchical Dirichlet Process
 - [wo52616111/capslock-plus](https://github.com/wo52616111/capslock-plus) - An efficiency tool that provides various functions by enhancing the Caps Lock key into a modifier key.
@@ -2482,7 +2481,6 @@
 ## vuejs 
 
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-- [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 
