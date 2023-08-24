@@ -1525,7 +1525,7 @@
 - [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X
 - [cxasm/cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
-- [mark-wiemer-org/ahkpp](https://github.com/mark-wiemer-org/ahkpp) - AutoHotkey Plus Plus, a fork of AHK+. AutoHotkey language support for Visual Studio Code
+- [mark-wiemer-org/ahkpp](https://github.com/mark-wiemer-org/ahkpp) - AutoHotkey Plus Plus: AutoHotkey language support for Visual Studio Code
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 - [G33kDude/CodeQuickTester](https://github.com/G33kDude/CodeQuickTester) - Write and run AHK scripts without touching the file system.
