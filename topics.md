@@ -713,6 +713,7 @@
 
 ## font 
 
+- [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 
@@ -993,6 +994,7 @@
 
 ## javascript 
 
+- [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
@@ -1380,6 +1382,7 @@
 
 ## nodejs 
 
+- [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
@@ -1564,7 +1567,7 @@
 - [Ultrasonicer/WordCounter](https://github.com/Ultrasonicer/WordCounter) - 用于字符统计的思源挂件
 - [kira-96/Inno-Setup-Chinese-Simplified-Translation](https://github.com/kira-96/Inno-Setup-Chinese-Simplified-Translation) - :earth_asia:  Inno Setup Chinese Simplified Translation
 - [leolee9086/noob](https://github.com/leolee9086/noob) - 重构后的发布示例
-- [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - PDF Preview for Zotero.
+- [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - Preview Zotero attachments in the library view.
 - [danmarshall/google-font-to-svg-path](https://github.com/danmarshall/google-font-to-svg-path) - Create an SVG path from a Google font
 - [JetBrains/icons](https://github.com/JetBrains/icons) - A set of icons used in JetBrains' web applications
 - [88250/gulu](https://github.com/88250/gulu) - ⭕ Go 语言常用工具库，这个轱辘还算圆！
