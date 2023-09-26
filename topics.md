@@ -1429,7 +1429,7 @@
 - [mozillazg/pinyin-data](https://github.com/mozillazg/pinyin-data) - 汉字拼音数据
 - [Java-S12138/frank](https://github.com/Java-S12138/frank) - A bran-new League of Legends assistant software, a replacement for WeGame.
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
-- [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B) - The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.
+- [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [commonmark/cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C
 - [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 - [rdp/screen-capture-recorder-to-video-windows-free](https://github.com/rdp/screen-capture-recorder-to-video-windows-free) - a free open source  windows "screen capture" device and recorder (also allows VLC/ffmpeg and others to capture/stream desktop/audio)
