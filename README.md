@@ -905,7 +905,7 @@
 - [monologg/JointBERT](https://github.com/monologg/JointBERT) - Pytorch implementation of JointBERT: "BERT for Joint Intent Classification and Slot Filling"
 - [wangle1218/KBQA-for-Diagnosis](https://github.com/wangle1218/KBQA-for-Diagnosis) - Knowledge Graph,Question Answering System，基于知识图谱和向量检索的医疗诊断问答系统
 - [bojone/BERT-whitening](https://github.com/bojone/BERT-whitening) - 简单的向量白化改善句向量质量
-- [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings https://arxiv.org/abs/2104.08821
+- [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - [EMNLP 2021] SimCSE: Simple Contrastive Learning of Sentence Embeddings https://arxiv.org/abs/2104.08821
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 - [CLUEbenchmark/FewCLUE](https://github.com/CLUEbenchmark/FewCLUE) - FewCLUE 小样本学习测评基准，中文版
