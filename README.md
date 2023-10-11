@@ -893,7 +893,6 @@
 - [karpathy/arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) - Web interface for browsing, search and filtering recent arxiv submissions
 - [microsoft/MPNet](https://github.com/microsoft/MPNet) - MPNet: Masked and Permuted Pre-training for Language Understanding   https://arxiv.org/pdf/2004.09297.pdf
 - [dbiir/UER-py](https://github.com/dbiir/UER-py) - Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo
-- [py2neo-org/py2neo](https://github.com/py2neo-org/py2neo) - Py2neo is a comprehensive Neo4j driver library and toolkit for Python.
 - [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
 - [cccshuang/DMCNN_torch](https://github.com/cccshuang/DMCNN_torch) - 
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
