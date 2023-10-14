@@ -1716,7 +1716,7 @@
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [neulab/ExplainaBoard](https://github.com/neulab/ExplainaBoard) - Interpretable Evaluation for AI Systems
-- [princeton-nlp/LM-BFF](https://github.com/princeton-nlp/LM-BFF) - ACL'2021: LM-BFF: Better Few-shot Fine-tuning of Language Models https://arxiv.org/abs/2012.15723
+- [princeton-nlp/LM-BFF](https://github.com/princeton-nlp/LM-BFF) - [ACL 2021] LM-BFF: Better Few-shot Fine-tuning of Language Models https://arxiv.org/abs/2012.15723
 - [aivolcano/feature_extraction](https://github.com/aivolcano/feature_extraction) - 
 - [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 - [yizhen20133868/Awesome-SLU-Survey](https://github.com/yizhen20133868/Awesome-SLU-Survey) - Tracking the progress in SLU (resources, code, and new frontiers etc.)
