@@ -503,7 +503,7 @@
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
-- [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
+- [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [blei-lab/edward](https://github.com/blei-lab/edward) - A probabilistic programming language in TensorFlow. Deep generative models, variational inference.
@@ -1192,7 +1192,7 @@
 - [chakki-works/seqeval](https://github.com/chakki-works/seqeval) - A Python framework for sequence labeling evaluation(named-entity recognition, pos tagging, etc...)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
-- [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
+- [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
@@ -1304,7 +1304,7 @@
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
-- [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
+- [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
@@ -1337,7 +1337,7 @@
 - [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - [EMNLP 2021] SimCSE: Simple Contrastive Learning of Sentence Embeddings https://arxiv.org/abs/2104.08821
 - [Jiakui/awesome-bert](https://github.com/Jiakui/awesome-bert) - bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
-- [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
+- [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, 
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
@@ -1438,6 +1438,7 @@
 
 ## others 
 
+- [HextechDocs/lcu-explorer](https://github.com/HextechDocs/lcu-explorer) - rift-explorer replacement from the original contributors
 - [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
 - [mozillazg/pinyin-data](https://github.com/mozillazg/pinyin-data) - 汉字拼音数据
 - [Java-S12138/frank](https://github.com/Java-S12138/frank) - A bran-new League of Legends assistant software, a replacement for WeGame.
@@ -2030,7 +2031,7 @@
 - [Diego999/pyGAT](https://github.com/Diego999/pyGAT) - Pytorch implementation of the Graph Attention Network model by Veličković et. al (2017, https://arxiv.org/abs/1710.10903)
 - [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
-- [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
+- [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) - Pytorch 中文文档
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
