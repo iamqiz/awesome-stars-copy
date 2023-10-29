@@ -129,6 +129,7 @@
 
 ## C# # 
 
+- [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
 - [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
 - [greenshot/greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
