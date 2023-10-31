@@ -151,7 +151,6 @@
 - [JetBrains/rd](https://github.com/JetBrains/rd) - Reactive Distributed communication framework for .NET, Kotlin, C++. Inspired by Rider IDE.
 - [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
 - [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
-- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [Oliviaophia/SmartTaskbar](https://github.com/Oliviaophia/SmartTaskbar) - A lightweight utility which can automatically switch the display state of the Windows Taskbar.
@@ -318,7 +317,7 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [josephspurrier/goversioninfo](https://github.com/josephspurrier/goversioninfo) - Golang Microsoft Windows File Properties/Version Info and Icon Resource Generator
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [88250/pipe](https://github.com/88250/pipe) - 🎷 B3log 分布式社区的 Go 博客端节点系统，欢迎加入下一代社区网络。B3log distributed community blog-end node based on Go, welcome to join the next generation community network.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
@@ -332,6 +331,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [shayne/go-wsl2-host](https://github.com/shayne/go-wsl2-host) - Automatically update your Windows hosts file with the WSL2 VM IP address
@@ -1018,7 +1018,7 @@
 - [GanjinZero/ChineseEHRBert](https://github.com/GanjinZero/ChineseEHRBert) - A Chinese EHR Bert Pretrained Model.
 - [Toyhom/Chinese-medical-dialogue-data](https://github.com/Toyhom/Chinese-medical-dialogue-data) - Chinese medical dialogue data 中文医疗对话数据集
 - [liuhuanyong/ComplexEventExtraction](https://github.com/liuhuanyong/ComplexEventExtraction) - A concept and obvious expression pattern collection of Chinese compound event extraction which then be evolved into ComplexEventGraph，本项目提出了中文复合事件的概念与显式模式，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。
-- [shibing624/pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer，T5等模型实现，开箱即用。
+- [shibing624/pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，MacBERT，GPT等纠错模型，开箱即用。
 - [joowani/binarytree](https://github.com/joowani/binarytree) - Python Library for Studying Binary Trees
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -1164,6 +1164,7 @@
 
 ## TypeScript 
 
+- [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [Java-S12138/Record](https://github.com/Java-S12138/Record) - It is an application that query lol match.
 - [HextechDocs/lcu-explorer](https://github.com/HextechDocs/lcu-explorer) - rift-explorer replacement from the original contributors
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
