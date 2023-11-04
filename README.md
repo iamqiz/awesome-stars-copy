@@ -333,7 +333,6 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [shayne/go-wsl2-host](https://github.com/shayne/go-wsl2-host) - Automatically update your Windows hosts file with the WSL2 VM IP address
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
@@ -495,7 +494,6 @@
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [BoyceLig/ClashSinicizationTool](https://github.com/BoyceLig/ClashSinicizationTool) - 
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
-- [BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch) - Clash For Windows 汉化补丁和汉化脚本
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -625,7 +623,6 @@
 - [JetBrains/gradle-grammar-kit-plugin](https://github.com/JetBrains/gradle-grammar-kit-plugin) - Gradle plugin for generating lexers (with JFlex) and BNF parsers (with Grammar-Kit) for IntelliJ language plugins
 - [dima74/intellij-indent-rainbow](https://github.com/dima74/intellij-indent-rainbow) - Extension which shows indentation with a faint rainbow colored background to make them more readable
 - [ben-gibson/GitLink](https://github.com/ben-gibson/GitLink) - A Jetbrains plugin that opens a local file under Git version control in its remote host using the default browser.
-- [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [JetBrains/ideolog](https://github.com/JetBrains/ideolog) - Interactive viewer for '.log' files.
 - [Nordgedanken/intellij-autohotkey](https://github.com/Nordgedanken/intellij-autohotkey) - AutoHotkey plugin for the Jetbrain's IntelliJ platform
 - [JetBrains/intellij-plugin-verifier](https://github.com/JetBrains/intellij-plugin-verifier) - Compatibility verification tool for IntelliJ Platform plugins
@@ -1155,7 +1152,6 @@
 
 ## Swift 
 
-- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 - [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
 
 ## TeX 
