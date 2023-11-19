@@ -457,6 +457,8 @@
 
 ## JavaScript 
 
+- [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
+- [antonycourtney/tabli](https://github.com/antonycourtney/tabli) - A Window and Tab Manager for Google Chrome
 - [JasonGrass/auto-extension-manager](https://github.com/JasonGrass/auto-extension-manager) - a chrome extension manager where you can add rules
 - [belaviyo/keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper) - A helper extension to use KeePass/MacPass/KeePassXC from Firefox, Opera, and Chrome browsers
 - [pfn/keepasshttp](https://github.com/pfn/keepasshttp) - KeePass plugin to expose password entries securely (256bit AES/CBC) over HTTP
