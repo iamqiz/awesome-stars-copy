@@ -180,6 +180,7 @@
 
 ## C++ 
 
+- [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [zodiacon/TotalRegistry](https://github.com/zodiacon/TotalRegistry) - Total Registry - enhanced Registry editor/viewer
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [rdp/screen-capture-recorder-to-video-windows-free](https://github.com/rdp/screen-capture-recorder-to-video-windows-free) - a free open source  windows "screen capture" device and recorder (also allows VLC/ffmpeg and others to capture/stream desktop/audio)
