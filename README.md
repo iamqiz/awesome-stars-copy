@@ -790,6 +790,7 @@
 
 ## Python 
 
+- [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [winpython/winpython](https://github.com/winpython/winpython) - A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.
 - [mozillazg/pinyin-data](https://github.com/mozillazg/pinyin-data) - 汉字拼音数据
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
