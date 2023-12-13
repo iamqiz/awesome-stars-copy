@@ -519,6 +519,7 @@
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [whitescent/KFC-Crazy-Thursday](https://github.com/whitescent/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [gpac/mp4box.js](https://github.com/gpac/mp4box.js) - JavaScript version of GPAC's MP4Box tool
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [alanhg/toolbox-browser-extensionx](https://github.com/alanhg/toolbox-browser-extensionx) - 一键checkout项目，打开JB- IDE
@@ -1226,7 +1227,6 @@
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [oleg-shilo/codemap.vscode](https://github.com/oleg-shilo/codemap.vscode) - Code map (syntax tree) of the active document
