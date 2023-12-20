@@ -467,6 +467,7 @@
 
 ## JavaScript 
 
+- [iamfugui/YouTubeADB](https://github.com/iamfugui/YouTubeADB) - 这是一个去除YouTube广告的脚本，轻量且高效，它能丝滑的去除界面广告和视频广告。This is a script that removes ads on YouTube, it's lightweight and efficient, capable of smoothly removing interface and video ads.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [datejs/Datejs](https://github.com/datejs/Datejs) - A JavaScript Date and Time Library
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
