@@ -730,7 +730,6 @@
 - [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
 - [aardio/ImTip](https://github.com/aardio/ImTip) - 通用输入法状态跟踪提示，仅用两个字符就可提示中英、全半角、大小写、中英标点、多语言键盘布局等所有状态。
 - [nndl/solutions](https://github.com/nndl/solutions) - 《神经网络与深度学习》课后习题答案-分享讨论
-- [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
@@ -1176,6 +1175,7 @@
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+- [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) - Pytorch 中文文档
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
@@ -1197,6 +1197,8 @@
 
 ## TypeScript 
 
+- [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
+- [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [BlackGlory/extension-binary-search](https://github.com/BlackGlory/extension-binary-search) - 🌳 The simplest and most effective way to locate a malicious or faulty extension
