@@ -765,6 +765,8 @@
 
 ## git 
 
+- [TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit) - Windows Explorer Extension to Operate Git; Mirror of official repository https://tortoisegit.org/sourcecode
+- [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
@@ -1189,6 +1191,7 @@
 
 ## linux 
 
+- [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -1493,6 +1496,8 @@
 
 ## others 
 
+- [gitahead/gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
+- [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [AlexanderPro/SmartContextMenu](https://github.com/AlexanderPro/SmartContextMenu) - Smart context menu for all windows in the system
 - [iamfugui/YouTubeADB](https://github.com/iamfugui/YouTubeADB) - 这是一个去除YouTube广告的脚本，轻量且高效，它能丝滑的去除界面广告和视频广告。This is a script that removes ads on YouTube, it's lightweight and efficient, capable of smoothly removing interface and video ads.
@@ -2078,6 +2083,7 @@
 
 ## python 
 
+- [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -2639,6 +2645,8 @@
 
 ## windows 
 
+- [TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit) - Windows Explorer Extension to Operate Git; Mirror of official repository https://tortoisegit.org/sourcecode
+- [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
