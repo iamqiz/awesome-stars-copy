@@ -2605,6 +2605,7 @@
 
 ## visual-studio-code 
 
+- [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
