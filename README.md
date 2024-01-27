@@ -279,8 +279,6 @@
 - [cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com) - 骂人宝典（祖安语录）
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
-- [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - :book: [译] scikit-learn（sklearn） 中文文档
-- [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 
@@ -646,7 +644,6 @@
 - [facebookresearch/InferSent](https://github.com/facebookresearch/InferSent) - InferSent sentence embeddings
 - [rkadlec/ubuntu-ranking-dataset-creator](https://github.com/rkadlec/ubuntu-ranking-dataset-creator) - A script that creates train, valid and test datasets for the ranking task from Ubuntu corpus dialogs.
 - [dennybritz/chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval) - Dual LSTM Encoder for Dialog Response Generation
-- [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning) - My blogs and code for machine learning. http://cnblogs.com/pinard
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 
@@ -1184,7 +1181,6 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) - Pytorch 中文文档
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
