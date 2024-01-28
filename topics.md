@@ -423,7 +423,7 @@
 
 ## code 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 - [Dod-o/Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
 
 ## code-quality 
@@ -1334,6 +1334,7 @@
 
 ## microsoft 
 
+- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
@@ -2280,6 +2281,7 @@
 
 ## react 
 
+- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [Java-S12138/Record](https://github.com/Java-S12138/Record) - It is an application that query lol match.
@@ -2411,7 +2413,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 
 ## software 
 
