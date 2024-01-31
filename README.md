@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ActionScript](#actionscript)
 - [AutoHotkey](#autohotkey)
 - [C](#c)
 - [C#](#c#)
@@ -54,10 +53,6 @@
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [reStructuredText](#restructuredtext)
-
-## ActionScript 
-
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## AutoHotkey 
 
@@ -1161,6 +1156,7 @@
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## Scala 
 
