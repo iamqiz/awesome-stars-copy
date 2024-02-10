@@ -820,7 +820,7 @@
 
 ## Python 
 
-- [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜
+- [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
 - [Zzaphkiel/Seraphine](https://github.com/Zzaphkiel/Seraphine) - 英雄联盟战绩查询工具
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
@@ -1148,7 +1148,7 @@
 
 ## Ruby 
 
-- [JasonBarnabe/greasyfork](https://github.com/JasonBarnabe/greasyfork) - An online repository of user scripts.
+- [greasyfork-org/greasyfork](https://github.com/greasyfork-org/greasyfork) - An online repository of user scripts.
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
