@@ -1520,6 +1520,7 @@
 
 ## others 
 
+- [nurupo/vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
 - [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 - [hanwenma/simple-upload](https://github.com/hanwenma/simple-upload) - 
