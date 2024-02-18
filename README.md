@@ -133,7 +133,7 @@
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [BYJRK/LyricEditor](https://github.com/BYJRK/LyricEditor) - A much modified lyric editor with fancy (maybe) UI based on WPF
-- [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and popups.
+- [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx) - :clipboard: Paste As File 把剪贴板的内容直接粘贴为文件
@@ -174,6 +174,7 @@
 
 ## C++ 
 
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit) - Windows Explorer Extension to Operate Git; Mirror of official repository https://tortoisegit.org/sourcecode
 - [gitahead/gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
@@ -465,6 +466,7 @@
 
 ## JavaScript 
 
+- [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 - [koajs/router](https://github.com/koajs/router) - Router middleware for Koa. Maintained by @forwardemail and @ladjs.
@@ -717,6 +719,7 @@
 
 ## Others 
 
+- [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
