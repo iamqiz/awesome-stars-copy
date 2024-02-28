@@ -901,6 +901,7 @@
 
 ## hacktoberfest 
 
+- [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [apvarun/toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -981,6 +982,7 @@
 
 ## html5 
 
+- [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [zhw2590582/ArtPlayer](https://github.com/zhw2590582/ArtPlayer) - :art: ArtPlayer.js is a modern and full featured HTML5 video player
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
@@ -1056,6 +1058,7 @@
 
 ## javascript 
 
+- [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [SuperMonster003/AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
@@ -1532,6 +1535,7 @@
 
 ## others 
 
+- [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 - [expressjs/multer](https://github.com/expressjs/multer) - Node.js middleware for handling `multipart/form-data`.
