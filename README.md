@@ -1048,7 +1048,7 @@
 - [littlepan0413/DuEE_baseline](https://github.com/littlepan0413/DuEE_baseline) - 事件抽取基线模型
 - [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - novel deep learning research works with PaddlePaddle
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
-- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Graph Extraction and Construction published at EMNLP2022 System Demonstrations.
+- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - [EMNLP 2022] An Open Toolkit for Knowledge Graph Extraction and Construction
 - [TianyuZhuuu/CHIP2018](https://github.com/TianyuZhuuu/CHIP2018) - CHIP2018问句匹配大赛 Rank6解决方案
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) - 
 - [liuhuanyong/SequentialEventExtration](https://github.com/liuhuanyong/SequentialEventExtration) - Sequential Event Experiment based on Travel note crawled from XieCheng，基于50W携程出行游记的采集与顺承事件图谱构建．
