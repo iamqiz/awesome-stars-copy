@@ -167,6 +167,7 @@
 - [sqlite](#sqlite)
 - [statistics](#statistics)
 - [sublime-text](#sublime-text)
+- [svelte](#svelte)
 - [swift](#swift)
 - [symfony](#symfony)
 - [telegram](#telegram)
@@ -908,6 +909,8 @@
 
 ## hacktoberfest 
 
+- [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
+- [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -1066,6 +1069,7 @@
 
 ## javascript 
 
+- [obs-websocket-community-projects/obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) - Consumes https://github.com/obsproject/obs-websocket
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -1547,6 +1551,7 @@
 
 ## nodejs 
 
+- [obs-websocket-community-projects/obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) - Consumes https://github.com/obsproject/obs-websocket
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
@@ -1595,6 +1600,7 @@
 
 ## others 
 
+- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
@@ -2573,6 +2579,10 @@
 ## sublime-text 
 
 - [donkirkby/live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
+
+## svelte 
+
+- [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 
 ## swift 
 
