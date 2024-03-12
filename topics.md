@@ -2851,7 +2851,7 @@
 
 ## wordpress 
 
-- [terwer/sy-post-publisher](https://github.com/terwer/sy-post-publisher) - Note: This is 0.x for widget.For new plugin version, please visit: https://github.com/terwer/siyuan-plugin-publisher
+- [terwer/sy-post-publisher](https://github.com/terwer/sy-post-publisher) - Note: This is 0.x for widget at https://github.com/terwer/sy-post-publisher/tree/v081 . For new plugin version, please visit: https://github.com/terwer/siyuan-plugin-publisher
 
 ## xml 
 
