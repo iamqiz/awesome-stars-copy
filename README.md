@@ -1289,7 +1289,7 @@
 - [vittorioromeo/vscode-expand-selection-to-scope](https://github.com/vittorioromeo/vscode-expand-selection-to-scope) - Extension that introduces a command to incrementally expand the selection to the nearest outer scope.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- [terwer/sy-post-publisher](https://github.com/terwer/sy-post-publisher) - Note: This is 0.x for widget.For new plugin version, please visit: https://github.com/terwer/siyuan-plugin-publisher
+- [terwer/sy-post-publisher](https://github.com/terwer/sy-post-publisher) - Note: This is 0.x for widget at https://github.com/terwer/sy-post-publisher/tree/v081 . For new plugin version, please visit: https://github.com/terwer/siyuan-plugin-publisher
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
