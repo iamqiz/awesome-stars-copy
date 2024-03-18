@@ -475,6 +475,11 @@
 
 ## JavaScript 
 
+- [nk2028/opencc-js](https://github.com/nk2028/opencc-js) - The JavaScript version of Open Chinese Convert (OpenCC)
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
+- [browserify/watchify](https://github.com/browserify/watchify) - watch mode for browserify builds
+- [ForbesLindesay/umd](https://github.com/ForbesLindesay/umd) - Universal Module Definition for use in automated build systems
 - [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [cnpm/cnpm](https://github.com/cnpm/cnpm) - cnpm: npm client for China mirror of npm
@@ -846,6 +851,7 @@
 
 ## Python 
 
+- [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
 - [Zzaphkiel/Seraphine](https://github.com/Zzaphkiel/Seraphine) - 英雄联盟战绩查询工具
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
@@ -1243,6 +1249,7 @@
 
 ## TypeScript 
 
+- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [OlegWock/anori](https://github.com/OlegWock/anori) - Customizable new tab extension for Chrome, Firefox and Safari
 - [LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - Clash Nyanpasu! (∠・ω&lt; )⌒☆​
