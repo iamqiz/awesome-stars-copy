@@ -475,6 +475,8 @@
 
 ## JavaScript 
 
+- [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
+- [lxieyang/chrome-extension-boilerplate-react](https://github.com/lxieyang/chrome-extension-boilerplate-react) - A Chrome Extensions boilerplate using React 18 and Webpack 5.
 - [nk2028/opencc-js](https://github.com/nk2028/opencc-js) - The JavaScript version of Open Chinese Convert (OpenCC)
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
@@ -1211,6 +1213,7 @@
 
 ## Shell 
 
+- [Dawnnnnnn/Alist-Encrypt-Module](https://github.com/Dawnnnnnn/Alist-Encrypt-Module) - 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [snail007/proxy_admin_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
