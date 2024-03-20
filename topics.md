@@ -675,6 +675,7 @@
 
 ## dotnet 
 
+- [dotnet/wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
@@ -922,6 +923,7 @@
 
 ## hacktoberfest 
 
+- [dotnet/winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
