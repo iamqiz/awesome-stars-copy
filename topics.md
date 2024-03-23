@@ -430,6 +430,7 @@
 
 ## cli 
 
+- [svtslv/webdav-cli](https://github.com/svtslv/webdav-cli) - A simple zero-configuration command-line webdav server
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [webpack/webpack-cli](https://github.com/webpack/webpack-cli) - Webpack's Command Line Interface
@@ -1239,6 +1240,7 @@
 
 ## learning 
 
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 - [mdn/learning-area](https://github.com/mdn/learning-area) - GitHub repo for the MDN Learning Area.
 - [joowani/binarytree](https://github.com/joowani/binarytree) - Python Library for Studying Binary Trees
 
@@ -1633,6 +1635,9 @@
 
 ## others 
 
+- [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
+- [MediaArea/MediaInfoLib](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files.
+- [axiomatic-systems/Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format, MPEG DASH, HLS, CMAF SDK and tools
 - [Dawnnnnnn/Alist-Encrypt-Module](https://github.com/Dawnnnnnn/Alist-Encrypt-Module) - 
 - [nk2028/opencc-js](https://github.com/nk2028/opencc-js) - The JavaScript version of Open Chinese Convert (OpenCC)
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
@@ -2557,6 +2562,7 @@
 
 ## server 
 
+- [svtslv/webdav-cli](https://github.com/svtslv/webdav-cli) - A simple zero-configuration command-line webdav server
 - [flashmob/go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
