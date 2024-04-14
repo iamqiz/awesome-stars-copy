@@ -166,6 +166,7 @@
 - [spring-boot](#spring-boot)
 - [springboot](#springboot)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [sublime-text](#sublime-text)
 - [svelte](#svelte)
@@ -1840,7 +1841,7 @@
 - [josephspurrier/goversioninfo](https://github.com/josephspurrier/goversioninfo) - Golang Microsoft Windows File Properties/Version Info and Icon Resource Generator
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [siyuan-note/insider](https://github.com/siyuan-note/insider) - SiYuan Insider Preview
-- [Nordgedanken/intellij-autohotkey](https://github.com/Nordgedanken/intellij-autohotkey) - AutoHotkey plugin for the Jetbrain's IntelliJ platform
+- [Nordgedanken/intellij-autohotkey](https://github.com/Nordgedanken/intellij-autohotkey) - AutoHotkey plugin for the JetBrains IntelliJ platform
 - [Infinidat/munch](https://github.com/Infinidat/munch) - A Munch is a Python dictionary that provides attribute-style access (a la JavaScript objects).
 - [ndp-software/keyboard-event-to-string](https://github.com/ndp-software/keyboard-event-to-string) - Convert a JavaScript keyboard event object into a canonical string
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
@@ -2652,6 +2653,13 @@
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+
+## stable-diffusion 
+
+- [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## statistics 
 
