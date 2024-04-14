@@ -704,7 +704,7 @@
 - [dima74/intellij-indent-rainbow](https://github.com/dima74/intellij-indent-rainbow) - Extension which shows indentation with a faint rainbow colored background to make them more readable
 - [ben-gibson/GitLink](https://github.com/ben-gibson/GitLink) - A Jetbrains plugin that opens a local file under Git version control in its remote host using the default browser.
 - [JetBrains/ideolog](https://github.com/JetBrains/ideolog) - Interactive viewer for '.log' files.
-- [Nordgedanken/intellij-autohotkey](https://github.com/Nordgedanken/intellij-autohotkey) - AutoHotkey plugin for the Jetbrain's IntelliJ platform
+- [Nordgedanken/intellij-autohotkey](https://github.com/Nordgedanken/intellij-autohotkey) - AutoHotkey plugin for the JetBrains IntelliJ platform
 - [JetBrains/intellij-plugin-verifier](https://github.com/JetBrains/intellij-plugin-verifier) - Compatibility verification tool for IntelliJ Platform plugins
 - [meanmail-dev/prettify-python-plugin](https://github.com/meanmail-dev/prettify-python-plugin) - Intellij IDE plugin
 - [rendner/py-prefix-fstring-plugin](https://github.com/rendner/py-prefix-fstring-plugin) - A "prefix f-string" intention for IntelliJ.
