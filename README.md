@@ -58,6 +58,7 @@
 
 ## AutoHotkey 
 
+- [flyinclouds/KBLAutoSwitch](https://github.com/flyinclouds/KBLAutoSwitch) - AHK自动切换中英文输入法，输入法，自动切换
 - [livelycode36/markdown2potplayer](https://github.com/livelycode36/markdown2potplayer) - 生成potplayer正在播放的视频回链到可以使用makrdown类型的笔记软件中，例如：obsidian、typora、 logseq、notion等等。Generate a backlink of the video being played by potplayer to a makrdown-type note program. examples: obsidian, typora,  l
 - [mark-wiemer-org/ahkpp](https://github.com/mark-wiemer-org/ahkpp) - AutoHotkey Plus Plus: AutoHotkey language support for Visual Studio Code
 - [G33kDude/CodeQuickTester](https://github.com/G33kDude/CodeQuickTester) - Write and run AHK scripts without touching the file system.
@@ -313,6 +314,7 @@
 
 ## Dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Gherkin 
@@ -485,6 +487,7 @@
 
 ## JavaScript 
 
+- [lyscop/Strokesplus.Net-Scripts](https://github.com/lyscop/Strokesplus.Net-Scripts) - 
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [joue-quroi/cookie-editor](https://github.com/joue-quroi/cookie-editor) - a browser extension to display and modify page-related cookies
@@ -1272,6 +1275,8 @@
 
 ## TypeScript 
 
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+- [Tampermonkey/tampermonkey-editors](https://github.com/Tampermonkey/tampermonkey-editors) - Online editor support for Tampermonkey's userscripts
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
 - [svtslv/webdav-cli](https://github.com/svtslv/webdav-cli) - A simple zero-configuration command-line webdav server
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
