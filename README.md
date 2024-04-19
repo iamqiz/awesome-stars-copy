@@ -487,6 +487,7 @@
 
 ## JavaScript 
 
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [lyscop/Strokesplus.Net-Scripts](https://github.com/lyscop/Strokesplus.Net-Scripts) - 
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
@@ -1275,6 +1276,7 @@
 
 ## TypeScript 
 
+- [yuanxiao-mmc/electron-tab-containers](https://github.com/yuanxiao-mmc/electron-tab-containers) - Electron BrowserView 多标签页、容器管理实现
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [Tampermonkey/tampermonkey-editors](https://github.com/Tampermonkey/tampermonkey-editors) - Online editor support for Tampermonkey's userscripts
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
