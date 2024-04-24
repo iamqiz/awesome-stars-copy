@@ -55,6 +55,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
+- [embedded](#embedded)
 - [ember](#ember)
 - [emoji](#emoji)
 - [emulator](#emulator)
@@ -211,7 +212,7 @@
 
 ## algorithm 
 
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [gozhuyinglong/blog-demos](https://github.com/gozhuyinglong/blog-demos) - 这个代码仓库里是博客中涉及的源码、文件等 ；如果对您有帮助，请给个Star，感谢~
 - [kangjianwei/Data-Structure](https://github.com/kangjianwei/Data-Structure) - 《数据结构》-严蔚敏.吴伟民-教材源码与习题解析
@@ -567,7 +568,7 @@
 
 ## data-structures 
 
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [gozhuyinglong/blog-demos](https://github.com/gozhuyinglong/blog-demos) - 这个代码仓库里是博客中涉及的源码、文件等 ；如果对您有帮助，请给个Star，感谢~
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [joowani/binarytree](https://github.com/joowani/binarytree) - Python Library for Studying Binary Trees
@@ -703,7 +704,7 @@
 
 ## education 
 
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler) - A spaced repetition algorithm based on DSR model
 
 ## electron 
@@ -740,6 +741,10 @@
 ## emacs 
 
 - [donkirkby/live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
+
+## embedded 
+
+- [mesolitica/NLP-Models-Tensorflow](https://github.com/mesolitica/NLP-Models-Tensorflow) - Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 &lt; Tensorflow &lt; 2.0
 
 ## ember 
 
@@ -1671,6 +1676,7 @@
 
 ## others 
 
+- [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [unplugin/unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) - Auto import APIs on-demand for Vite, Webpack and Rollup
 - [yuanxiao-mmc/electron-tab-containers](https://github.com/yuanxiao-mmc/electron-tab-containers) - Electron BrowserView 多标签页、容器管理实现
 - [flyinclouds/KBLAutoSwitch](https://github.com/flyinclouds/KBLAutoSwitch) - AHK自动切换中英文输入法，输入法，自动切换
@@ -2292,7 +2298,7 @@
 
 ## programming 
 
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 
 ## publishing 
 
