@@ -378,6 +378,7 @@
 
 ## HTML 
 
+- [paulrosen/abcjs](https://github.com/paulrosen/abcjs) - javascript for rendering abc music notation
 - [yk47g/gitkraken-chinese](https://github.com/yk47g/gitkraken-chinese) - GitKraken的中文汉化补丁
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
