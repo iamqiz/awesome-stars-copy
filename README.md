@@ -775,6 +775,7 @@
 
 ## Others 
 
+- [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 - [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
@@ -1245,6 +1246,7 @@
 
 ## Shell 
 
+- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [Dawnnnnnn/Alist-Encrypt-Module](https://github.com/Dawnnnnnn/Alist-Encrypt-Module) - 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [snail007/proxy_admin_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
@@ -1275,7 +1277,7 @@
 
 ## Swift 
 
-- [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
+- [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 
 ## TeX 
 
@@ -1303,7 +1305,7 @@
 - [LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 - [obs-websocket-community-projects/obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) - Consumes https://github.com/obsproject/obs-websocket
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [dividab/tsconfig-paths](https://github.com/dividab/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.
 - [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev) - Compiles your TS app and restarts when files are modified.
