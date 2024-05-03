@@ -961,6 +961,7 @@
 
 ## hacktoberfest 
 
+- [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [dotnet/winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
@@ -1126,6 +1127,7 @@
 
 ## javascript 
 
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [paulrosen/abcjs](https://github.com/paulrosen/abcjs) - javascript for rendering abc music notation
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -1297,6 +1299,7 @@
 
 ## linux 
 
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
@@ -1626,6 +1629,7 @@
 
 ## node 
 
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
@@ -1635,6 +1639,7 @@
 
 ## nodejs 
 
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [obs-websocket-community-projects/obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) - Consumes https://github.com/obsproject/obs-websocket
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -1686,6 +1691,7 @@
 
 ## others 
 
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [unplugin/unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) - Auto import APIs on-demand for Vite, Webpack and Rollup
@@ -2801,6 +2807,7 @@
 
 ## typescript 
 
+- [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader) - TypeScript loader for webpack
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
