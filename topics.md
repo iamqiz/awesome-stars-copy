@@ -1699,6 +1699,7 @@
 
 ## others 
 
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [Akryum/guijs](https://github.com/Akryum/guijs) - 🐣️ The app that makes your #devlife easier.
 - [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
