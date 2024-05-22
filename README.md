@@ -191,6 +191,7 @@
 ## C++ 
 
 - [ge9/ExecuteCommand-Pipe](https://github.com/ge9/ExecuteCommand-Pipe) - A simple tool to run arbitrary commands from context menu in explorer.exe
+- [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [MediaArea/MediaInfoLib](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [axiomatic-systems/Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format, MPEG DASH, HLS, CMAF SDK and tools
 - [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
@@ -865,7 +866,6 @@
 
 ## Pascal 
 
-- [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) - Double Commander is a free cross platform open source file manager with two panels side by side.
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
 
