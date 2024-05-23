@@ -494,6 +494,7 @@
 
 ## JavaScript 
 
+- [gregnb/filemanager-webpack-plugin](https://github.com/gregnb/filemanager-webpack-plugin) - Copy, move, archive (zip/tar/tar.gz), delete files and directories before and after Webpack builds. Win32/Mac/*Nix supported
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
@@ -1408,7 +1409,7 @@
 - [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library based on G2.
 - [StarlaneStudios/vscode-comment-anchors](https://github.com/StarlaneStudios/vscode-comment-anchors) - ⚓A Visual Studio Code extension that adds support for comment anchors 🔭
 - [yuhaofe/Quick-Bookmarks-Menu](https://github.com/yuhaofe/Quick-Bookmarks-Menu) - A chrome extension gives you quick access to your bookmarks.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [oraz/bookmarksMenu](https://github.com/oraz/bookmarksMenu) - Bookmarks Menu extension for Google Chrome
