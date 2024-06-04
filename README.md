@@ -1123,7 +1123,6 @@
 - [liuhuanyong/EventTriplesExtraction](https://github.com/liuhuanyong/EventTriplesExtraction) - An experiment and demo-level tool for text information extraction (event-triples extraction),  which can be a route to the event chain and topic graph, 基于依存句法与语义角色标注的事件三元组抽取，可用于文本理解如文档主题链，事件线等应用。
 - [geekinglcq/CDCS](https://github.com/geekinglcq/CDCS) - Chinese Data Competitions' Solutions
 - [baiyang2464/chatbot-base-on-Knowledge-Graph](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph) - 使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统
-- [alibaba-research/ChineseBLUE](https://github.com/alibaba-research/ChineseBLUE) - Chinese Biomedical Language Understanding Evaluation benchmark (ChineseBLUE)
 - [lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
 - [GanjinZero/ChineseEHRBert](https://github.com/GanjinZero/ChineseEHRBert) - A Chinese EHR Bert Pretrained Model.
 - [Toyhom/Chinese-medical-dialogue-data](https://github.com/Toyhom/Chinese-medical-dialogue-data) - Chinese medical dialogue data 中文医疗对话数据集
