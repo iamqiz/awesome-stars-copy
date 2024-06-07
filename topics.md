@@ -1008,7 +1008,6 @@
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [JetBrains/rd](https://github.com/JetBrains/rd) - Reactive Distributed communication framework for .NET, Kotlin, C++. Inspired by Rider IDE.
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -1958,6 +1957,7 @@
 - [asamuzaK/url2clipboard](https://github.com/asamuzaK/url2clipboard) - Copy document URL / link URL to clipboard as HTML, Markdown, BBCode, Text, etc.
 - [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [GuocaiL/nlp_corpus](https://github.com/GuocaiL/nlp_corpus) - 本人项目进行中搜集的数据集，包含原始数据和经过处理后的数据，项目持续更新。
 - [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library based on G2.
