@@ -720,7 +720,7 @@
 - [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -2543,7 +2543,7 @@
 - [LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [Java-S12138/Record](https://github.com/Java-S12138/Record) - It is an application that query lol match.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
@@ -2832,7 +2832,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [BlackGlory/extension-binary-search](https://github.com/BlackGlory/extension-binary-search) - 🌳 The simplest and most effective way to locate a malicious or faulty extension
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [brrd/electron-tabs](https://github.com/brrd/electron-tabs) - Tab component for Electron
 - [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
