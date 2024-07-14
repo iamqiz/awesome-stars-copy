@@ -697,7 +697,7 @@
 ## dotnet 
 
 - [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
-- [d2phap/ExifGlass](https://github.com/d2phap/ExifGlass) - EXIF metadata viewing tool
+- [d2phap/ExifGlass](https://github.com/d2phap/ExifGlass) - 📷 EXIF metadata viewing tool
 - [dotnet/wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.
