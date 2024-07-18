@@ -85,6 +85,7 @@
 
 ## C 
 
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [winscp/winscp](https://github.com/winscp/winscp) - WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It supports also Amazon S3, FTPS, SCP and WebDAV protocols, as well as copying be
 - [nurupo/vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
@@ -270,6 +271,7 @@
 - [pkumod/gStore](https://github.com/pkumod/gStore) - gStore - a graph based RDF triple store.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [baidu/Familia](https://github.com/baidu/Familia) - A Toolkit for Industrial Topic Modeling
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
@@ -484,6 +486,7 @@
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly confi
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 - [arnim/HDP](https://github.com/arnim/HDP) - Gibbs sampler 4 the Hierarchical Dirichlet Process
 - [apache/jena](https://github.com/apache/jena) - Apache Jena
@@ -838,7 +841,6 @@
 - [GanjinZero/awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP) - 中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena) - Java后端知识图谱🔥 帮助Java初学者成长
-- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
 - [michaelliao/learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
 - [SnailTyan/deep-learning-papers-translation](https://github.com/SnailTyan/deep-learning-papers-translation) - 深度学习论文翻译，包括分类论文，检测论文等
@@ -850,7 +852,6 @@
 - [songyingxin/NLPer-Interview](https://github.com/songyingxin/NLPer-Interview) - 该仓库主要记录 NLP 算法工程师相关的面试题
 - [charlesXu86/Chatbot_CN](https://github.com/charlesXu86/Chatbot_CN) - 基于金融-司法领域(兼有闲聊性质)的聊天机器人，其中的主要模块有信息抽取、NLU、NLG、知识图谱等，并且利用Django整合了前端展示,目前已经封装了nlp和kg的restful接口
 - [shuhuai007/Machine-Learning-Session](https://github.com/shuhuai007/Machine-Learning-Session) - 
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [docker/for-win](https://github.com/docker/for-win) - Bug reports for Docker Desktop for Windows
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
