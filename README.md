@@ -7,6 +7,7 @@
 
 - [AutoHotkey](#autohotkey)
 - [AutoIt](#autoit)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -82,6 +83,10 @@
 ## AutoIt 
 
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+## Batchfile 
+
+- [HaujetZhao/Protect-Windows-Context-Menu](https://github.com/HaujetZhao/Protect-Windows-Context-Menu) - 
 
 ## C 
 
