@@ -361,6 +361,7 @@
 
 ## chatgpt 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-
 - [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
 - [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
@@ -1721,7 +1722,7 @@
 - [ge9/ExecuteCommand-Pipe](https://github.com/ge9/ExecuteCommand-Pipe) - A simple tool to run arbitrary commands from context menu in explorer.exe
 - [buchizo/ClaudiaIDE](https://github.com/buchizo/ClaudiaIDE) - This extension can change easily the background image of editor window in Visual Studio.
 - [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
-- [putyy/res-downloader](https://github.com/putyy/res-downloader) - 微信视频号、小程序、抖音、快手、小红书、酷狗音乐、qq音乐等网络资源下载!
+- [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、酷狗、QQ音乐等网络资源下载!
 - [livelycode36/markdown2potplayer](https://github.com/livelycode36/markdown2potplayer) - 生成potplayer正在播放的视频回链到可以使用makrdown类型的笔记软件中，例如：obsidian、typora、 logseq、notion等等。Generate a backlink of the video being played by potplayer to a makrdown-type note program. examples: obsidian, typora,  l
 - [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [MediaArea/MediaInfoLib](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files.
