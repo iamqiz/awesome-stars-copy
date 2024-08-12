@@ -1906,7 +1906,7 @@
 - [electron/remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 - [JetBrains/ideolog](https://github.com/JetBrains/ideolog) - Interactive viewer for '.log' files.
-- [HibiKier/zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) - 基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot
+- [HibiKier/zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) - 基于 Nonebot2 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [ankitects/anki-manual](https://github.com/ankitects/anki-manual) - Anki's manual
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
@@ -2975,6 +2975,7 @@
 
 ## windows 
 
+- [Chaoses-Ib/DirectoryOpus](https://github.com/Chaoses-Ib/DirectoryOpus) - 一款上手简单、系统集成度高、功能强大的 Windows 文件管理器
 - [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
