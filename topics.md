@@ -1688,6 +1688,7 @@
 
 ## numpy 
 
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [teadocs/numpy-cn](https://github.com/teadocs/numpy-cn) - NumPy官方中文文档（完整版）
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
@@ -1710,6 +1711,7 @@
 
 ## others 
 
+- [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [GoogleChromeLabs/text-editor](https://github.com/GoogleChromeLabs/text-editor) - A text editor build on the Native File System APIs
 - [GoogleChromeLabs/browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
