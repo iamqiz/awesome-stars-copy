@@ -505,6 +505,7 @@
 
 ## JavaScript 
 
+- [Chaoses-Ib/IbDOpusScripts](https://github.com/Chaoses-Ib/IbDOpusScripts) - Some scripts for Directory Opus.
 - [GoogleChromeLabs/text-editor](https://github.com/GoogleChromeLabs/text-editor) - A text editor build on the Native File System APIs
 - [GoogleChromeLabs/browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser
 - [gregnb/filemanager-webpack-plugin](https://github.com/gregnb/filemanager-webpack-plugin) - Copy, move, archive (zip/tar/tar.gz), delete files and directories before and after Webpack builds. Win32/Mac/*Nix supported
