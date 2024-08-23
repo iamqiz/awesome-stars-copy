@@ -505,6 +505,7 @@
 
 ## JavaScript 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [Chaoses-Ib/IbDOpusScripts](https://github.com/Chaoses-Ib/IbDOpusScripts) - Some scripts for Directory Opus.
 - [GoogleChromeLabs/text-editor](https://github.com/GoogleChromeLabs/text-editor) - A text editor build on the Native File System APIs
 - [GoogleChromeLabs/browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser
@@ -909,6 +910,7 @@
 
 ## Python 
 
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [muziing/PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial) - 可能是最好的PySide6中文教程！用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享！
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
@@ -939,7 +941,6 @@
 - [requests/requests-oauthlib](https://github.com/requests/requests-oauthlib) - OAuthlib support for Python-Requests!
 - [finalion/WordQuery](https://github.com/finalion/WordQuery) - word fast-querying addon for anki
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [Spico197/DocEE](https://github.com/Spico197/DocEE) - 🕹️ A toolkit for document-level event extraction, containing some SOTA model implementations.
 - [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
@@ -1316,6 +1317,7 @@
 
 ## TypeScript 
 
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
