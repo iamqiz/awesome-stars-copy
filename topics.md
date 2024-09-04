@@ -250,7 +250,7 @@
 - [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## angular 
 
@@ -777,7 +777,7 @@
 - [brrd/electron-tabs](https://github.com/brrd/electron-tabs) - Tab component for Electron
 - [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build AI Native IDE products. https://preview.opensumi.com
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 滚动截屏 Screenshot  OCR  search  translate  search for picture  paste the picture on the screen  screen recorder
+- [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
@@ -792,7 +792,7 @@
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [SeleniumHQ/selenium-ide](https://github.com/SeleniumHQ/selenium-ide) - Open Source record and playback test automation for the web.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## emacs 
@@ -1274,7 +1274,7 @@
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [dubox/jSearch](https://github.com/dubox/jSearch) - jSearch(聚搜) 是一款专注内容的chrome搜索扩展，一次搜索聚合多平台内容。
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [lusakasa/saka-key](https://github.com/lusakasa/saka-key) - A keyboard interface to the web
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
@@ -1736,7 +1736,7 @@
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## npm 
 
@@ -2151,7 +2151,7 @@
 - [yizhen20133868/Awesome-SLU-Survey](https://github.com/yizhen20133868/Awesome-SLU-Survey) - Tracking the progress in SLU (resources, code, and new frontiers etc.)
 - [wangle1218/KBQA-for-Diagnosis](https://github.com/wangle1218/KBQA-for-Diagnosis) - Knowledge Graph,Question Answering System，基于知识图谱和向量检索的医疗诊断问答系统
 - [bojone/BERT-whitening](https://github.com/bojone/BERT-whitening) - 简单的向量白化改善句向量质量
-- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
+- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
 - [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 - [CLUEbenchmark/FewCLUE](https://github.com/CLUEbenchmark/FewCLUE) - FewCLUE 小样本学习测评基准，中文版
 - [MatthieuCourbariaux/BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet) - Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1
@@ -2655,7 +2655,7 @@
 
 ## react-native 
 
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## reactjs 
 
