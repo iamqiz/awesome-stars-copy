@@ -88,6 +88,7 @@
 - [http](#http)
 - [https](#https)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [ipfs](#ipfs)
 - [java](#java)
@@ -1134,6 +1135,10 @@
 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
+## instagram 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
 ## ios 
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1980,7 +1985,7 @@
 - [electron/remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 - [JetBrains/ideolog](https://github.com/JetBrains/ideolog) - Interactive viewer for '.log' files.
-- [HibiKier/zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) - 基于 Nonebot2 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot
+- [HibiKier/zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) - 基于 Nonebot2 开发，非常可爱的绪山真寻bot
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [ankitects/anki-manual](https://github.com/ankitects/anki-manual) - Anki's manual
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
