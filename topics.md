@@ -3075,6 +3075,7 @@
 
 ## windows 
 
+- [xianyukang/MyKeymap](https://github.com/xianyukang/MyKeymap) - 一款基于 AutoHotkey 的键盘映射工具
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [idigdoug/TextTools](https://github.com/idigdoug/TextTools) - xargs for Windows (wargs), iconv for Windows (wconv), Text conversion library
 - [john-walks-slow/window-summoner](https://github.com/john-walks-slow/window-summoner) - 呼来唤去 - 全局老板键
