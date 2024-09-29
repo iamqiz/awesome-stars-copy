@@ -1985,7 +1985,7 @@
 - [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X
 - [cxasm/cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
-- [mark-wiemer-org/ahkpp](https://github.com/mark-wiemer-org/ahkpp) - AutoHotkey Plus Plus (AHK++) - AutoHotkey v1 and v2 support for VS Code
+- [mark-wiemer-org/ahkpp](https://github.com/mark-wiemer-org/ahkpp) - AutoHotkey Plus Plus (AHK++) - AutoHotkey v1 and v2 support for VS Code and Theia IDE
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 - [G33kDude/CodeQuickTester](https://github.com/G33kDude/CodeQuickTester) - Write and run AHK scripts without touching the file system.
@@ -2978,7 +2978,7 @@
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
-- [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
+- [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
