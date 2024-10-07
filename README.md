@@ -66,7 +66,7 @@
 - [john-walks-slow/window-summoner](https://github.com/john-walks-slow/window-summoner) - 呼来唤去 - 全局老板键
 - [flyinclouds/KBLAutoSwitch](https://github.com/flyinclouds/KBLAutoSwitch) - AHK自动切换中英文输入法，输入法，自动切换
 - [livelycode36/markdown2potplayer](https://github.com/livelycode36/markdown2potplayer) - 生成potplayer正在播放的视频回链到可以使用makrdown类型的笔记软件中，例如：obsidian、typora、 logseq、notion等等。Generate a backlink of the video being played by potplayer to a makrdown-type note program. examples: obsidian, typora,  l
-- [mark-wiemer-org/ahkpp](https://github.com/mark-wiemer-org/ahkpp) - AutoHotkey Plus Plus (AHK++) - AutoHotkey v1 and v2 support for VS Code and Theia IDE
+- [mark-wiemer-org/ahkpp](https://github.com/mark-wiemer-org/ahkpp) - AHK++ provides AutoHotkey v1 and v2 support for VS Code, Theia IDE, and more
 - [G33kDude/CodeQuickTester](https://github.com/G33kDude/CodeQuickTester) - Write and run AHK scripts without touching the file system.
 - [sxzxs/super-command](https://github.com/sxzxs/super-command) - Snippet management tools, if ahK python bat ...code, can be executed directly
 - [telppa/KMCounter](https://github.com/telppa/KMCounter) - Use heatmap to show mouse and keyboard usage. 使用热力图显示鼠标与键盘使用情况的工具。
@@ -518,6 +518,7 @@
 
 ## JavaScript 
 
+- [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
 - [hluk/copyq-commands](https://github.com/hluk/copyq-commands) - Useful commands for CopyQ clipboard manager.
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
