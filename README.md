@@ -982,7 +982,7 @@
 - [HibiKier/zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) - 基于 Nonebot2 开发，非常可爱的绪山真寻bot
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
 - [Infinidat/munch](https://github.com/Infinidat/munch) - A Munch is a Python dictionary that provides attribute-style access (a la JavaScript objects).
-- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages 📚
+- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - :snake: Python command-line client for tldr pages 📚
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [benjaminp/six](https://github.com/benjaminp/six) - Python 2 and 3 compatibility library
 - [xiangking/ark-nlp](https://github.com/xiangking/ark-nlp) - A private nlp coding package, which quickly implements the SOTA solutions.
@@ -1025,7 +1025,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [gaohongkui/TPLinker-NER](https://github.com/gaohongkui/TPLinker-NER) - TPlinker for NER 中文/英文命名实体识别
 - [v-mipeng/LexiconAugmentedNER](https://github.com/v-mipeng/LexiconAugmentedNER) - Reject complicated operations for incorporating lexicon for Chinese NER.
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 - [bojone/SimCSE](https://github.com/bojone/SimCSE) - SimCSE在中文任务上的简单实验
 - [alibaba-edu/simple-effective-text-matching-pytorch](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch) - A pytorch implementation of the ACL2019 paper "Simple and Effective Text Matching with Richer Alignment Features".
 - [StonyBrookNLP/deformer](https://github.com/StonyBrookNLP/deformer) - [ACL 2020] DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering
