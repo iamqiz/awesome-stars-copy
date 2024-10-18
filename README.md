@@ -938,7 +938,7 @@
 
 ## Python 
 
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle. （将PaddleOCR模型做了转换，采用ONNXRuntime推理，速度很快）
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
 - [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [muziing/PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial) - 可能是最好的PySide6中文教程！用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享！
