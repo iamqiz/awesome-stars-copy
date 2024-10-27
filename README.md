@@ -1349,6 +1349,7 @@
 
 ## TypeScript 
 
+- [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) - VS Code Hex Editor
