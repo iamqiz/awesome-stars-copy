@@ -145,6 +145,7 @@
 
 ## C# # 
 
+- [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-use, ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译、OCR工具
 - [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
 - [kvakulo/Switcheroo](https://github.com/kvakulo/Switcheroo) - The humble incremental-search task switcher for Windows
 - [dnGrep/dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
@@ -210,6 +211,7 @@
 
 ## C++ 
 
+- [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - [Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
 - [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and docu
 - [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 - [fcitx/fcitx5-rime](https://github.com/fcitx/fcitx5-rime) - 
@@ -846,6 +848,8 @@
 - [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
+- [MicrosoftDocs/Console-Docs](https://github.com/MicrosoftDocs/Console-Docs) - Windows Console Docs Repo
+- [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
@@ -938,8 +942,6 @@
 
 ## PowerShell 
 
-- [MicrosoftDocs/Console-Docs](https://github.com/MicrosoftDocs/Console-Docs) - Windows Console Docs Repo
-- [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 - [MicrosoftDocs/terminal](https://github.com/MicrosoftDocs/terminal) - 
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
@@ -1292,6 +1294,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [lz1998/ricq](https://github.com/lz1998/ricq) - Rust 高性能 QQ 协议（原RS-QQ）。Linux-musl运行内存1.6MB。
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
