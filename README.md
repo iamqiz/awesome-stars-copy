@@ -1016,7 +1016,7 @@
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [Spico197/DocEE](https://github.com/Spico197/DocEE) - 🕹️ A toolkit for document-level event extraction, containing some SOTA model implementations.
-- [keras-team/keras-hub](https://github.com/keras-team/keras-hub) - Pretrained model hub for Keras 3
+- [keras-team/keras-hub](https://github.com/keras-team/keras-hub) - Pretrained model hub for Keras 3.
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [bojone/GPLinker](https://github.com/bojone/GPLinker) - 基于GlobalPointer的实体/关系/事件抽取
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
