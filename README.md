@@ -105,6 +105,7 @@
 
 ## C 
 
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [m417z/winapiexec](https://github.com/m417z/winapiexec) - A small tool that allows to run WinAPI functions through command line parameters
 - [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
 - [Hansimov/csapp](https://github.com/Hansimov/csapp) - 个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/
@@ -238,6 +239,7 @@
 
 ## C++ 
 
+- [microsoft/Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
 - [x64dbg/snowman](https://github.com/x64dbg/snowman) - Snowman Decompiler for x64dbg (LOOKING FOR MAINTAINER)
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
@@ -376,7 +378,7 @@
 
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 - [mmims/language-batchfile](https://github.com/mmims/language-batchfile) - Windows batch file language support for Atom.
-- [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
+- [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - No longer maintained, see pinned issues
 
 ## Cython 
 
@@ -499,7 +501,7 @@
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
-- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 体验地址: https://lz.qaiu.top
+- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘. 专享版支持移动联通天翼云等大文件解析. 体验地址: https://lz.qaiu.top
 - [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
@@ -1528,7 +1530,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [ndp-software/keyboard-event-to-string](https://github.com/ndp-software/keyboard-event-to-string) - Convert a JavaScript keyboard event object into a canonical string
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
