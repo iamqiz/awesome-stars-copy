@@ -173,7 +173,7 @@
 - [icsharpcode/AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
 - [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 - [FlaUI/FlaUInspect](https://github.com/FlaUI/FlaUInspect) - Inspect tool to inspect UIs from an automation perspective
-- [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即用即走的翻译、OCR工具
+- [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 - [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
 - [kvakulo/Switcheroo](https://github.com/kvakulo/Switcheroo) - The humble incremental-search task switcher for Windows
 - [dnGrep/dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
@@ -226,7 +226,7 @@
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [elvirbrk/NoteHighlight2016](https://github.com/elvirbrk/NoteHighlight2016) - Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit)
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray core and sing-box-core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
 - [leafOfTree/WindowTabs](https://github.com/leafOfTree/WindowTabs) - A utility that brings browser-style tabbed window management to the desktop.
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
@@ -1144,7 +1144,7 @@
 - [bojone/kg-2019](https://github.com/bojone/kg-2019) - 2019年百度的三元组抽取比赛，“科学空间队”源码
 - [bojone/lic2020_baselines](https://github.com/bojone/lic2020_baselines) - some baselines for lic2020 (http://lic2020.cipsc.org.cn/)
 - [ShannonAI/mrc-for-flat-nested-ner](https://github.com/ShannonAI/mrc-for-flat-nested-ner) - Code for ACL 2020 paper `A Unified MRC Framework for Named Entity Recognition`
-- [weizhepei/CasRel](https://github.com/weizhepei/CasRel) - A Novel Cascade Binary Tagging Framework for Relational Triple Extraction. Accepted by ACL 2020.
+- [weizhepei/CasRel](https://github.com/weizhepei/CasRel) - [ACL 2020] A Novel Cascade Binary Tagging Framework for Relational Triple Extraction
 - [longlongman/CasRel-pytorch-reimplement](https://github.com/longlongman/CasRel-pytorch-reimplement) - Pytorch reimplement of the paper "A Novel Cascade Binary Tagging Framework for Relational Triple Extraction" ACL2020. The original code is written in keras.
 - [onewaymyway/DuEE_2020](https://github.com/onewaymyway/DuEE_2020) - 2020语言与智能技术竞赛：事件抽取任务方案代码
 - [qiufengyuyi/event_extraction](https://github.com/qiufengyuyi/event_extraction) - baidu aistudio event extraction competition
