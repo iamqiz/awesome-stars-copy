@@ -916,7 +916,7 @@
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [gejun123456/MyBatisCodeHelper-Pro](https://github.com/gejun123456/MyBatisCodeHelper-Pro) - 
 - [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
-- [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 820 KB，提供输入跟踪提示 + 超级热键，可将各种桌面应用快速接入 AI  大模型
+- [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 818 KB，提供输入跟踪提示 + 超级热键，可将各种桌面应用快速接入 AI  大模型
 - [nndl/solutions](https://github.com/nndl/solutions) - 《神经网络与深度学习》课后习题答案-分享讨论
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
