@@ -412,7 +412,7 @@
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -1110,7 +1110,7 @@
 - [DianboWork/Graph4CNER](https://github.com/DianboWork/Graph4CNER) - Source code for the paper "Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network"
 - [RowitZou/LGN](https://github.com/RowitZou/LGN) - EMNLP-2019 paper: A Lexicon-based Graph Neural Network for Chinese NER.
 - [autoliuweijie/FastBERT](https://github.com/autoliuweijie/FastBERT) - The score code of FastBERT (ACL2020)
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+- [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [fastnlp/fitlog](https://github.com/fastnlp/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
 - [LeeSureman/Flat-Lattice-Transformer](https://github.com/LeeSureman/Flat-Lattice-Transformer) - code for ACL 2020 paper: FLAT: Chinese NER Using Flat-Lattice Transformer
 - [jiesutd/LatticeLSTM](https://github.com/jiesutd/LatticeLSTM) - Chinese NER using Lattice LSTM. Code for ACL 2018 paper.
