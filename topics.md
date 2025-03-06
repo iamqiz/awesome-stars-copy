@@ -2507,7 +2507,7 @@
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
-- [shillyshallysxy/Learning_NLP](https://github.com/shillyshallysxy/Learning_NLP) - Learning nlp and reproduce some papers
+- [xingyu-shi/Learning_NLP](https://github.com/xingyu-shi/Learning_NLP) - Learning nlp and reproduce some papers
 - [arnim/HDP](https://github.com/arnim/HDP) - Gibbs sampler 4 the Hierarchical Dirichlet Process
 - [wo52616111/capslock-plus](https://github.com/wo52616111/capslock-plus) - An efficiency tool that provides various functions by enhancing the Caps Lock key into a modifier key.
 - [WenRichard/KBQA-BERT](https://github.com/WenRichard/KBQA-BERT) - 基于知识图谱的问答系统，BERT做命名实体识别和句子相似度，分为online和outline模式
@@ -2664,7 +2664,7 @@
 - [muziing/PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial) - 可能是最好的PySide6中文教程！用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享！
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
-- [Zzaphkiel/Seraphine](https://github.com/Zzaphkiel/Seraphine) - 英雄联盟战绩查询工具
+- [Zzaphkiel/Seraphine](https://github.com/Zzaphkiel/Seraphine) - 
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
