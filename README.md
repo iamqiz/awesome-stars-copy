@@ -254,6 +254,7 @@
 - [lokeshgovindu/AltTab](https://github.com/lokeshgovindu/AltTab) - AltTab is a small application created in C++, Win32, is an alternative for windows native task switcher (Alt+Tab / Alt+Shift+Tab).
 - [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - [Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
 - [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and docu
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 - [fcitx/fcitx5-rime](https://github.com/fcitx/fcitx5-rime) - 
 - [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、快速选择扩展
@@ -465,6 +466,7 @@
 
 ## HTML 
 
+- [MicrosoftDocs/edge-developer](https://github.com/MicrosoftDocs/edge-developer) - Developer documentation for Edge.
 - [lunarmodules/luasocket](https://github.com/lunarmodules/luasocket) - Network support for the Lua language
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
@@ -588,7 +590,6 @@
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) - API samples for the Universal Windows Platform.
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
 - [hluk/copyq-commands](https://github.com/hluk/copyq-commands) - Useful commands for CopyQ clipboard manager.
