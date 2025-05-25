@@ -1976,6 +1976,7 @@
 
 ## others 
 
+- [LeagueAkari/LeagueAkari](https://github.com/LeagueAkari/LeagueAkari) - Toolkit for League of Legends
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
