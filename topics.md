@@ -537,6 +537,7 @@
 
 ## clash 
 
+- [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
@@ -867,6 +868,7 @@
 
 ## electron 
 
+- [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [caorushizi/mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with deskto
@@ -945,7 +947,6 @@
 ## firefox 
 
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -2022,7 +2023,7 @@
 - [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
 - [G33kDude/cJson.ahk](https://github.com/G33kDude/cJson.ahk) - AutoHotkey JSON library using embedded C for high performance
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 - [hansifer/tab-copy](https://github.com/hansifer/tab-copy) - A browser extension for copying tabs to the clipboard in a variety of formats.
 - [scaleflex/filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor) - Edit, resize, and filter any image! Any questions or issues, please report to https://github.com/scaleflex/filerobot-image-editor/issues
