@@ -1987,6 +1987,7 @@
 
 ## others 
 
+- [Tebayaki/HotGestures](https://github.com/Tebayaki/HotGestures) - An AutoHotkey library for creating and recognizing any custom mouse gestures.
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
