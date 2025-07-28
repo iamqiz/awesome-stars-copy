@@ -598,7 +598,6 @@
 - [hluk/copyq-commands](https://github.com/hluk/copyq-commands) - Useful commands for CopyQ clipboard manager.
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
-- [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 - [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli) - CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [Chaoses-Ib/IbDOpusScripts](https://github.com/Chaoses-Ib/IbDOpusScripts) - Some scripts for Directory Opus.
@@ -701,7 +700,6 @@
 - [whitescent/KFC-Crazy-Thursday](https://github.com/whitescent/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [alanhe421/toolbox-browser-extensionx](https://github.com/alanhe421/toolbox-browser-extensionx) - 一键checkout项目，打开JB- IDE
-- [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [TheoXiong/electron-find](https://github.com/TheoXiong/electron-find) - :mag: Find all matches for the text in the web page
 - [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
@@ -807,6 +805,7 @@
 - [facebookresearch/InferSent](https://github.com/facebookresearch/InferSent) - InferSent sentence embeddings
 - [rkadlec/ubuntu-ranking-dataset-creator](https://github.com/rkadlec/ubuntu-ranking-dataset-creator) - A script that creates train, valid and test datasets for the ranking task from Ubuntu corpus dialogs.
 - [dennybritz/chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval) - Dual LSTM Encoder for Dialog Response Generation
+- [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) - The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle.
 - [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning) - My blogs and code for machine learning. http://cnblogs.com/pinard
 
@@ -1011,7 +1010,7 @@
 
 ## Python 
 
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
@@ -1330,7 +1329,6 @@
 - [tensorflow/nmt](https://github.com/tensorflow/nmt) - TensorFlow Neural Machine Translation Tutorial
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [boudinfl/pke](https://github.com/boudinfl/pke) - Python Keyphrase Extraction module
-- [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) - The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle.
 - [JiJingYu/tensorflow-exercise](https://github.com/JiJingYu/tensorflow-exercise) - 
 - [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
 - [zhiguowang/BiMPM](https://github.com/zhiguowang/BiMPM) - BiMPM: Bilateral Multi-Perspective Matching for Natural Language Sentences
@@ -1468,6 +1466,7 @@
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) - VS Code Hex Editor
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+- [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 - [wvit/web-document](https://github.com/wvit/web-document) - A browser extension for saving web documents locally, allowing you to access them offline and quickly search for webpage content without an internet connection, while also saving browser memory usage.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [gregnb/filemanager-webpack-plugin](https://github.com/gregnb/filemanager-webpack-plugin) - Copy, move, archive (zip/tar/tar.gz), delete files and directories before and after Webpack builds. Win32/Mac/*Nix supported
@@ -1562,6 +1561,7 @@
 - [mark-wiemer/ahkpp](https://github.com/mark-wiemer/ahkpp) - AHK++ provides AutoHotkey v1 and v2 support for VS Code, Theia IDE, and more
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [oleg-shilo/codemap.vscode](https://github.com/oleg-shilo/codemap.vscode) - Code map (syntax tree) of the active document
+- [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
