@@ -1214,7 +1214,7 @@
 - [loujie0822/DeepIE](https://github.com/loujie0822/DeepIE) - DeepIE: Deep Learning for Information Extraction
 - [longpeng2008/yousan.ai](https://github.com/longpeng2008/yousan.ai) - Awesome resources of yousan.ai(closely related to deep learning).
 - [ymcui/cmrc2019](https://github.com/ymcui/cmrc2019) - A Sentence Cloze Dataset for Chinese Machine Reading Comprehension (CMRC 2019)
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [ymcui/cmrc2018](https://github.com/ymcui/cmrc2018) - A Span-Extraction Dataset for Chinese Machine Reading Comprehension  (CMRC 2018)
 - [allenai/bi-att-flow](https://github.com/allenai/bi-att-flow) - Bi-directional Attention Flow (BiDAF) network is a multi-stage hierarchical process that represents context at different levels of granularity and uses a bi-directional attention flow mechanism to ach
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
