@@ -1543,7 +1543,6 @@
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
-- [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog) - A colored formatter for the python logging module
 - [itext/itext-java](https://github.com/itext/itext-java) - iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabi
 - [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
@@ -2035,6 +2034,7 @@
 
 ## others 
 
+- [lch319/XiaoYao_QuickJump](https://github.com/lch319/XiaoYao_QuickJump) - 在打开或保存对话框中，快速跳转到当前 资源管理器/TC/DO/XY/Q-Dir中打开的文件夹路径
 - [madskristensen/RainbowBraces](https://github.com/madskristensen/RainbowBraces) - A Visual Studio extension
 - [kristoffer-tvera/mute-current-application](https://github.com/kristoffer-tvera/mute-current-application) - Autohotkey script to mute the current application
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
