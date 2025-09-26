@@ -538,7 +538,6 @@
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [turbanoff/RunConfigurationAsAction](https://github.com/turbanoff/RunConfigurationAsAction) - Provides a way to use IntelliJ run configurations as buttons
 - [4ch1m/ChangelistOrganizer](https://github.com/4ch1m/ChangelistOrganizer) - Automated Changelist Organizing for IntelliJ IDEA
-- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [youtube/api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
@@ -557,7 +556,7 @@
 - [kstenschke/referencer-plugin](https://github.com/kstenschke/referencer-plugin) - "Referencer" plugin for Jetbrains IDEs
 - [fuzhengwei/guide-idea-plugin](https://github.com/fuzhengwei/guide-idea-plugin) - IDEA Plugin 插件开发可以帮助研发人员提升能效，解决一些实际场景中的共性问题。但最近在折腾IDEA插件开发的时候，市面的资料确实不多，也没有成体系完整的开发指导手册，所以就遇到了很多不知道就不会的事情，需要一点点查询搜索源码、验证API接口，最终把各项功能实现，当然在这个过程中也确实踩了不少坑！接下来在这个专栏会把一些关于 IDEA 插件开发用到的各项知识做成案例输出出来，帮助有需要的研
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-- [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
+- [JetBrains/fernflower](https://github.com/JetBrains/fernflower) - Decompiler from Java bytecode to Java, used in IntelliJ IDEA.
 - [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 - [gozhuyinglong/blog-demos](https://github.com/gozhuyinglong/blog-demos) - 这个代码仓库里是博客中涉及的源码、文件等 ；如果对您有帮助，请给个Star，感谢~
 - [kitabatake/CodeReadingNote](https://github.com/kitabatake/CodeReadingNote) - 
@@ -704,6 +703,7 @@
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [csapuntz/siteblock](https://github.com/csapuntz/siteblock) - Siteblock chrome extension
 - [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
+- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
 - [leolee9086/snippets](https://github.com/leolee9086/snippets) - 
 - [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
