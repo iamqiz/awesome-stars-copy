@@ -110,6 +110,7 @@
 
 ## C 
 
+- [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 - [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
@@ -1029,6 +1030,7 @@
 
 ## Python 
 
+- [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
@@ -1186,7 +1188,7 @@
 - [longlongman/CasRel-pytorch-reimplement](https://github.com/longlongman/CasRel-pytorch-reimplement) - Pytorch reimplement of the paper "A Novel Cascade Binary Tagging Framework for Relational Triple Extraction" ACL2020. The original code is written in keras.
 - [onewaymyway/DuEE_2020](https://github.com/onewaymyway/DuEE_2020) - 2020语言与智能技术竞赛：事件抽取任务方案代码
 - [qiufengyuyi/event_extraction](https://github.com/qiufengyuyi/event_extraction) - baidu aistudio event extraction competition
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [zhoujx4/NLP-Series-relation-extraction](https://github.com/zhoujx4/NLP-Series-relation-extraction) - NLP关系抽取：序列标注、层叠式指针网络、Multi-head Selection、Deep Biaffine Attention
 - [dwadden/dygiepp](https://github.com/dwadden/dygiepp) - Span-based system for named entity, relation, and event extraction.
 - [kingbase/bilingual-pdf](https://github.com/kingbase/bilingual-pdf) - 由英文PDF生成双语PDF，回归母语加速长篇英文阅读！
