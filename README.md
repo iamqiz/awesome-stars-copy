@@ -1464,7 +1464,6 @@
 
 ## TeX 
 
-- [cplusplus/draft](https://github.com/cplusplus/draft) - C++ standards drafts
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 
@@ -1584,7 +1583,7 @@
 - [terwer/sy-post-publisher](https://github.com/terwer/sy-post-publisher) - Note: This is 0.x for widget at https://github.com/terwer/sy-post-publisher/tree/v081 . For new plugin version, please visit: https://github.com/terwer/siyuan-plugin-publisher
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
+- [google-admin/blockly](https://github.com/google-admin/blockly) - The web-based visual programming editor.
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
