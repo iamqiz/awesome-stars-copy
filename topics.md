@@ -2093,6 +2093,7 @@
 
 ## others 
 
+- [basildane/WakeOnLAN](https://github.com/basildane/WakeOnLAN) - Wake On LAN, WakeOnLAN, shutdown software for Windows. A powerful WOL, ping, shutdown, GUI application.
 - [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
 - [GoogleChrome/chrome-types](https://github.com/GoogleChrome/chrome-types) - Code to parse Chrome's internal extension type definitions—published on NPM as chrome-types
 - [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
