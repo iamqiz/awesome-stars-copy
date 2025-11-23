@@ -2093,6 +2093,7 @@
 
 ## others 
 
+- [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10）
 - [basildane/WakeOnLAN](https://github.com/basildane/WakeOnLAN) - Wake On LAN, WakeOnLAN, shutdown software for Windows. A powerful WOL, ping, shutdown, GUI application.
 - [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
 - [GoogleChrome/chrome-types](https://github.com/GoogleChrome/chrome-types) - Code to parse Chrome's internal extension type definitions—published on NPM as chrome-types
@@ -2508,7 +2509,7 @@
 - [RowitZou/LGN](https://github.com/RowitZou/LGN) - EMNLP-2019 paper: A Lexicon-based Graph Neural Network for Chinese NER.
 - [autoliuweijie/FastBERT](https://github.com/autoliuweijie/FastBERT) - The score code of FastBERT (ACL2020)
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
-- [m417z/7-Taskbar-Tweaker](https://github.com/m417z/7-Taskbar-Tweaker) - Windows Taskbar Customization Tool
+- [m417z/7-Taskbar-Tweaker](https://github.com/m417z/7-Taskbar-Tweaker) - A Windows taskbar customization tool for Windows 7, Windows 8, and Windows 10
 - [fastnlp/fitlog](https://github.com/fastnlp/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
 - [LeeSureman/Flat-Lattice-Transformer](https://github.com/LeeSureman/Flat-Lattice-Transformer) - code for ACL 2020 paper: FLAT: Chinese NER Using Flat-Lattice Transformer
 - [jiesutd/LatticeLSTM](https://github.com/jiesutd/LatticeLSTM) - Chinese NER using Lattice LSTM. Code for ACL 2018 paper.
