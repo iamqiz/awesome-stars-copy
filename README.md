@@ -752,7 +752,6 @@
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [JetBrains/toolbox-browser-extension](https://github.com/JetBrains/toolbox-browser-extension) - JetBrains Toolbox App browser extension
 - [asamuzaK/url2clipboard](https://github.com/asamuzaK/url2clipboard) - Copy document URL / link URL to clipboard as HTML, Markdown, Plain Text, etc.
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [wshanks/Zutilo](https://github.com/wshanks/Zutilo) - Zotero plugin providing some additional editing features
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
@@ -1621,6 +1620,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library based on G2.
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [StarlaneStudios/vscode-comment-anchors](https://github.com/StarlaneStudios/vscode-comment-anchors) - ⚓A Visual Studio Code extension that adds support for comment anchors 🔭
 - [yuhaofe/Quick-Bookmarks-Menu](https://github.com/yuhaofe/Quick-Bookmarks-Menu) - A chrome extension gives you quick access to your bookmarks.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
