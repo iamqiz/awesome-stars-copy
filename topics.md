@@ -2282,7 +2282,7 @@
 - [nurupo/vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
 - [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 - [hanwenma/simple-upload](https://github.com/hanwenma/simple-upload) - 
-- [koajs/router](https://github.com/koajs/router) - Router middleware for Koa. Maintained by @forwardemail and @ladjs.
+- [koajs/router](https://github.com/koajs/router) - Router middleware for Koa.
 - [jzfai/vue3-admin-template](https://github.com/jzfai/vue3-admin-template) - 🎉 A new generation vue3 admin template, It's easy and fast!
 - [traceless/alist-encrypt](https://github.com/traceless/alist-encrypt) - 这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能，同时在 webdav 下的操作透明，自动实现文件资源的加解密。
 - [AlistGo/desktop-release](https://github.com/AlistGo/desktop-release) - 
