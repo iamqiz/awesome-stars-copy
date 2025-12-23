@@ -2155,6 +2155,7 @@
 
 ## others 
 
+- [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用）
 - [basildane/WakeOnLAN](https://github.com/basildane/WakeOnLAN) - Wake On LAN, WakeOnLAN, shutdown software for Windows. A powerful WOL, ping, shutdown, GUI application.
 - [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
