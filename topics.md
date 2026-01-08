@@ -177,6 +177,7 @@
 - [programming](#programming)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -258,7 +259,6 @@
 
 ## agent 
 
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
@@ -267,7 +267,7 @@
 ## ai 
 
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -491,7 +491,6 @@
 
 ## chatbot 
 
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 - [pandolia/qqbot](https://github.com/pandolia/qqbot) - QQBot: A conversation robot base on Tencent's SmartQQ
 - [mesolitica/NLP-Models-Tensorflow](https://github.com/mesolitica/NLP-Models-Tensorflow) - Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 &lt; Tensorflow &lt; 2.0
@@ -1112,7 +1111,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -1302,7 +1301,7 @@
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [dotnet/winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
@@ -1692,7 +1691,6 @@
 ## llm 
 
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [keras-team/keras-hub](https://github.com/keras-team/keras-hub) - Pretrained model hub for Keras 3.
@@ -2059,7 +2057,7 @@
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ classic, reliable, trusted JavaScript test framework for Node.js & the browser
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
@@ -2146,7 +2144,6 @@
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -2196,6 +2193,7 @@
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
 - [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add custom effect to global system title bar, support win10 and win11.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 - [pypa/get-pip](https://github.com/pypa/get-pip) - Helper scripts to install pip, in a Python installation that doesn't have it.
 - [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
@@ -2247,7 +2245,6 @@
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 - [imniko/SetDPI](https://github.com/imniko/SetDPI) - 
-- [amazon-science/auto-cot](https://github.com/amazon-science/auto-cot) - Official implementation for "Automatic Chain of Thought Prompting in Large Language Models" (stay tuned & more will be updated)
 - [gepruts/QuickSwitch](https://github.com/gepruts/QuickSwitch) - Uses opened file manager folders in File dialogs
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [wvit/web-document](https://github.com/wvit/web-document) - A browser extension for saving web documents locally, allowing you to access them offline and quickly search for webpage content without an internet connection, while also saving browser memory usage.
@@ -2905,6 +2902,11 @@
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
+## prompt-engineering 
+
+- [amazon-science/auto-cot](https://github.com/amazon-science/auto-cot) - Official implementation for "Automatic Chain of Thought Prompting in Large Language Models" (stay tuned & more will be updated)
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+
 ## publishing 
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -2918,7 +2920,7 @@
 ## python 
 
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -3044,7 +3046,7 @@
 
 ## pytorch 
 
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
@@ -3358,7 +3360,7 @@
 
 ## stable-diffusion 
 
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
@@ -3597,7 +3599,7 @@
 
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [element-plus/element-plus-playground](https://github.com/element-plus/element-plus-playground) - Element Plus Playground
