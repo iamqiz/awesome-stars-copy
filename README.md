@@ -18,6 +18,7 @@
 - [CoffeeScript](#coffeescript)
 - [Cython](#cython)
 - [Dart](#dart)
+- [Fluent](#fluent)
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -412,6 +413,10 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
+## Fluent 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
 ## Gherkin 
 
 - [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
@@ -615,7 +620,6 @@
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) - API samples for the Universal Windows Platform.
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
 - [hluk/copyq-commands](https://github.com/hluk/copyq-commands) - Useful commands for CopyQ clipboard manager.
