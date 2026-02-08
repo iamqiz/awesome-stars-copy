@@ -1021,7 +1021,7 @@
 ## PowerShell 
 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [mlocati/gettext-iconv-windows](https://github.com/mlocati/gettext-iconv-windows) - gettext and iconv binaries for Windows
+- [mlocati/gettext-iconv-windows](https://github.com/mlocati/gettext-iconv-windows) - gettext and iconv binaries and libraries/development files for Windows
 - [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
 - [kerol2r20/Windows-terminal-context-menu](https://github.com/kerol2r20/Windows-terminal-context-menu) - 📃 This is a simple script to add right click context menu for your best Windows terminal ❤
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
