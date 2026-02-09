@@ -378,7 +378,6 @@
 - [logseq/logseq-plugin-samples](https://github.com/logseq/logseq-plugin-samples) - Logseq plugin samples for beginner 🌱
 - [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
-- [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [ankitects/anki-manual](https://github.com/ankitects/anki-manual) - Anki's manual
 - [JetBrains/jetbrains_guide](https://github.com/JetBrains/jetbrains_guide) - JetBrains Guides where Developer Advocacy and the community share ideas.
 - [Zuoqiu-Yingyi/siyuan-theme-dark-plus](https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus) - 思源笔记的一款多功能双模式主题 | A multifunctional dual-mode theme of SiYuan Note.
@@ -502,6 +501,7 @@
 - [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
+- [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [coralsw/CapsEz](https://github.com/coralsw/CapsEz) - KeyMouse Tools
 - [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
 - [wyagd001/wyagd001.github.io](https://github.com/wyagd001/wyagd001.github.io) - 个人主页, Autohotkey  中文帮助, 自用脚本介绍
