@@ -946,7 +946,7 @@
 - [km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes) - 该仓库主要记录 NLP 算法工程师相关的面试题
 - [gejun123456/MyBatisCodeHelper-Pro](https://github.com/gejun123456/MyBatisCodeHelper-Pro) - 
 - [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
-- [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 860 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
+- [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 895 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
 - [nndl/solutions](https://github.com/nndl/solutions) - 《神经网络与深度学习》课后习题答案-分享讨论
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
@@ -1471,7 +1471,7 @@
 ## TypeScript 
 
 - [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺All-in-One browser extension to enhance your video watching experience.
