@@ -1110,7 +1110,7 @@
 - [Tongjilibo/bert4torch](https://github.com/Tongjilibo/bert4torch) - An elegent pytorch implement of transformers
 - [GuocaiL/nlp_corpus](https://github.com/GuocaiL/nlp_corpus) - 本人项目进行中搜集的数据集，包含原始数据和经过处理后的数据，项目持续更新。
 - [invl/pip-autoremove](https://github.com/invl/pip-autoremove) - Remove a package and its unused dependencies.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [nyu-mll/GLUE-baselines](https://github.com/nyu-mll/GLUE-baselines) - [DEPRECATED] Repo for exploring multi-task learning approaches to learning sentence representations
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
