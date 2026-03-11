@@ -173,7 +173,7 @@
 
 - [awulkiew/exclude-from-build](https://github.com/awulkiew/exclude-from-build) - ExcludeFromBuild extension for Visual Studio
 - [madskristensen/RainbowBraces](https://github.com/madskristensen/RainbowBraces) - A Visual Studio extension
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
 - [canheo136/QuickLook.Plugin.ApkViewer](https://github.com/canheo136/QuickLook.Plugin.ApkViewer) - Android package preview for QuickLook
 - [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery) - This app demonstrates the controls available in WinUI and the Fluent Design System.
