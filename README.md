@@ -527,7 +527,7 @@
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
-- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘/移动/联通/天翼云等. 支持文件夹分享解析. 体验地址: https://189.qaiu.top
+- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘/移动/联通/天翼云/wps等. 支持文件夹分享解析. 体验地址: https://189.qaiu.top
 - [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 - [SuperMonster003/AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
@@ -1487,7 +1487,7 @@
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [hansifer/tab-copy](https://github.com/hansifer/tab-copy) - A browser extension for copying tabs to the clipboard in a variety of formats.
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with deskto
+- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + web.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
