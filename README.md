@@ -1489,7 +1489,7 @@
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [hansifer/tab-copy](https://github.com/hansifer/tab-copy) - A browser extension for copying tabs to the clipboard in a variety of formats.
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + web.
+- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
