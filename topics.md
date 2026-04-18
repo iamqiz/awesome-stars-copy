@@ -996,7 +996,7 @@
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + web.
+- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -3584,7 +3584,7 @@
 ## video 
 
 - [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺All-in-One browser extension to enhance your video watching experience.
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + web.
+- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [MediaArea/MediaInfoLib](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
@@ -3835,7 +3835,7 @@
 ## youtube 
 
 - [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺All-in-One browser extension to enhance your video watching experience.
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + web.
+- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [iamfugui/youtube-adb](https://github.com/iamfugui/youtube-adb) - A script to remove YouTube ads, including static ads and video ads, without interfering with the network and ensuring safety.  脚本用于移除YouTube广告，包括静态广告和视频广告。不会干扰网络，安全。
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
