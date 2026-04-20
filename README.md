@@ -527,7 +527,7 @@
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
-- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘/移动/联通/天翼云/wps等. 支持文件夹分享解析. 体验地址: https://189.qaiu.top
+- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top https://189.qaiu.top
 - [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 - [SuperMonster003/AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
