@@ -2209,7 +2209,7 @@
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
-- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - 万象拼音：基于rime生态打造，全方位对标大厂体验，内置大语料与AI辅助炼制的向量词库和语法模型，全带调编码词库，让输入行云流水，开箱即用。更有PRO版带来辅助码创新体验，支持7种辅助码。集成超级注释、候选反查筛选、快符、手动排序、tips等特色扩展功能，让你保证大厂体验的同时，深度享受 Rime 超强自定义的便利。详见README。Q群：11033572满 / 11631066
+- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066
 - [Yaozhuwa/easy-typing-obsidian](https://github.com/Yaozhuwa/easy-typing-obsidian) - This is a plugin of obsidian for users writing in an easy way.
 - [Quorafind/Obsidian-Float-Search](https://github.com/Quorafind/Obsidian-Float-Search) - A plugin for searching text by using Obsidian default search view.
 - [LeagueAkari/LeagueAkari](https://github.com/LeagueAkari/LeagueAkari) - An all-in-one toolkit for LeagueClient. Gathering power 🚀.
@@ -2434,7 +2434,7 @@
 - [Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan](https://github.com/Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan) - 绪山真寻 bot 的思源笔记插件
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-- [whitescent/KFC-Crazy-Thursday](https://github.com/whitescent/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
+- [rin0chan/KFC-Crazy-Thursday](https://github.com/rin0chan/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
 - [JetBrains/jcef](https://github.com/JetBrains/jcef) - A simple framework for embedding Chromium-based browsers into Java-based applications.
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
