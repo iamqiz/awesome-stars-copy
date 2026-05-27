@@ -895,6 +895,7 @@
 - [JetBrains/intellij-sdk-docs](https://github.com/JetBrains/intellij-sdk-docs) - IntelliJ SDK Platform Documentation
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
+- [iflytek/HFL-Anthology](https://github.com/iflytek/HFL-Anthology) - Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 ## Mustache 
 
@@ -957,7 +958,7 @@
 - [aardio/Gif123](https://github.com/aardio/Gif123) - Record an area of your desktop to a GIF, easily copy and paste it wherever you want.
 - [carrie0307/DL_EventExtractionPapers](https://github.com/carrie0307/DL_EventExtractionPapers) - 2015年以来基于深度学习方法的事件抽取论文整理
 - [liucongg/NLPDataSet](https://github.com/liucongg/NLPDataSet) - 记录本人整理的一些数据集
-- [FudanNLP/nlp-beginner](https://github.com/FudanNLP/nlp-beginner) - NLP上手教程
+- [nndl/llm-beginner](https://github.com/nndl/llm-beginner) - NLP上手教程
 - [pluto-junzeng/CNSD](https://github.com/pluto-junzeng/CNSD) - 中文自然语言推理数据集（A large-scale Chinese Nature language inference and Semantic similarity calculation Dataset）
 - [miaomiaosoft/PandaOCR](https://github.com/miaomiaosoft/PandaOCR) - PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
 - [leerumor/nlp_tutorial](https://github.com/leerumor/nlp_tutorial) - NLP超强入门指南，包括各任务sota模型汇总（文本分类、文本匹配、序列标注、文本生成、语言模型），以及代码、技巧
@@ -1132,7 +1133,7 @@
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [phanein/deepwalk](https://github.com/phanein/deepwalk) - DeepWalk - Deep Learning for Graphs
-- [fastnlp/TENER](https://github.com/fastnlp/TENER) - Codes for "TENER: Adapting Transformer Encoder for Named Entity Recognition"
+- [FudanNLP/TENER](https://github.com/FudanNLP/TENER) - Codes for "TENER: Adapting Transformer Encoder for Named Entity Recognition"
 - [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
 - [PetarV-/GAT](https://github.com/PetarV-/GAT) - Graph Attention Networks (https://arxiv.org/abs/1710.10903)
@@ -1156,7 +1157,7 @@
 - [RowitZou/LGN](https://github.com/RowitZou/LGN) - EMNLP-2019 paper: A Lexicon-based Graph Neural Network for Chinese NER.
 - [autoliuweijie/FastBERT](https://github.com/autoliuweijie/FastBERT) - The score code of FastBERT (ACL2020)
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-- [fastnlp/fitlog](https://github.com/fastnlp/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
+- [FudanNLP/fitlog](https://github.com/FudanNLP/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
 - [LeeSureman/Flat-Lattice-Transformer](https://github.com/LeeSureman/Flat-Lattice-Transformer) - code for ACL 2020 paper: FLAT: Chinese NER Using Flat-Lattice Transformer
 - [jiesutd/LatticeLSTM](https://github.com/jiesutd/LatticeLSTM) - Chinese NER using Lattice LSTM. Code for ACL 2018 paper.
 - [ZhuiyiTechnology/simbert](https://github.com/ZhuiyiTechnology/simbert) - a bert for retrieval and generation
@@ -1238,7 +1239,7 @@
 - [dpranke/pyjson5](https://github.com/dpranke/pyjson5) - A Python implementation of the JSON5 data format
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [ZhuiyiTechnology/WoBERT](https://github.com/ZhuiyiTechnology/WoBERT) - 以词为基本单位的中文BERT
-- [fastnlp/fastNLP](https://github.com/fastnlp/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
+- [FudanNLP/fastNLP](https://github.com/FudanNLP/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [loujie0822/DeepIE](https://github.com/loujie0822/DeepIE) - DeepIE: Deep Learning for Information Extraction
 - [longpeng2008/yousan.ai](https://github.com/longpeng2008/yousan.ai) - Awesome resources of yousan.ai(closely related to deep learning).
