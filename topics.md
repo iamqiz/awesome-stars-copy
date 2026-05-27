@@ -887,7 +887,7 @@
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
-- [fastnlp/fastNLP](https://github.com/fastnlp/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
+- [FudanNLP/fastNLP](https://github.com/FudanNLP/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [MLNLP-World/Top-AI-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) - MLNLP: This repository is a collection of AI top conferences papers (e.g. ACL, EMNLP, NAACL, COLING, AAAI, IJCAI, ICLR, NeurIPS, and ICML) with open resource code
 - [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - novel deep learning research works with PaddlePaddle
@@ -1952,7 +1952,7 @@
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 - [lionsoul2014/jcseg](https://github.com/lionsoul2014/jcseg) - Jcseg is a light weight NLP framework developed with Java. Provide CJK and English segmentation based on MMSEG algorithm, With also keywords extraction, key sentence extraction, summary extraction imp
-- [fastnlp/fastNLP](https://github.com/fastnlp/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
+- [FudanNLP/fastNLP](https://github.com/FudanNLP/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
 - [ymcui/cmrc2019](https://github.com/ymcui/cmrc2019) - A Sentence Cloze Dataset for Chinese Machine Reading Comprehension (CMRC 2019)
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [ymcui/cmrc2018](https://github.com/ymcui/cmrc2018) - A Span-Extraction Dataset for Chinese Machine Reading Comprehension  (CMRC 2018)
@@ -2580,7 +2580,7 @@
 - [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [phanein/deepwalk](https://github.com/phanein/deepwalk) - DeepWalk - Deep Learning for Graphs
-- [fastnlp/TENER](https://github.com/fastnlp/TENER) - Codes for "TENER: Adapting Transformer Encoder for Named Entity Recognition"
+- [FudanNLP/TENER](https://github.com/FudanNLP/TENER) - Codes for "TENER: Adapting Transformer Encoder for Named Entity Recognition"
 - [0ui/gif-scrubber](https://github.com/0ui/gif-scrubber) - Control animated gifs like a video player in Chrome
 - [sergiokas/Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions
 - [raryelcostasouza/pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - pyTranscriber can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface.
@@ -2589,7 +2589,7 @@
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [carrie0307/DL_EventExtractionPapers](https://github.com/carrie0307/DL_EventExtractionPapers) - 2015年以来基于深度学习方法的事件抽取论文整理
 - [liucongg/NLPDataSet](https://github.com/liucongg/NLPDataSet) - 记录本人整理的一些数据集
-- [FudanNLP/nlp-beginner](https://github.com/FudanNLP/nlp-beginner) - NLP上手教程
+- [nndl/llm-beginner](https://github.com/nndl/llm-beginner) - NLP上手教程
 - [v-mipeng/LexiconAugmentedNER](https://github.com/v-mipeng/LexiconAugmentedNER) - Reject complicated operations for incorporating lexicon for Chinese NER.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [NVIDIA/tensorflow](https://github.com/NVIDIA/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -2614,7 +2614,7 @@
 - [autoliuweijie/FastBERT](https://github.com/autoliuweijie/FastBERT) - The score code of FastBERT (ACL2020)
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 - [m417z/7-Taskbar-Tweaker](https://github.com/m417z/7-Taskbar-Tweaker) - A Windows taskbar customization tool for Windows 7, Windows 8, and Windows 10
-- [fastnlp/fitlog](https://github.com/fastnlp/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
+- [FudanNLP/fitlog](https://github.com/FudanNLP/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
 - [LeeSureman/Flat-Lattice-Transformer](https://github.com/LeeSureman/Flat-Lattice-Transformer) - code for ACL 2020 paper: FLAT: Chinese NER Using Flat-Lattice Transformer
 - [jiesutd/LatticeLSTM](https://github.com/jiesutd/LatticeLSTM) - Chinese NER using Lattice LSTM. Code for ACL 2018 paper.
 - [ZhuiyiTechnology/simbert](https://github.com/ZhuiyiTechnology/simbert) - a bert for retrieval and generation
@@ -2717,6 +2717,7 @@
 - [WizTeam/WizNoteLite](https://github.com/WizTeam/WizNoteLite) - WizNote Lite Project
 - [longpeng2008/yousan.ai](https://github.com/longpeng2008/yousan.ai) - Awesome resources of yousan.ai(closely related to deep learning).
 - [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
+- [iflytek/HFL-Anthology](https://github.com/iflytek/HFL-Anthology) - Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [sogou/SogouMRCToolkit](https://github.com/sogou/SogouMRCToolkit) - This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes.
 - [brightmart/roberta_zh](https://github.com/brightmart/roberta_zh) - RoBERTa中文预训练模型: RoBERTa for Chinese
