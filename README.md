@@ -958,7 +958,6 @@
 - [aardio/Gif123](https://github.com/aardio/Gif123) - Record an area of your desktop to a GIF, easily copy and paste it wherever you want.
 - [carrie0307/DL_EventExtractionPapers](https://github.com/carrie0307/DL_EventExtractionPapers) - 2015年以来基于深度学习方法的事件抽取论文整理
 - [liucongg/NLPDataSet](https://github.com/liucongg/NLPDataSet) - 记录本人整理的一些数据集
-- [nndl/llm-beginner](https://github.com/nndl/llm-beginner) - NLP上手教程
 - [pluto-junzeng/CNSD](https://github.com/pluto-junzeng/CNSD) - 中文自然语言推理数据集（A large-scale Chinese Nature language inference and Semantic similarity calculation Dataset）
 - [miaomiaosoft/PandaOCR](https://github.com/miaomiaosoft/PandaOCR) - PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
 - [leerumor/nlp_tutorial](https://github.com/leerumor/nlp_tutorial) - NLP超强入门指南，包括各任务sota模型汇总（文本分类、文本匹配、序列标注、文本生成、语言模型），以及代码、技巧
@@ -1141,6 +1140,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [gaohongkui/TPLinker-NER](https://github.com/gaohongkui/TPLinker-NER) - TPlinker for NER 中文/英文命名实体识别
+- [nndl/llm-beginner](https://github.com/nndl/llm-beginner) - LLM、Agent上手教程
 - [v-mipeng/LexiconAugmentedNER](https://github.com/v-mipeng/LexiconAugmentedNER) - Reject complicated operations for incorporating lexicon for Chinese NER.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [bojone/SimCSE](https://github.com/bojone/SimCSE) - SimCSE在中文任务上的简单实验
