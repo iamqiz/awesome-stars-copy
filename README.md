@@ -75,7 +75,7 @@
 - [Tebayaki/AutoHotkeyScripts](https://github.com/Tebayaki/AutoHotkeyScripts) - My AutoHotkey scripts and libraries collection
 - [G33kDude/cJson.ahk](https://github.com/G33kDude/cJson.ahk) - AutoHotkey JSON library using embedded C for high performance
 - [wyagd001/RuYi-Ahk](https://github.com/wyagd001/RuYi-Ahk) - 一款快速运行自定义动作的软件, 动作可以打开文件, 运行程序, 发送按键,显示菜单和自定义的其他动作.
-- [abgox/InputTip](https://github.com/abgox/InputTip) - 输入法状态管理: 实时提示 + 状态切换
+- [abgox/InputTip](https://github.com/abgox/InputTip) - 规则驱动的输入法状态管理器 · 即时 · 强大 · 高效
 - [xianyukang/MyKeymap](https://github.com/xianyukang/MyKeymap) - 一款基于 AutoHotkey 的键盘映射工具
 - [gepruts/QuickSwitch](https://github.com/gepruts/QuickSwitch) - Uses opened file manager folders in File dialogs
 - [john-walks-slow/window-summoner](https://github.com/john-walks-slow/window-summoner) - 呼来唤去 - 全局老板键
