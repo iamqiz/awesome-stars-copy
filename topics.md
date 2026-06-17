@@ -2209,6 +2209,7 @@
 
 ## others 
 
+- [cristianadam/qt-creator-tabbededitor](https://github.com/cristianadam/qt-creator-tabbededitor) - Qt Creator Tabbed Editor Plugin
 - [qt-creator/qt-creator](https://github.com/qt-creator/qt-creator) - A cross-platform Qt IDE
 - [qt-creator/extension-registry](https://github.com/qt-creator/extension-registry) - Qt Creator extension registry
 - [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM, XPSNR & VMAF) calculated by ffmpeg.exe
