@@ -256,6 +256,7 @@
 
 ## C++ 
 
+- [cristianadam/qt-creator-tabbededitor](https://github.com/cristianadam/qt-creator-tabbededitor) - Qt Creator Tabbed Editor Plugin
 - [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 - [qt-creator/qt-creator](https://github.com/qt-creator/qt-creator) - A cross-platform Qt IDE
 - [pixop/video-compare](https://github.com/pixop/video-compare) - Split-screen video comparison tool using FFmpeg and SDL2
