@@ -1322,7 +1322,7 @@
 - [huangxiangzhou/NLPCC2016KBQA](https://github.com/huangxiangzhou/NLPCC2016KBQA) - KBQA based on the NLPCC2016 dataset, including reimplementation of NLPCC2016 best team`s QA.
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [Determined22/zh-NER-TF](https://github.com/Determined22/zh-NER-TF) - A very simple BiLSTM-CRF model for Chinese Named Entity Recognition 中文命名实体识别 (TensorFlow)
-- [lcdevelop/ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse) - 自己动手做聊天机器人教程
+- [chinawithfrank/ChatBotCourse](https://github.com/chinawithfrank/ChatBotCourse) - 自己动手做聊天机器人教程
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [huggingface/transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) - 🦄 State-of-the-Art Conversational AI with Transfer Learning
 - [chartbeat-labs/textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy
