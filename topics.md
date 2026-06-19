@@ -2796,7 +2796,7 @@
 - [conll/reference-coreference-scorers](https://github.com/conll/reference-coreference-scorers) - This is the reference implementation of commonly used coreference metrics.
 - [huangxiangzhou/NLPCC2016KBQA](https://github.com/huangxiangzhou/NLPCC2016KBQA) - KBQA based on the NLPCC2016 dataset, including reimplementation of NLPCC2016 best team`s QA.
 - [taku910/crfpp](https://github.com/taku910/crfpp) - CRF++: Yet Another CRF toolkit
-- [lcdevelop/ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse) - 自己动手做聊天机器人教程
+- [chinawithfrank/ChatBotCourse](https://github.com/chinawithfrank/ChatBotCourse) - 自己动手做聊天机器人教程
 - [blmoistawinde/hello_world](https://github.com/blmoistawinde/hello_world) - 博客文章开源代码分享区
 - [songyingxin/NLPer-Interview](https://github.com/songyingxin/NLPer-Interview) - 该仓库主要记录 NLP 算法工程师相关的面试题
 - [openai/multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) - Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
