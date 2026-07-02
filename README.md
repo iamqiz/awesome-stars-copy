@@ -977,7 +977,7 @@
 - [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [pluto-junzeng/ChineseSquad](https://github.com/pluto-junzeng/ChineseSquad) - 中文机器阅读理解数据集
 - [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
-- [MLNLP-World/Top-AI-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) - MLNLP: This repository is a collection of AI top conferences papers (e.g. ACL, EMNLP, NAACL, COLING, AAAI, IJCAI, ICLR, NeurIPS, and ICML) with open resource code
+- [MLNLP-World/Top-AI-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) - MLNLP：本仓库整理人工智能会议（如 ACL、EMNLP、NAACL、COLING、AAAI、IJCAI、ICLR、NeurIPS、ICML 等）中开源代码的论文。
 - [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) - 收集一些 Intellij IDEA 的一些技巧
 - [husthuke/awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) - 整理知识图谱相关学习资料
 - [thunlp/THUOCL](https://github.com/thunlp/THUOCL) - THUOCL（THU Open Chinese Lexicon）中文词库
@@ -1483,7 +1483,6 @@
 ## TypeScript 
 
 - [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools) - 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
-- [ipid/unlock-music](https://github.com/ipid/unlock-music) - 在浏览器中解锁加密的音乐文件。原仓库： 1. https://github.com/unlock-music/unlock-music ；2. https://git.unlock-music.dev/um/web
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
