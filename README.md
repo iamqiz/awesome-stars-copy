@@ -1128,7 +1128,7 @@
 - [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
 - [guofei9987/scikit-opt](https://github.com/guofei9987/scikit-opt) - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling sales
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
-- [saleguas/freshen-file-sorter](https://github.com/saleguas/freshen-file-sorter) - A super-convenient Python file sorter that attaches to your context menu!
+- [salasaurusrex/freshen-file-sorter](https://github.com/salasaurusrex/freshen-file-sorter) - A super-convenient Python file sorter that attaches to your context menu!
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [CBLUEbenchmark/CBLUE](https://github.com/CBLUEbenchmark/CBLUE) - [CBLUE1] 中文医疗信息处理基准CBLUE: A Chinese Biomedical Language Understanding Evaluation Benchmark
 - [magical2world/tf-hierarchical-rnn](https://github.com/magical2world/tf-hierarchical-rnn) - 
