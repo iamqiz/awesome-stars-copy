@@ -2581,7 +2581,7 @@
 - [m417z/Textify](https://github.com/m417z/Textify) - A tool for Windows to copy text from dialogs and controls which don't allow it otherwise
 - [snolab/CapsLockX](https://github.com/snolab/CapsLockX) - Manipulate your computer like a hacker! 像黑客一样操作电脑！
 - [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
-- [saleguas/freshen-file-sorter](https://github.com/saleguas/freshen-file-sorter) - A super-convenient Python file sorter that attaches to your context menu!
+- [salasaurusrex/freshen-file-sorter](https://github.com/salasaurusrex/freshen-file-sorter) - A super-convenient Python file sorter that attaches to your context menu!
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
